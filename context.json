@@ -1,0 +1,95 @@
+{
+	"definitions": {
+		"uuid": {
+			"type": "string",
+			"anyOf": [
+				{ "format": "uuid" },
+				{ "pattern": "^bk:[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-4[0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}$" }
+			]
+		},
+		"uuidArray": {
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/uuid"
+			},
+			"uniqueItems": true
+		},
+		"base": {
+			"properties": {
+				"id": {
+					"$ref": "#/definitions/uuid"
+				},
+				"title": {
+					"type": "string"
+				},
+				"replacedBy": {
+					"$ref": "#/definitions/uuidArray"
+				},
+				"replaces" : {
+					"$ref": "#/definitions/uuidArray"
+				}
+			},		
+			"required": ["id","title"]
+		},
+		"doelniveau": {
+			"type": "object",
+			"properties": {
+				"id": {
+					"$ref": "#/definitions/uuid"
+				},
+				"doel_id": {
+					"allOf": [ 
+						{"$ref": "#/definitions/uuidArray"},
+						{
+							"items": {
+								"sloref": "#/definitions/doel"
+							}
+						}
+					 ]	
+				},
+				"niveau_id": {
+					"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
+					"sloref": "#/definitions/niveau"
+				}
+			},
+			"required": ["id","doel_id","niveau_id"]
+		},
+		"doel": {
+			"$ref": "#/definitions/base"
+		},
+		"niveau": {
+			"$ref": "#/definitions/base"
+		}
+	},
+	"$id": "http://curriculum.slo.nl/schemas/kern",
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"type": "object",
+	"properties": {
+		"doelniveau": {
+			"#file": "data/doelniveaus.json",
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/doelniveau"
+			}
+		},
+		"doel": {
+			"#file": "data/doelen.json",
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/doel"
+			}
+		},
+		"niveau": {
+			"#file": "data/niveaus.json",
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/niveau"
+			}
+		},
+		"deprecated": {
+			"#file": "data/deprecated.json",
+			"type" : "array"
+		}
+	},
+	"required": ["doelniveau","doel","niveau"]
+}
