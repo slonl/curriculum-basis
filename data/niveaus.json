@@ -1,54 +1,93 @@
 [
 	{
+		"prefix": "1000",
+		"title": "po",
 		"id": "bk:512e4729-03a4-43a2-95ba-758071d1b725",
-		"title": "po"
+		"description": "Primair Onderwijs",
+		"type": "Sector"
 	},
 	{
-		"id": "bk:9716fc83-479c-48da-be13-2fdd74e3b692",
-		"title": "ob vmbo bl"
+		"prefix": "3101",
+		"title": "ob vmbo bb",
+		"id": "50d3e467-28c8-4c42-a0fe-e0000819ba39",
+		"description": "VMBO basisberoepsgerichte leerweg, onderbouw",
+		"type": "Opleiding"
 	},
 	{
-		"id": "bk:05d90293-e675-44f4-bcd7-1f67161f6734",
-		"title": "ob vmbo gl"
+		"prefix": "3103",
+		"title": "ob vmbo gl",
+		"id": "01aede69-edcd-4352-97e8-e16cb5d0015e",
+		"description": "VMBO gemengde leerweg, onderbouw",
+		"type": "Opleiding"
 	},
 	{
-		"id": "bk:30ce6ff5-d654-4a97-a6d4-9c8936f87ca6",
-		"title": "ob vmbo kl"
+		"prefix": "3102",
+		"title": "ob vmbo kb",
+		"id": "2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+		"description": "VMBO kaderberoepsgerichte leerweg, onderbouw",
+		"type": "Opleiding"
 	},
 	{
-		"id": "bk:90a5a228-e8de-473d-84cc-a915bf6107dd",
-		"title": "ob vmbo tl"
+		"prefix": "3104",
+		"title": "ob vmbo tl",
+		"id": "c63858da-23e4-4e1e-8456-b4aa13a6a826",
+		"description": "VMBO theoretische leerweg, onderbouw",
+		"type": "Opleiding"
 	},
 	{
-		"id": "bk:af3ecd88-a654-4458-9c5b-1e1f7d09f463",
-		"title": "ob havo"
+		"prefix": "4107",
+		"title": "ob havo",
+		"id": "5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+		"description": "HAVO, onderbouw",
+		"type": "Sector"
 	},
 	{
-		"id": "bk:b924d4ad-65a1-41dc-b704-c7786eb4aec0",
-		"title": "ob vwo"
+		"prefix": "4150",
+		"title": "ob vwo",
+		"id": "b5a4f104-fb2d-4c71-8f36-702d9567a752",
+		"description": "VWO, onderbouw",
+		"type": "Sector"
 	},
 	{
-		"id": "bk:45403807-f052-4e09-a95c-b2e1c10c6c89",
-		"title": "bb vmbo bl"
+		"prefix": "3501",
+		"title": "bb vmbo bb",
+		"id": "861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+		"description": "VMBO basisberoepsgerichte leerweg, bovenbouw",
+		"type": "Opleiding"
 	},
 	{
-		"id": "bk:ee1eada7-7866-45e6-b1d8-b7062a8fe08a",
-		"title": "bb vmbo gl"
+		"prefix": "3503",
+		"title": "bb vmbo gl",
+		"id": "64852857-b601-419f-9cbb-e1335a185303",
+		"description": "VMBO gemengde leerweg, bovenbouw",
+		"type": "Opleiding"
 	},
 	{
-		"id": "bk:e72dacdd-968b-40ac-ad2c-8bd14c24e89f",
-		"title": "bb vmbo kl"
+		"prefix": "3507",
+		"title": "bb vmbo kb",
+		"id": "8574855d-0670-42bf-9f73-dc6706278b8b",
+		"description": "VMBO kaderberoepsgerichte leerweg, bovenbouw",
+		"type": "Opleiding"
 	},
 	{
-		"id": "bk:84f30df0-f194-435e-98c8-c4559756ec24",
-		"title": "bb vmbo tl"
+		"prefix": "3504",
+		"title": "bb vmbo tl",
+		"id": "8450c011-f812-4f89-97a9-6b8820baffc5",
+		"description": "VMBO theoretische leerweg, bovenbouw",
+		"type": "Opleiding"
 	},
 	{
-		"id": "bk:cb61531d-61eb-4412-a52f-ca065ca37e39",
-		"title": "bb havo"
+		"prefix": "4600",
+		"title": "bb havo",
+		"id": "6dc8e1f2-a929-418f-b4e5-6be1204639da",
+		"description": "HAVO, bovenbouw",
+		"type": "Sector"
 	},
 	{
-		"id": "bk:85d15c83-e2b4-4359-8475-a355591aaa1a",
-		"title": "bb vwo"
+		"prefix": "4700",
+		"title": "bb vwo",
+		"id": "caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+		"description": "VWO, bovenbouw",
+		"type": "Sector"
 	}
 ]
