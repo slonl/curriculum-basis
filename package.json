@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "ajv": "^6.5.5",
+    "jsondiffpatch": "^0.3.11",
     "uuid": "^3.3.2"
   }
 }
