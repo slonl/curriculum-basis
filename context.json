@@ -1,5 +1,4 @@
-{
-	"definitions": {
+{	"definitions": {
 		"uuid": {
 			"type": "string",
 			"anyOf": [
@@ -28,7 +27,7 @@
 				"replaces" : {
 					"$ref": "#/definitions/uuidArray"
 				}
-			},		
+			},
 			"required": ["id","title"]
 		},
 		"doelniveau": {
@@ -38,18 +37,18 @@
 					"$ref": "#/definitions/uuid"
 				},
 				"doel_id": {
-					"allOf": [ 
+					"allOf": [
 						{"$ref": "#/definitions/uuidArray"},
 						{
 							"items": {
-								"sloref": "#/definitions/doel"
+								"itemTypeReference": "#/definitions/doel"
 							}
 						}
-					 ]	
+					 ]
 				},
 				"niveau_id": {
 					"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
-					"sloref": "#/definitions/niveau"
+					"itemTypeReference": "#/definitions/niveau"
 				}
 			},
 			"required": ["id","doel_id","niveau_id"]
@@ -59,12 +58,22 @@
 		},
 		"niveau": {
 			"$ref": "#/definitions/base"
+		},
+		"kerndoel": {
+			"$ref": "#/definitions/base"
 		}
 	},
 	"$id": "http://curriculum.slo.nl/schemas/kern",
 	"$schema": "http://json-schema.org/draft-07/schema#",
 	"type": "object",
 	"properties": {
+		"kerndoel": {
+			"#file": "data/kerndoelen.json",
+			"type": "array",
+			"items": {
+				"$ref": "#/definitions/kerndoel"
+			}
+		},
 		"doelniveau": {
 			"#file": "data/doelniveaus.json",
 			"type" : "array",
@@ -84,6 +93,28 @@
 			"type" : "array",
 			"items": {
 				"$ref": "#/definitions/niveau"
+			}
+		},
+		"alias": {
+			"#file": "data/alias.json",
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"doel_id": {
+						"$ref": "#/definitions/uuid"
+					},
+					"title": {
+						"type": "string"
+					},
+					"description": {
+						"type": "string"
+					},
+					"parent_id": {
+						"$ref": "#/definitions/uuid"
+					}
+				},
+				"required": ["doel_id","parent_id","title"]
 			}
 		},
 		"deprecated": {
