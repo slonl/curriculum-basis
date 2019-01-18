@@ -81,3 +81,18 @@ This function replaces an existing entity with one or more new entities. The new
 `void curriculum.exportFiles(schema, string repositoryPath)`
 
 This function writes all data back to their corresponding json files, as defined in the JSON schema file originally loaded.
+
+
+## validating the data
+
+Running the test script validates the dataset:
+
+```
+npm test
+```
+
+This uses the `context.json` JSON schema for validation. The JSON schema has two custom extensions:
+
+- `#file` contains the path to retrieve and export each collection from and to
+- `itemTypeReference` specifies what type each uuid identifier should map to
+
