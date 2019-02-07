@@ -4,7 +4,7 @@
   "description": "Curriculum Kern Context",
   "main": "context.json",
   "scripts": {
-    "test": "test"
+    "test": "node test/test.js"
   },
   "author": "SLO",
   "license": "MIT",
