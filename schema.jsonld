@@ -1,0 +1,28 @@
+{
+	"@context": {
+		"doel": "http://opendata.slo.nl/curriculum/schemas/doel.jsonld",
+		"id": {
+			"@id": "@id"
+		},
+		"title": {
+			"@id": "http://purl.org/dc/terms/title",
+			"@type": "@id"
+		},
+		"description": {
+			"@id": "http://purl.org/dc/terms/description",
+			"@type": "@id"
+		},
+		"Doel": {
+			"@id": "doel:#Doel"
+		},
+		"Niveau": {
+			"@id": "doel:#Niveau"
+		},
+		"DoelNiveau": {
+			"@id": "doel:#DoelNiveau"
+		},
+		"Alias": {
+			"@id": "doel:#Alias"
+		}
+	}
+}
