@@ -28,6 +28,7 @@
 			console.log(error.dataPath+': '+error.message);
 		});
 		console.log('data is invalid');
+		process.exit(1);
 	} else {
 		console.log('data is valid!');
 	}
