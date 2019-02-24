@@ -1,4 +1,5 @@
-{	"definitions": {
+{
+	"definitions": {
 		"uuid": {
 			"type": "string",
 			"anyOf": [
@@ -59,21 +60,11 @@
 		"niveau": {
 			"$ref": "#/definitions/base"
 		},
-		"kerndoel": {
-			"$ref": "#/definitions/base"
-		}
 	},
 	"$id": "http://curriculum.slo.nl/schemas/kern",
 	"$schema": "http://json-schema.org/draft-07/schema#",
 	"type": "object",
 	"properties": {
-		"kerndoel": {
-			"#file": "data/kerndoelen.json",
-			"type": "array",
-			"items": {
-				"$ref": "#/definitions/kerndoel"
-			}
-		},
 		"doelniveau": {
 			"#file": "data/doelniveaus.json",
 			"type" : "array",
