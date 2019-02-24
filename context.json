@@ -59,7 +59,7 @@
 		},
 		"niveau": {
 			"$ref": "#/definitions/base"
-		},
+		}
 	},
 	"$id": "http://curriculum.slo.nl/schemas/kern",
 	"$schema": "http://json-schema.org/draft-07/schema#",
