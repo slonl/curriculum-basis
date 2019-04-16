@@ -61,8 +61,8 @@
 			"$ref": "#/definitions/base"
 		}
 	},
-	"$id": "http://curriculum.slo.nl/schemas/kern",
-	"$schema": "http://json-schema.org/draft-07/schema#",
+	"$id": "https://curriculum.slo.nl/schemas/curriculum-doelen/context.json",
+	"$schema": "https://json-schema.org/draft-07/schema#",
 	"type": "object",
 	"properties": {
 		"doelniveau": {
