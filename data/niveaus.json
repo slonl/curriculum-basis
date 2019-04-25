@@ -89,5 +89,47 @@
 		"id": "caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
 		"description": "VWO, bovenbouw",
 		"type": "Sector"
+	},
+	{
+		"prefix": "3100",
+		"title": "ob vmbo",
+		"id": "c2ad90a9-30fb-49f2-89c2-bd269b60a784",
+		"description": "VMBO, onderbouw",
+		"type": "Sector"
+	},
+	{
+		"prefix": "0002",
+		"title": "so nl/ml",
+		"id": "f9b25c20-9017-425b-8d3c-360ab6b5c222",
+		"description": "so nl/ml",
+		"type": "Opleiding"
+	},
+	{
+		"prefix": "0001",
+		"title": "so zml/mg",
+		"id": "edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
+		"description": "so zml/mg",
+		"type": "Opleiding"
+	},
+	{
+		"prefix": "1550",
+		"title": "vso",
+		"id": "bk:dbbc3e87-a848-4425-912a-d494e43e5e59",
+		"description": "Voortgezet speciaal onderwijs",
+		"type": "Opleiding"
+	},
+	{
+		"prefix": "1552",
+		"title": "vso am",
+		"id": "bdc4744f-79df-4795-8795-2fee50c7416a",
+		"description": "vso am",
+		"type": "Opleiding"
+	},
+	{
+		"prefix": "1551",
+		"title": "vso db",
+		"id": "d617dd33-ec39-479f-ac9f-4ab219cab54d",
+		"description": "vso db",
+		"type": "Opleiding"
 	}
 ]

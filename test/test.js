@@ -19,9 +19,11 @@
 
 	var curriculum = require('../lib/curriculum.js');
 	var schema     = curriculum.loadSchema('context.json');
+	var kerndoelSchema = curriculum.loadSchema('curriculum-kerndoelen/context.json', 'curriculum-kerndoelen/');
 
-	var valid = ajv.addSchema(schema, 'http://opendata.slo.nl/curriculum/schemas/doelen')
-	               .validate('http://opendata.slo.nl/curriculum/schemas/doelen', curriculum.data);
+	var valid = ajv.addSchema(kerndoelSchema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-kerndoelen/context.json')
+					.addSchema(schema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json')
+	               .validate('https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json', curriculum.data);
 
 	if (!valid) {
 		ajv.errors.forEach(function(error) {

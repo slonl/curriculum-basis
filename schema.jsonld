@@ -23,6 +23,9 @@
 		},
 		"Alias": {
 			"@id": "doel:#Alias"
+		},
+		"Deprecated": {
+			"@id": "doel:#Deprecated"
 		}
 	}
 }

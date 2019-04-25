@@ -45,11 +45,21 @@
 								"itemTypeReference": "#/definitions/doel"
 							}
 						}
-					 ]
+					]
 				},
 				"niveau_id": {
 					"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
 					"itemTypeReference": "#/definitions/niveau"
+				},
+				"kerndoel_id": {
+					"allOf": [ 
+						{"$ref": "#/definitions/uuidArray"},
+						{
+							"items": {
+								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-kerndoelen/context.json#/definitions/kerndoel"
+							}
+						}
+					]
 				}
 			},
 			"required": ["id","doel_id","niveau_id"]
@@ -62,7 +72,7 @@
 		}
 	},
 	"$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json",
-	"$schema": "https://json-schema.org/draft-07/schema#",
+	"$schema": "http://json-schema.org/draft-07/schema#",
 	"type": "object",
 	"properties": {
 		"doelniveau": {
@@ -106,6 +116,22 @@
 					}
 				},
 				"required": ["doel_id","parent_id","title"]
+			}
+		},
+		"tag": {
+			"#file": "data/tags.json",
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"id": {
+						"$ref": "#/definitions/uuid"
+					},
+					"title": {
+						"type": "string"
+					}
+				},
+				"required": ["id","title"]
 			}
 		},
 		"deprecated": {
