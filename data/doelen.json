@@ -17138,7 +17138,7 @@
 		"title": "Je zet percentages om in een vermenigvuldigingsfactor en omgekeerd en je rekent daar mee."
 	},
 	{
-		"id": "9b796662-319d-4982-9ffe-953519e55513",
+		"id": "81856731-b4a3-4462-ba6d-84b84d369c73",
 		"prefix": "6.",
 		"title": "Je rekent in meetkunde en gebruikt bijbehorende vaktaal"
 	},
@@ -17978,1012 +17978,676 @@
 		"title": "Je kunt informatie verwerken"
 	},
 	{
-		"id": "6e9c0013-bfab-4534-b946-8c52c114fb5f",
+		"id": "322b463b-b8d5-4fe2-8564-9fc10ddd6008",
 		"title": "Je verwerft inzicht in wat techniek is en wat de werkwijze kan zijn om tot de oplossing van een technisch probleem te komen.",
 		"description": ""
 	},
 	{
-		"id": "695e6779-a090-48db-8a7c-b118dbd86ea6",
+		"id": "32ce8762-96b1-435b-bb14-efe666eb866b",
 		"title": "Je legt uit de werkwijze en het gebruik van hulpmiddelen en materialen om tot de oplossing van een technisch probleem te komen."
 	},
 	{
-		"id": "9a8d8951-435f-4f94-ba25-53184c1d386f",
+		"id": "d7e19924-6b9c-4367-86f2-b57969826924",
 		"title": "Je verwerft inzicht over het bewerken van materialen om met een bepaalde fysieke structuur een gewenste functie te realiseren.",
 		"description": ""
 	},
 	{
-		"id": "942ed7cf-cf1e-47f1-b0ef-3ba66bf2db49",
+		"id": "1842c236-fa34-490f-ba84-f6bd0dcd1b9a",
 		"title": "Je benoemt de correcte benaming van bepaalde traditionele en nieuwe materialen, gereedschappen en bewerkingen."
 	},
 	{
-		"id": "62b4a2f5-b16e-4232-b75a-460f443cc1fa",
+		"id": "dd338b1a-a454-4d87-9054-3618e50f3486",
 		"title": "Je analyseert en past  materiaaleigenschappen (mechanische, natuurkundige, chemische, technologische) toe in verschillende situaties."
 	},
 	{
-		"id": "2eacf5d2-2522-4f32-a5d5-f00066d0f685",
+		"id": "7ff343f7-1a32-4ee6-901d-827b8b83ed8f",
 		"title": "Je legt aan de hand van de functiedriehoek uit waar een product voor dient en legt een relatie tussen functie, vorm, materiaal en de  manier van bewerking."
 	},
 	{
-		"id": "548e3bf7-abee-41be-aa43-00a711292b07",
+		"id": "2cee76e8-5050-408b-b5cc-b111650b4abb",
 		"title": "Je legt uit de bewerkingen en verbindingen en de daarbij horende eigenschappen."
 	},
 	{
-		"id": "0d39c283-48e8-4e14-8ae1-4d390ef2add6",
+		"id": "025f546b-f294-41d6-a36a-7b3013b66ee3",
 		"title": "Je verwerft inzicht over hoe energietransport kan plaatsvinden om te komen tot een product met een bepaalde functie."
 	},
 	{
-		"id": "716acc07-ef20-4eef-b7a1-71729aec2693",
+		"id": "37131143-7874-4a93-8857-02bd99ba2ac7",
 		"title": "Je legt uit vormen van energietransport en geeft daarvan voorbeelden."
 	},
 	{
-		"id": "bd634456-df63-49e4-8a86-03b8f9c56ecc",
+		"id": "d009d293-54e9-45f0-8d8f-d592d9db58d7",
 		"title": "Je beschrijft verschillende typen overbrengingen (b.v. hefbomen), Je deelt concrete overbrengingen in en Je beoordeelt de keuze van de overbrenging voor de betreffende toepassing."
 	},
 	{
-		"id": "085aa6d1-84df-4d2b-b669-4a25a37cbdf2",
+		"id": "3e6f72fc-643d-4273-81ca-bdc95a0b8068",
 		"title": "Je bepaalt bij een hefboom krachten, armen en draaipunt bepalen en Je past in evenwichtssituaties de hefboomregel (F1 * r1 = F2 * r2) toe en legt deze uit."
 	},
 	{
-		"id": "8625d332-a7ba-433b-80d0-60566c0b46af",
+		"id": "52c37b24-c543-42a2-89aa-4c9a23fb5237",
 		"title": "Je hebt kennis van het begrip rendement (in relatie tot energiebehoud in de natuurkunde) en past deze kennis toe om het rendement van een apparaat te berekenen."
 	},
 	{
-		"id": "9a7c8b68-d7d8-4099-843c-7ad196ff0fa9",
+		"id": "80a69713-41b6-4f1c-9c73-b9ea6f6180b2",
 		"title": "Je verwerft inzicht over  hoe een gegeven systeem kan worden geanalyseerd, zodat Je de werking en functie ervan kan uitleggen."
 	},
 	{
-		"id": "dca3b5c9-6863-4f72-bb93-f93c38b8c7a3",
+		"id": "1fb5648f-175a-4f7f-90a4-b278a9d07350",
 		"title": "Je analyseert input, output en proces van een gegeven systeem."
 	},
 	{
-		"id": "fe3429eb-6067-4047-908f-044b62b8d32f",
+		"id": "a548a2cc-601c-4562-be6f-4ba2ec596141",
 		"title": "Je beschrijft het begrip deelsysteem  toe als onderdeel van een systeem."
 	},
 	{
-		"id": "0f0c0c4e-6bb4-4812-ad86-74f97607672c",
+		"id": "80a3b716-6457-4ce5-82e5-65a9991f27b8",
 		"title": "Je herkent verschillende typen functies en  past deze toe in concrete situaties."
 	},
 	{
-		"id": "b9a6a923-069d-47d3-8b91-6ec5780b1e00",
+		"id": "02ac2565-48db-4c01-87db-23d35f786917",
 		"title": "Je beschrijft de manier  waarop eigenschappen van licht en geluid (b.v. frequentie en amplitude) gebruikt worden bij informatieoverdracht en past deze kennis toe bij het verklaren van de werking van een communicatiesysteem."
 	},
 	{
-		"id": "67036191-5bc3-4f1d-95c8-6b44d59468c9",
+		"id": "a4732a15-6284-40e6-9953-487f24481631",
 		"title": "Je beschrijft bij een technisch systeem feedback-mechanismen  (minimaal bij de voorbeelden van thermostaat en toilet en een terugkoppeling in een elektrisch circuit)."
 	},
 	{
-		"id": "155d86f7-6380-41e2-afe9-5c69877bfcc0",
+		"id": "29413f1c-e267-4f6e-bcd6-b55a81b2ca80",
 		"title": "Je beschrijft de kenmerken van een geautomatiseerd systeem  (meet- en regeltechniek)."
 	},
 	{
-		"id": "b3d9f839-0c6c-4e20-9d88-7437e15ec335",
+		"id": "f3cbc9e9-89bf-49db-92df-10d5cb0d063f",
 		"title": "Je beschrijft het verschil tussen functie en werking bij een technisch systeem."
 	},
 	{
-		"id": "1fa814cf-9caa-4d14-9d07-cd06ce915de0",
+		"id": "255cef4d-368e-44ed-8a1a-fb14ecc6bbd2",
 		"title": "Je beschrijft de betekenis van de begrippen informatie, data, code(ring), signaal, medium (kanaal), analoog en digitaal  en benoemt deze in een gegeven communicatiesysteem."
 	},
 	{
-		"id": "0d32710f-084b-45b1-ba39-a459d577e3ec",
+		"id": "4aee27fc-dc48-4061-801d-adb0c20af473",
 		"title": "Je verwerft inzicht in technologische ontwikkelingen, toepassingsgebieden, normen voor veiligheid en milieu, en de invloed van natuur-wetenschappen op de technologie."
 	},
 	{
-		"id": "cff02e2e-b68c-40f0-8774-87b01d8d2672",
+		"id": "553375ae-5106-4e60-bd19-e52c693b3fea",
 		"title": "Je analyseert belangrijke technologische ontwikkelingen op het gebied van transport, communicatie, productie, bebouwde omgeving en gezondheidszorg en komt tot een aanbeveling"
 	},
 	{
-		"id": "84623cc7-6e76-4bda-b0d9-ae210d88384d",
+		"id": "e9977213-47b1-4fa5-b10a-a77adc011d79",
 		"title": "Je beschrijft toepassingsgebieden van techniek in verschillende beroepen, zowel in technische als in niet-technische beroepen."
 	},
 	{
-		"id": "6c01981d-8719-4987-b303-d0f65e519410",
+		"id": "ab7fac28-16b6-482f-88eb-8c58bebae8ac",
 		"title": "Je analyseert bepaalde normen t.a.v. gezondheid, milieu en arbeidsomstandigheden en beoordeelt deze in een situatie."
 	},
 	{
-		"id": "bd41091f-a5c2-4724-a360-165d7b08f27c",
+		"id": "676ba5af-c576-4651-8e4e-e3e8d3978d8c",
 		"title": "Je beschrijft hoe technische vindingen van invloed zijn op maatschappelijke ontwikkelingen en visa versa, en beschrijft daar voorbeelden van."
 	},
 	{
-		"id": "98816ece-a28a-4bdc-8e1d-fa958fa2e64c",
+		"id": "03956e81-5902-449a-90db-23ac8d9466c1",
 		"title": "Je beschrijft hoe de technologie zich ontwikkeld heeft in de fasen van ambachtelijke techniek via industriële techniek (massaproductie), informatietechniek naar bio- en nano- en duurzame technologieën en geeft voorbeelden uit de verschillende fasen."
 	},
 	{
-		"id": "d4411f20-6747-4032-b283-0112d99b9b16",
+		"id": "dc1df91f-9293-420f-97c0-d4bbb3e1b112",
 		"title": "Je verwerft vaardigheden om in een ontwerpproces een ontwerpprobleem te analyseren, alternatieve uitwerkingen te bedenken, een ontwerpvoorstel te formuleren en vervolgens een eerste prototype te bouwen en te testen aan de hand van de geformuleerde eisen en randvoorwaarden, verslag te doen en te reflecteren.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "1c51ff4c-e91c-4869-8cc5-e6692a6e8a6a",
+		"id": "b5e97a90-05f1-4cd0-a656-597982637fa1",
 		"title": "Je analyseert in een ontwerpprobleem in een gegeven situatie en beschrijft dit op.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "f742852c-cf7c-4b87-8a63-524a27499a09",
+		"id": "74b0e385-bcc6-4ced-8f8b-9311a1668953",
 		"title": "Je stelt een volledig programma van eisen op.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "542a80e7-1ee3-416b-8c7b-0a369b40888e",
+		"id": "5299129d-b720-428c-862b-bd0adb2a72db",
 		"title": "Je formuleert de eisen zo, dat ze realistisch en toetsbaar zijn voor de probleemhebber of opdrachtgever en stelt de volgorde van belangrijkheid van eisen vast.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "2d3f606f-04f1-4d8b-833f-e23a6e2fb078",
+		"id": "8b42abaf-b59c-4799-bbb7-8c4e3b3cc4ef",
 		"title": "Je maakt een ideeëntabel met meerdere verschillende ideeën en verwerkt de ideeën van anderen daarin.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "f9410358-8508-452f-a335-ff7afc5bf4a6",
+		"id": "c0056cf6-8b10-435e-b0da-81858c2de9f2",
 		"title": "Je licht de ideeën toe met schetsen.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "d542d2b3-bafb-4700-9665-cca79ecfa318",
+		"id": "a0ff83b3-ebbd-451b-8cfa-46668791d5aa",
 		"title": "Je verwerkt ideeën verwerken in een ontwerpvoorstel en controleert of het aan het programma van eisen voldoet.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "f96d83b4-a1f8-4bdc-bd30-c7c22a631971",
+		"id": "ba335986-260b-40e9-b2f6-357bf8312c19",
 		"title": "Je maakt van een aantal belangrijke onderdelen detailtekeningen met maatvoering en op de Juiste schaal. Dit samen mondt uit in een ontwerpvoorstel.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "64bdab5b-0ab0-44cb-b7ae-8de83f4493d9",
+		"id": "44757c14-e456-45ee-a757-4747eb80dfd5",
 		"title": "Je maakt of bewerkt verschillende type (werk)tekeningen met de hand en/of een computerprogramma.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "edfddfc0-b7df-4d62-807e-f3fdcaf7106e",
+		"id": "5012bef2-7a0b-4553-a24e-4fe98ee1bc63",
 		"title": "Je maakt een werkplan en houdt Je aan de tijdsplanning.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "3e1274ce-5e97-485d-821e-4cd9afd5e842",
+		"id": "69f3dd9b-3715-4375-9acb-bc8352c24927",
 		"title": "Je maakt een prototype of model, bespreekt met de probleemhebber of opdrachtgever problemen en lost deze samen op.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "42d5d36f-72ac-4e81-86f0-9f5a5c53f0ae",
+		"id": "ba7dcb12-4b92-4b0f-b76b-c56da3cdc634",
 		"title": "Je voert bij gebruik van machines en gereedschappen handelingen correct , veilig en milieubewust uit. Je bent Je bewust van de veiligheid van Jezelf en ieder in de ruimte waar wordt gewerkt.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "591fdd8e-06d9-4eb3-8bcb-fcffe65f621a",
+		"id": "b9ba115e-bf35-4054-9c70-a09d28a89a03",
 		"title": "Je stelt het testplan op en stemt dit af met de probleemhebber of opdrachtgever.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "d7810f75-2bba-4eda-84ae-d99fe9d92f3c",
+		"id": "6cf0bcb4-853d-4d23-a420-6116fa6ccdf0",
 		"title": "Je voert het testplan uit en bespreekt de resultaten met de probleemhebber of opdrachtgever.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "cce0af6b-16ae-48bc-981f-0441bd79b72a",
+		"id": "5d00bad3-efb3-4931-9da1-7cb91783dc8c",
 		"title": "Je bespreekt meerdere verbetervoorstellen met de probleemhebber of opdrachtgever.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "9fd6e6ea-f1f9-4436-9028-a0b63d5fc82f",
+		"id": "8cff2522-bce9-41fa-a008-4bcda90393f3",
 		"title": "Je bereidt een presentatie voor met daarin de resultaten van het tesplan en conclusies.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "5988f4d5-ebb2-479b-8f87-41843894762b",
+		"id": "68c68707-bca9-49e3-be60-12f3648beaf7",
 		"title": "Je geeft een presentatie , waarin Je vertelt hoe het proces is verlopen en geeft uitleg over hoe aan het programma van eisen is voldaan en verdedigt dat met argumenten.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "6a539ba8-d410-4d73-9666-9469e2520815",
+		"id": "eedf3834-2fc4-46f4-83e3-9c1aa0b21ea7",
 		"title": "Je beoordeelt met behulp van het rapport hoe het ontwerpproces is verlopen en geeft tips om dit en een volgend ontwerpproces te verbeteren.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "97e15265-28b4-4c3f-9d20-9e158da4c7a4",
+		"id": "77d4006d-e9e5-48e2-baec-944f2e82df5a",
 		"title": "Je benoemt waarin Je bent verbeterd bij het ontwerpen en Je overlegt met anderen wat goed zou zijn om nog te leren.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "a5a0c7b1-1855-4c49-810b-cd8e26b8ec8b",
+		"id": "3a4eda76-bf64-4802-a173-bf283fc5884a",
 		"title": "Je licht toe de werkwijze en het gebruik van hulpmiddelen en materialen om tot de oplossing van een technisch probleem te komen."
 	},
 	{
-		"id": "6d5429e4-4206-4c3b-80ca-748e5078e634",
+		"id": "71420548-b716-4821-97b2-98f220c46136",
 		"title": "Je herkent  materiaaleigenschappen (mechanische, natuurkundige, chemische, technologische) en licht de manier waarop deze materialen worden toegepast toe."
 	},
 	{
-		"id": "d1ae2d2c-473e-4b3b-8483-5beb82f59f60",
+		"id": "60f17595-d709-42a6-9bbb-e6516b859247",
 		"title": "Je benoemt aan de hand van de functiedriehoek waar een product voor dient en herkent een relatie tussen functie, vorm, materiaal en de  manier van bewerking."
 	},
 	{
-		"id": "260e7b5c-c8c3-4b98-81bf-80e0f69d5f55",
+		"id": "c94ff676-8fb1-4edb-a45c-a46a8d09bbaa",
 		"title": "Je past toe de bewerkingen en verbindingen en de daarbij horende eigenschappen."
 	},
 	{
-		"id": "59fdf3f1-f48e-4c38-9463-0b68393ed5c4",
+		"id": "b8313b8f-ac57-474d-8959-8e2e6364aa9f",
 		"title": "Je benoemt vormen van energietransport en geeft daarvan voorbeelden."
 	},
 	{
-		"id": "bdc6726f-98ef-4118-9f49-5357df324d03",
+		"id": "2f5185f9-3635-447c-a16e-5fdadb435b69",
 		"title": "Je beschrijft verschillende typen overbrengingen (b.v. hefbomen), deelt deze in en gebruikt met deze kennis concrete overbrengingen"
 	},
 	{
-		"id": "282b11a4-d0e1-400d-aeea-305cbbb83760",
+		"id": "427bd296-efe8-4ffe-b24b-f3ca7d8675ea",
 		"title": "Je bepaalt bij een hefboom krachten, armen en draaipunt en past in evenwichtssituaties de hefboomregel (kracht1 * arm1 = kracht2 * arm2) toe."
 	},
 	{
-		"id": "3c0723b4-e3ad-4054-a128-8f47dc8038fb",
+		"id": "a95c4ddf-2ddb-4924-aa79-2b865f871476",
 		"title": "Je beschrijft input, output en proces van een gegeven systeem."
 	},
 	{
-		"id": "d3438aca-1c49-4383-8c81-3d4758fc3d08",
+		"id": "7772c858-be8b-45f5-ac2c-6fedf9ddb65f",
 		"title": "Je herkent het begrip deelsysteem als onderdeel van een systeem."
 	},
 	{
-		"id": "2a3e0a89-e699-4534-baf8-94b398b35733",
+		"id": "cca6ae9d-6c28-4ca0-9dbb-b324c4c1246a",
 		"title": "Je benoemt verschillende typen functies van artefacten."
 	},
 	{
-		"id": "f1e5c45e-91ce-47d5-bd1c-9aba60efe51d",
+		"id": "12f0edad-091a-4b90-8c5b-c63d57350a5f",
 		"title": "Je herkent bij een technisch systeem feedbackmechanismen  (minimaal bij de voorbeelden van thermostaat en toilet)."
 	},
 	{
-		"id": "8a3e157b-9d5f-4a37-a519-c49d69cfe116",
+		"id": "90f94b4e-5f8e-45df-95ec-d49a695b08d2",
 		"title": "Je benoemt het verschil tussen functie en werking bij een technisch systeem."
 	},
 	{
-		"id": "c72e6e53-61b3-4d4d-bdf0-7ab4a9194aae",
+		"id": "25ddd757-e7ce-45a2-9ddc-aad02b6640af",
 		"title": "Je benoemt belangrijke technologische ontwikkelingen op het gebied van transport, communicatie, productie, bebouwde omgeving en gezondheidszorg."
 	},
 	{
-		"id": "00f78478-298c-4ca7-8017-fe6e11004e31",
+		"id": "a9b25f33-1c51-4857-919c-74de5ebad433",
 		"title": "Je herkent toepassingsgebieden van techniek in verschillende beroepen, zowel in technische als in niet-technische beroepen."
 	},
 	{
-		"id": "79b1644d-061a-402f-ab97-add08bda219b",
+		"id": "2b11c2b1-876d-4146-baeb-7c01b130afbe",
 		"title": "Je beschrijft bepaalde normen t.a.v. gezondheid, milieu en arbeidsomstandigheden."
 	},
 	{
-		"id": "de180fc9-caa9-49b1-a32a-62cdd5101657",
+		"id": "bad6cdaf-5eef-4587-82b2-1afda9db5969",
 		"title": "Je benoemt hoe technische vindingen van invloed zijn op maatschappelijke ontwikkelingen en geeft daar  voorbeelden van."
 	},
 	{
-		"id": "65ed7353-e85b-493d-a036-f9f79cd33e09",
+		"id": "46abaf87-4ad1-4ee8-8aa1-81b959bc3964",
 		"title": "Je schrijft bij een gegeven ontwerpprobleem op wat de functie is van het ontwerp, met ondersteuning van de begeleider.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "b9f285ee-ec25-4d75-8498-f16e7e6172bd",
+		"id": "9a7d1918-e9ac-4f17-8dc2-9d9b220e316a",
 		"title": "Je noemt één of twee functionele eisen en één of twee gebruikerseisen.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "b2d3318f-6066-4c22-ac90-86c518204241",
+		"id": "f65bc561-6a77-4146-8636-10fdd7f3c156",
 		"title": "Je controleert of de eisen realistisch en toetsbaar zijn.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "f3b59b8c-d8e0-47c4-a5fd-dcb2ad226103",
+		"id": "ab7299f7-c282-4c88-aa30-0c0eb8782803",
 		"title": "Je gebruikt verschillende manieren om op ideeën te komen.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "595c0c49-f4de-442f-a943-1f9d3cde5158",
+		"id": "21c5900e-d56c-4365-b7db-f4b5fcc8124f",
 		"title": "Je maakt schetsen van een aantal ideeën.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "7a4412d7-6bbd-4490-93a9-0f9a7b7980db",
+		"id": "97f0b583-8329-4175-9d62-df8a1b4ea6e2",
 		"title": "Je combineert deeluitwerkingen tot één ontwerpvoorstel.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "c9a3a727-6d4e-406b-9e9a-4d1b57948cbb",
+		"id": "6b27131a-b2f6-4be4-8dc9-656bb071ac5e",
 		"title": "Je maakt een schets en geeft daarop de Juiste maten.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "b42e71c7-8b9b-4616-bd4e-8e13b0e9abae",
+		"id": "c57cbf47-09d5-49c3-b39a-17f6dfba3a24",
 		"title": "Je maakt of bewerkt verschillende typen (werk)tekeningen met de hand en/of een computerprogramma.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "c3d5affa-8397-4349-9c00-f3e5b6ceff49",
+		"id": "f4ef5fc2-e930-44f4-b9c8-550a1957830f",
 		"title": "Je maakt een werkplan en Je maakt afspraken voor hulp bij het maken van een prototype of model (docent, een technisch onderwijsassistent (TOA), ouders, begeleider).",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "e10df5f8-1af6-4ab4-84b8-c3e29d021f1a",
+		"id": "058d5374-454d-4bca-947e-30fc62a83cd5",
 		"title": "Je maakt een prototype of model en kiest daarbij zelf de materialen en (meet)gereedschappen.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "f06e1265-1201-4f30-bdae-36c96b1b2d56",
+		"id": "590559b3-a3c2-43c3-9ab1-db02e48acb77",
 		"title": "Je voert bij gebruik van machines en gereedschappen handelingen correct, veilig en milieubewust uit. Je bent Je bewust van de veiligheid van Jezelf en ieder in de ruimte waar wordt gewerkt.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "49a059b5-4a05-4992-b346-6cb44b4416d7",
+		"id": "9171c4e4-0d14-4245-93aa-5a81b328e65a",
 		"title": "Je stelt een testplan op op basis van enkele eisen.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "ff48398e-010e-4f48-8e03-aa379fe14a6a",
+		"id": "683b0444-a81e-4c97-b580-1571655705ee",
 		"title": "Je voert het testplan uit.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "5fd002f3-d96e-4af4-b8bc-cffedd9abbff",
+		"id": "161137fa-0df5-4796-b804-2e518423324c",
 		"title": "Je zet enkele verbetervoorstellen op papier eventueel met schetsen).",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "1403afc9-9622-4bed-811d-4e9e6de3a4b8",
+		"id": "456a5320-6956-4178-8d5c-c856316f4dcf",
 		"title": "Je bereidt een presentatie voor met daarin de resultaten van het testplan.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "b68172a6-2fcc-4d33-b47f-a7dc284b3baf",
+		"id": "c98496eb-a2b6-43aa-9df6-1e0e4f73f07a",
 		"title": "Je voert een presentatie uit, waarin Je vertelt over de opbrengst en het proces.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "a860f3a5-8479-4855-8fee-efc9933f9cb7",
+		"id": "8d2df977-fb2f-453f-a335-ccacb26746e3",
 		"title": "Je beoordeeld met behulp van het rapport hoe het ontwerpproces is verlopen.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "2656fc1c-0551-425c-bbf3-adf583d73f51",
+		"id": "2e162b45-5395-487d-9f62-47c8b562ee38",
 		"title": "Je benoemt wat Je sterke en zwakke punten zijn bij de fasen van de ontwerpcyclus.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "7913c93f-14f2-44be-add8-f424f618fbce",
+		"id": "b99220c9-6f3c-4164-b0b6-185a9b785751",
 		"title": "Je herkent de werkwijze en het gebruik van hulpmiddelenen materialen om tot de oplossing van een technisch probleem te komen."
 	},
 	{
-		"id": "13753a01-032f-47e6-9039-b073a64aafcd",
+		"id": "4c432e81-7c87-47b1-93c8-5d1cb2898e1b",
 		"title": "Je herkent materiaaleigenschappen (mechanische, natuurkundige, chemische, technologische)."
 	},
 	{
-		"id": "b422a3d9-b779-496c-a07a-c034da0cf3b7",
+		"id": "ad7aad10-d71a-4887-8e07-cfd6f018603b",
 		"title": "Je herkent de bewerkingen en verbindingen en de daarbij horende eigenschappen."
 	},
 	{
-		"id": "550801fa-632c-4ecf-a77b-3ea7e5115c72",
+		"id": "eabec3bb-e2ff-4229-8bb5-a970a0b8028d",
 		"title": "Je herkent verschillende typen overbrengingen (b.v. hefbomen), deelt deze in en gebruikt met deze kennis concrete overbrengingen"
 	},
 	{
-		"id": "4617dfe9-edef-400b-a6db-067afada0670",
+		"id": "341db1d9-ddfd-4e07-ad35-ef19cff90e3e",
 		"title": "Je herkent dat door hefboomwerking met een kleine kracht aan de lange arm een grote kracht aan de korte arm gemaakt kan worden en licht dit toe met een aantal voorbeelden"
 	},
 	{
-		"id": "8aa0ce95-ed53-470c-8454-001ccdf53758",
+		"id": "ce1c3b6b-2afd-4080-87da-4b02ca0a6b2e",
 		"title": "Je herkent hoe technische vindingen van invloed zijn op maatschappelijke ontwikkelingen en geeft daar  voorbeelden van."
 	},
 	{
-		"id": "053dc9f1-2103-4f4c-b884-cc5c2269a048",
+		"id": "414d5885-8c22-4c38-b57d-565fc47318cf",
 		"title": "Je krijgt een ontwerpopdracht van de begeleider en kan deze ontwerpopdracht in eigen woorden weergeven.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "123cb5e7-c052-4864-9657-9b488b687b56",
+		"id": "6f332137-0eac-4a53-b970-3fce54d52857",
 		"title": "Je vertelt wat de belangrijkste functie van het ontwerp is.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "e2904641-33b2-475e-b914-64bcb329b931",
+		"id": "d479ac4c-353f-46f1-aed0-9f4e51500014",
 		"title": "Je vult een deels ingevulde ideeëntabel verder aan.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "cb80f679-763c-4181-aecd-7be355e0a42c",
+		"id": "4f0544f7-0b8d-4bfb-9d64-12bb7ea9dec0",
 		"title": "Je maakt schetsen van een aantal ideeën ondersteund door de begeleider.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "5f61e945-2792-4885-b05e-c879066b47c0",
+		"id": "c4d69cdc-9b2f-4983-9de3-dfd09022bd97",
 		"title": "Je maakt een schets van het ontwerpvoorstel.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "52e01dc3-9e04-494c-a7cd-969ad7d922f9",
+		"id": "fc42ece6-1234-472b-8192-420bf503b781",
 		"title": "Je voert een gegeven werkplan uit door afspraken te maken voor hulp bij het maken van een prototype of model (docent, een technisch onderwijsassistent (TOA), ouders, begeleider).",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "51466fc9-c9f9-4832-8743-68fd49d8968a",
+		"id": "136c7892-605a-4c54-92dd-5e7bd2306b78",
 		"title": "Je maakt op basis van de aangereikte materialen, de handleiding en de gegeven (meet)gereedschappen, een prototype of model.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "9dcb50b4-cd79-42d4-afee-134224339d19",
+		"id": "2d86e9d3-2b6d-4ac4-823b-66c50397bc62",
 		"title": "Je vertelt een testplan in eigen woorden.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "76962434-8957-4661-956b-dc4f440a35d5",
+		"id": "0c6f519f-6489-4b64-9355-608b884f7f6b",
 		"title": "Je test een tweetal eisen met behulp van een testprogramma.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "db5bfc81-22e5-4951-8d42-14343d5e305c",
+		"id": "d6c4279c-3819-4fb3-aa4a-7b56719feaba",
 		"title": "Je brengt één verbetervoorstel onder woorden.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "6800b0b7-638e-4377-b231-cd810ff836a3",
+		"id": "11a206cb-0ccf-43a8-8c0f-f09f9fd110c3",
 		"title": "Je bereidt een presentatie voor",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "3c760127-d8b2-4fbb-a195-c234653d8a2d",
+		"id": "530f0043-0517-48c8-b6dc-2e44640a7d1d",
 		"title": "Je vertelt hoe het ontwerpproces is verlopen aan de hand van het rapport.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "4d32e0bc-91ba-47a2-850c-4d9b64befe4d",
+		"id": "c7625acc-3bd1-46e7-a9d3-c7cf22bdedf5",
 		"title": "Je benoemt bij het ontwerpen wat Je sterke en zwakke punten zijn.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "0de35d3b-5cc8-4f97-a666-8e5dd1612b93",
-		"title": "Je praat over onderwerpen die alledaags en vertrouwd zijn en passen bij je persoonlijke belangstelling, of betrekking hebben op je eigen werk of opleiding"
-	},
-	{
-		"id": "ea6337fa-c76c-4718-908a-bd5e67d7dd0c",
-		"title": "Je woordenschat is toereikend om onvoorbereid deel te nemen aan gesprekken over alledaagse onderwerpen en over actuele gebeurtenissen, eventueel met omschrijvingen."
-	},
-	{
-		"id": "13524e55-29bf-4178-855c-cdb1700ce635",
-		"title": "Je verbindt series van korte, eenvoudige afzonderlijke elementen tot een samenhangende tekst of een samenhangend verhaal."
-	},
-	{
-		"id": "369469b8-6013-45b8-82d2-900fefb02ed2",
-		"title": "Je maakt correct gebruik van eenvoudige constructies die horen bij voorspelbare situaties."
-	},
-	{
-		"id": "db6aa4a1-d3e5-4cdf-aaef-c1fd8dff858b",
-		"title": "Je maakt redelijk accuraatgebruik van frequente routines en patronen die horen bij voorspelbare situatie"
-	},
-	{
-		"id": "53e59353-229e-4c09-a7b2-56accd9493ea",
-		"title": "Je begint, voert en sluit eenvoudige face-to-face gesprekken over bekende onderwerpen die jou persoonlijke interesseren af."
-	},
-	{
-		"id": "df7b6c08-32fd-47b5-8cf8-cdd7c9931120",
-		"title": "Je herhaalt hierbij gedeeltelijk wat iemand gezegd heeft."
-	},
-	{
-		"id": "ead10961-b08f-41bc-961b-39fb4a87200c",
-		"title": "Je bent goed te volgen in sociale gesprekken, hoewel in langere stukken tekst pauzes kunnen voorkomen om na te denken en fouten te herstellen."
-	},
-	{
-		"id": "3632fdef-5b36-47e1-bd54-d5205d03f254",
-		"title": "Je uitspraak is duidelijk verstaanbaar, zelfs met een accent en met af en toe een verkeerd uitgesproken woord."
-	},
-	{
-		"id": "c8e52e4d-3699-4754-bc58-475f40ffad72",
-		"title": "Je omschrijft een woord als je niet meteen op het woord kan komen, eventueel met gebruik van gebaren en mimiek."
-	},
-	{
-		"id": "a3d28a4d-88eb-430b-882c-b8d5046411f3",
-		"title": "Je maakt gebruik van een overkoepelend begrip ('tool' voor 'screwdriver')."
-	},
-	{
-		"id": "1e10d428-39bb-4ba2-9407-8852438813e4",
-		"title": "Je herhaalt wat de ander gezegd heeft om (denk)tijd te winnen."
-	},
-	{
-		"id": "09e701e8-4ae6-4b86-bdcc-07104514f0be",
-		"title": "Je praat over onderwerpen die eenvoudig, alledaags, vertrouwd en gerelateerd zijn aan directe behoeften."
-	},
-	{
-		"id": "8f07271f-18a7-4661-b1e8-7c6772b2d5d8",
-		"title": "Je woordenschat bestaat uiteenvoudige uitdrukkingen en kleine groepen van woorden die je uit je hoofd geleerd hebt en waarmee je zeer beperkte informatie uitwisselt in eenvoudige, alledaagse en vertrouwde activiteiten."
-	},
-	{
-		"id": "ce1a6763-5f41-4bd4-8943-e96658059146",
-		"title": "Je geeft het verband aan tussen woorden of groepen van woorden door basisvoegwoorden te gebruiken, zoals ‘en’ of ‘dan’"
-	},
-	{
-		"id": "2e418c8e-fe47-41e4-b4be-279578c30261",
-		"title": "Dit breid je incidenteel uit met andere eenvoudige voegwoorden, zoals ‘maar’ en ‘omdat’."
-	},
-	{
-		"id": "1f3c42f1-0ae2-4be8-9e3f-5a222b227989",
-		"title": "Je maakt gebruik van een beperkt aantal eenvoudige, uit het hoofd geleerde uitdrukkingen en eenvoudige grammaticale constructies. Deze hoeven nog niet correct te zijn."
-	},
-	{
-		"id": "2ed5763a-d5bf-4480-8e51-784110b36acf",
-		"title": "Je stelt vragen en geeft antwoorden op eenvoudige uitspraken."
-	},
-	{
-		"id": "194dce4f-c6b5-4283-b213-50823c4b1f60",
-		"title": "Je communicatie is nog vaak afhankelijk van herhaling, herformulering en correcties."
-	},
-	{
-		"id": "c4e68cb9-b6c4-4ac7-8213-22b76baa390b",
-		"title": "Je hoeft geen initiatief te tonen om de conversatie gaande te houden."
-	},
-	{
-		"id": "b5269e73-e2ab-462a-9c8a-b2da7602f107",
-		"title": "Je bent beperkt tot veel standaarduitdrukkingen met veel pauzes, valse starts en herformuleringen."
-	},
-	{
-		"id": "9cdaada6-cbc6-4f4e-8779-083ca47b1507",
-		"title": "Je uitspraak kan met enige inspanning worden verstaan door native speakers die gewend zijn om te luisteren naar mensen met een andere taalachtergrond."
-	},
-	{
-		"id": "70385913-fa5a-4014-af1a-bccce9acd776",
-		"title": "Je geeft het aan als je iets niet begrijpt."
-	},
-	{
-		"id": "e5f807f5-5f11-4d81-8f1e-8099df1bc2c1",
-		"title": "Je vraagt om een langzamer spreektempo, herhaling of uitleg, eventueel met behulp van gebaren en mimiek."
-	},
-	{
-		"id": "002fbc82-0501-4bcb-951d-40a0d05856e8",
-		"title": "Je maakt gebruik van 'fillers', zoals 'well', 'uhm', en stopwoorden zoals 'kind of', 'youknow' enz."
-	},
-	{
-		"id": "ee937363-1f8c-4d6f-a32c-5ec80b707a05",
-		"title": "Je praat over onderwerpen die eenvoudig, alledaags, vertrouwd en gerelateerd zijn aan directe behoeften."
-	},
-	{
-		"id": "da3e6f32-1367-4f83-94b6-bec8edc59a38",
-		"title": "Je woordenschat bestaat uiteenvoudige uitdrukkingen en kleine groepen van woorden die je uit je hoofd geleerd hebt en waarmee je zeer beperkte informatie uitwisselt in eenvoudige, alledaagse en vertrouwde activiteiten."
-	},
-	{
-		"id": "d31c9f8a-9299-46f5-bc8e-a234475f3a3e",
-		"title": "Je geeft het verband aan tussen woorden of groepen van woorden door basisvoegwoorden te gebruiken, zoals ‘en’ of ‘dan’"
-	},
-	{
-		"id": "e3354c78-0fe3-4338-9450-ca88254d0311",
-		"title": "Dit breid je incidenteel uit met andere eenvoudige voegwoorden, zoals ‘maar’ en ‘omdat’."
-	},
-	{
-		"id": "e7003120-c30c-4938-8f80-aeb28e3d9f31",
-		"title": "Je maakt gebruik van een beperkt aantal eenvoudige, uit het hoofd geleerde uitdrukkingen en eenvoudige grammaticale constructies. Deze hoeven nog niet correct te zijn."
-	},
-	{
-		"id": "e5604054-0546-42c1-b20c-37c80fa5daff",
-		"title": "Je stelt vragen en geeft antwoorden op eenvoudige uitspraken."
-	},
-	{
-		"id": "065d719f-4999-46fc-be5b-03ae2cf98224",
-		"title": "Je communicatie is nog vaak afhankelijk van herhaling, herformulering en correcties."
-	},
-	{
-		"id": "e296bc94-474f-4d5e-b118-6fc1050124a0",
-		"title": "Je hoeft geen initiatief te tonen om de conversatie gaande te houden."
-	},
-	{
-		"id": "5ee714c8-86e4-4398-ad9d-055e19724845",
-		"title": "Je bent beperkt tot veel standaarduitdrukkingen met veel pauzes, valse starts en herformuleringen."
-	},
-	{
-		"id": "9cd7cc35-be8b-4946-a879-7c5491be198d",
-		"title": "Je uitspraak kan met enige inspanning worden verstaan door native speakers die gewend zijn om te luisteren naar mensen met een andere taalachtergrond."
-	},
-	{
-		"id": "c3bc0100-e323-4036-9493-cf08e9c3c3fd",
-		"title": "Je geeft het aan als je iets niet begrijpt."
-	},
-	{
-		"id": "b3fddf47-3051-4dd5-ab8f-7919a875dc5a",
-		"title": "Je vraagt om een langzamer spreektempo, herhaling of uitleg, eventueel met behulp van gebaren en mimiek."
-	},
-	{
-		"id": "1bdf0ed5-82b1-45b7-ba76-b972dc671b9c",
-		"title": "Je maakt gebruik van 'fillers', zoals 'well', 'uhm', en stopwoorden zoals 'kind of', 'youknow' enz."
-	},
-	{
-		"id": "ad655c56-7dd4-4557-8306-33377df43c55",
-		"title": "Je praat over onderwerpen die eenvoudig, alledaags, vertrouwd en gerelateerd zijn aan directe behoeften."
-	},
-	{
-		"id": "431efaa7-f89f-40f7-b0c9-53b80e2f1c7a",
-		"title": "Je woordenschat bestaat uiteenvoudige uitdrukkingen en kleine groepen van woorden die je uit je hoofd geleerd hebt en waarmee je zeer beperkte informatie uitwisselt in eenvoudige, alledaagse en vertrouwde activiteiten."
-	},
-	{
-		"id": "3e0420be-99d1-4d28-9d22-37fe4d2dba73",
-		"title": "Je geeft het verband aan tussen woorden of groepen van woorden door basisvoegwoorden te gebruiken, zoals ‘en’ of ‘dan’"
-	},
-	{
-		"id": "b8639eb1-ee43-4975-805b-f231c9cc2f21",
-		"title": "Dit breid je incidenteel uit met andere eenvoudige voegwoorden, zoals ‘maar’ en ‘omdat’."
-	},
-	{
-		"id": "6fed63b0-eab9-4405-bd51-e5f1174d86f7",
-		"title": "Je maakt gebruik van een beperkt aantal eenvoudige, uit het hoofd geleerde uitdrukkingen en eenvoudige grammaticale constructies. Deze hoeven nog niet correct te zijn."
-	},
-	{
-		"id": "cdb07d0e-496d-43a8-acfb-69d3611b1dbd",
-		"title": "Je stelt vragen en geeft antwoorden op eenvoudige uitspraken."
-	},
-	{
-		"id": "bace6c2f-02ad-47e7-96cd-d89444e2607f",
-		"title": "Je communicatie is nog vaak afhankelijk van herhaling, herformulering en correcties."
-	},
-	{
-		"id": "73b6f001-9fb7-432b-8a40-80c4e94bc58d",
-		"title": "Je hoeft geen initiatief te tonen om de conversatie gaande te houden."
-	},
-	{
-		"id": "cf1164d9-cb3c-4ed5-ab4e-e1300a536386",
-		"title": "Je bent beperkt tot veel standaarduitdrukkingen met veel pauzes, valse starts en herformuleringen."
-	},
-	{
-		"id": "732e0a4c-467a-4627-bf0d-d4470c28afff",
-		"title": "Je uitspraak kan met enige inspanning worden verstaan door native speakers die gewend zijn om te luisteren naar mensen met een andere taalachtergrond."
-	},
-	{
-		"id": "4e196667-eb95-469e-9e60-91ba3331872f",
-		"title": "Je geeft het aan als je iets niet begrijpt."
-	},
-	{
-		"id": "cdc40620-93a1-4251-817e-df3561fdbb14",
-		"title": "Je vraagt om een langzamer spreektempo, herhaling of uitleg, eventueel met behulp van gebaren en mimiek."
-	},
-	{
-		"id": "fcd483c6-64cb-486e-b65e-8442220cd260",
-		"title": "Je maakt gebruik van 'fillers', zoals 'well', 'uhm', en stopwoorden zoals 'kind of', 'youknow' enz."
-	},
-	{
-		"id": "558b9e67-b797-496f-ae6d-d830d83385f8",
-		"title": "Je praat over onderwerpen die eenvoudig, alledaags, zeer vertrouwd en gerelateerd zijn aan directe behoeften."
-	},
-	{
-		"id": "87f74a8f-12da-4a26-86fe-1e51f43693b2",
-		"title": "Je woordenschat is beperkt tot een klein repertoire van woorden en eenvoudige uitdrukkingen om jezelf te redden in bepaalde concrete situaties en te praten over persoonlijke details, zoals welbevinden."
-	},
-	{
-		"id": "be3f7c69-f856-478b-a314-ca3d543df07b",
-		"title": "Je geeft een verband aan tussen woorden of groepen van woorden door basisvoegwoorden te gebruiken, zoals 'en' of 'dan'."
-	},
-	{
-		"id": "ad5f3a41-b040-441b-b364-106b1128324f",
-		"title": "Je maakt gebruik van een beperkt aantal eenvoudige, uit het hoofd geleerde uitdrukkingen. Deze hoeven nog niet correct te zijn"
-	},
-	{
-		"id": "7476a0c9-da82-4ee5-8955-e3fcccd5a129",
-		"title": "Je stelt vragen en geeft antwoorden over persoonlijke details, zoals welbevinden, hoy's e.d."
-	},
-	{
-		"id": "e828d33f-6178-4de7-a0e4-752595a931ec",
-		"title": "Je communicatie is totaal afhankelijk van herhaling, herformulering en correcties."
-	},
-	{
-		"id": "2b4b1cad-a719-4ef8-ae34-e7d5cdce88db",
-		"title": "Je bent beperkt tot korte, geÃ¯soleerde standaarduitdrukkingen met veel pauzes."
-	},
-	{
-		"id": "427e4b64-82f2-46af-be9c-f70eb59c0fc0",
-		"title": "Je spreekt minder bekende woorden uiten herstelt storingen in de communicatie."
-	},
-	{
-		"id": "b916c996-7fc6-4b9d-b617-072c4c68c322",
-		"title": "Je uitspraak van een beperkt aantal geleerde woorden en uitdrukkingen worden met enige inspanning verstaan door native speakers die gewend zijn om te luisteren naar mensen met een andere taalachtergrond."
-	},
-	{
-		"id": "d14f0c7b-5115-465d-8fc5-7f37fbe4ddd3",
-		"title": "Je geeft het aan als je iets niet begrijpt."
-	},
-	{
-		"id": "582327d5-f078-4a19-a013-39ef29340778",
-		"title": "Je vraagt om een langzamer spreektempo, herhaling of uitleg, eventueel met behulp van gebaren en mimiek."
-	},
-	{
-		"id": "ff7a6689-7c21-4e12-bd92-36d580986299",
-		"title": "Je maakt gebruik van 'fillers', zoals 'well', 'uhm', en stopwoorden zoals 'kind of', 'youknow' enz."
-	},
-	{
-		"id": "16d43831-dd65-4159-935f-acb803f77a07",
-		"title": "Je praat over onderwerpen die alledaags en vertrouwd zijn en passen bij je persoonlijke belangstelling."
-	},
-	{
-		"id": "9e3f03bc-81cf-4193-a676-489be15b9051",
-		"title": "Je woordenschat is meestal toereikend om onvoorbereid deel te nemen aan gesprekken over alledaagse onderwerpen en over actuele gebeurtenissen, eventueel met omschrijvingen."
-	},
-	{
-		"id": "da70b6ed-c074-44dc-aaf9-829e2c77e71f",
-		"title": "Je verbindt groepen woorden en series van korte, eenvoudige afzonderlijke elementen, maar deze vormen nog niet altijd een samenhangende tekst of samenhangend verhaal."
-	},
-	{
-		"id": "dd6d9e19-5df0-4bcb-ae75-6ff14b713e35",
-		"title": "Je maakt correct gebruik van eenvoudige constructies die horen bij voorspelbare situaties."
-	},
-	{
-		"id": "423cc918-936b-4888-b932-7b5015cc1af9",
-		"title": "Je maakt nog systematische fouten in frequente routines en patronen."
-	},
-	{
-		"id": "cd9af058-af3c-49e5-971b-79886afa8389",
-		"title": "Je toont initiatief om eenvoudige, korte, sociale gesprekken gaande te houden."
-	},
-	{
-		"id": "9fb85085-fb85-4e7b-b501-25997fcb3b65",
-		"title": "Je bent redelijk goed te volgen in korte, sociale gesprekken, hoewel er nog pauzes, valse starts en herformuleringen kunnen voorkomen."
-	},
-	{
-		"id": "86221681-bfbf-4809-92fc-ed8f1ec451e6",
-		"title": "Je uitspraak is duidelijk verstaanbaar, ondanks een hoorbaar accent. Luisteraars zullen af en toe om herhaling moeten vragen omdat de uitspraak van een aantal woorden het begrip in de weg staat."
-	},
-	{
-		"id": "3f683684-aec8-49bc-a68c-4e14967f348a",
-		"title": "Je omschrijft een woord als je niet meteen op het woord kan komen, eventueel met gebruik van gebaren en mimiek."
-	},
-	{
-		"id": "c9ed86e0-4cae-472f-9840-5ee29bcf6455",
-		"title": "Je maakt gebruik van een overkoepelend begrip ('tool' voor 'screwdriver')."
-	},
-	{
-		"id": "dcdda0a3-c1cd-41eb-a135-0b72ac541b3d",
-		"title": "Je herhaalt wat de ander gezegd heeft om (denk)tijd te winnen."
-	},
-	{
-		"id": "bc925b09-d12a-4153-9340-ccb646dbf871",
+		"id": "b9b2e78e-02c4-4aa4-b8c0-adca340ebbe1",
 		"title": "Je beschrijft de werkwijze en het gebruik van hulpmiddelen en materialen om tot de oplossing van een technisch probleem te komen."
 	},
 	{
-		"id": "c81fa4b6-7f37-4e31-80ac-11b5c671f122",
-		"prefix": "1.1.1.",
-		"title": "Je herkent en benoemt een aantal (stof)eigenschappen, waaronder kleur, oplosbaarheid in water, elektrische geleiding, kookpunt, smeltpunt en fase bij kamertemperatuur en dichtheid."
-	},
-	{
-		"id": "fd6a9f36-9d41-4f53-a8a1-fc47e887bf87",
-		"prefix": "1.1.2.",
-		"title": "Je onderscheidt en herkent drie stoffen aan de hand van hun eigenschappen."
-	},
-	{
-		"id": "ec59effa-b373-489a-a613-ab0f914de8ab",
-		"prefix": "1.1.3.",
-		"title": "Je gebruikt pictogrammen, etiketten (mate van brandbaarheid en giftigheid), en H- en P-zinnen."
-	},
-	{
-		"id": "b71ebf49-cdc7-4c31-b9ae-0d5223718638",
-		"prefix": "1.1.4.",
-		"title": "Je verklaart dat de dichtheid verandert bij veranderende temperatuur."
-	},
-	{
-		"id": "1a75d20f-70c7-45ba-8b8e-f83e882ce8ea",
-		"prefix": "1.1.5.",
-		"title": "Je herkent en ordent stoffen aan de hand van warmtegeleiding, brandbaarheid en mengbaarheid."
-	},
-	{
-		"id": "1aa82e16-2be2-402e-9b06-b1a9b1f48251",
+		"id": "edeca762-bc10-406b-bfca-a089c43ed864",
 		"title": "Je beschrijft de bewerkingen en verbindingen en de daarbij horende eigenschappen."
 	},
 	{
-		"id": "16c985aa-77d0-4c4c-9317-8af9ebf4b494",
+		"id": "80ef7732-d43c-48cd-8082-2618b110bc6c",
 		"title": "Je beschrijft vormen van energietransport toe en geeft daarvan voorbeelden."
 	},
 	{
-		"id": "e869c2e6-6e1d-4ef9-9068-58f3e97232e5",
+		"id": "e66e270c-e49b-45b9-8e54-2f4d1103c271",
 		"title": "Je bepaalt bij een hefboom krachten, armen en draaipunt bepalen en Je past in evenwichtssituaties de hefboomregel (F1 * r1 = F2 * r2) toe."
 	},
 	{
-		"id": "5e946325-5ad1-4bad-8725-2ce1e0253893",
-		"prefix": "3.2.2",
-		"title": "Je benoemt dat signalen vanuit de hersenen via zenuwen naar de spieren worden doorgegeven."
-	},
-	{
-		"id": "bf01ed2a-4612-4495-9539-72c001cca814",
-		"prefix": "3.2.4.",
-		"title": "Je legt uit wat lichamelijke conditie inhoudt en je benoemt hoe deze bevorderd kan worden."
-	},
-	{
-		"id": "f3431c22-0752-4509-ae71-7340289e6a9b",
-		"prefix": "3.3.2",
-		"title": "Je benoemt verschil tussen observatie en interpretatie van gedrag"
-	},
-	{
-		"id": "dc131e67-a7b3-4e29-bec7-cb69b9fb12e8",
+		"id": "66d324cf-2a35-410a-83f1-27118b2b65b0",
 		"title": "Je beschrijft belangrijke technologische ontwikkelingen op het gebied van transport, communicatie, productie, bebouwde omgeving en gezondheidszorg."
 	},
 	{
-		"id": "9c055beb-69e9-4c27-a816-f6f7577d5cdc",
+		"id": "66af30e8-550d-4963-8df3-86db22844004",
 		"title": "Je schrijft op bij een gegeven ontwerpprobleem wat de functie is van het ontwerp.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "0602fd13-c101-42bc-93f5-9baa00a7b33a",
+		"id": "6007ad56-b26e-4f8e-bca3-466787241dbc",
 		"title": "Je noemt één duurzaamheideis naast twee functionele eisen en twee gebruikerseisen.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "dfdbcd42-eb7e-4970-9c04-9c95b900cf72",
+		"id": "211fe1bb-05e8-450a-9bd2-72a3cde54750",
 		"title": "Je benoemt bij elke eis voor welke betrokkene die eis belangrijk is en stelt de volgorde van belangrijkheid van eisen vast.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "77938530-8e7b-4004-986c-187c94cec787",
+		"id": "5424c67a-68f7-4418-a7cf-e1c1d880013d",
 		"title": "Je controleert of een ontwerpvoorstel uitvoerbaar is met bestaande materialen en hulpmiddelen.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "b0676556-927d-4ecf-8377-e06193180200",
+		"id": "edcf7e14-ec4b-4495-9578-4e0f4e135c28",
 		"title": "Je maakt een schets van een ontwerpvoorstel met maatvoering en detailschetsen.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "8e010b86-3025-49a9-b7f1-cc65d72b80b2",
+		"id": "c2fb5fd7-801f-40e6-a270-59e398fa2e7c",
 		"title": "Je maakt een prototype of model volgens een eigen werkplan en bedenkt oplossingen voor problemen met het prototype of model.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "f2ba4127-ba6b-4e5c-aafe-99b414c0f516",
+		"id": "7e12d96b-5155-41ec-835d-101c72a1d799",
 		"title": "Je stelt een testplan op passend bij de ontwerpvraag en verantwoordt en legt verantwoording af.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "6ef044be-ca5d-4b7e-a1de-3f14e2e10e38",
+		"id": "0584581b-4f7a-4cb8-99fd-09d485a132dc",
 		"title": "Je voert het testplan uit, geeft het resultaat overzichtelijk weer en trekt conclusies.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "dd03d24f-cfa9-4ecd-9423-083e05990c43",
+		"id": "7c635de4-93b0-43ab-abe7-0f4c1868973e",
 		"title": "Je zet meerdere verbetervoorstellen op papier (schetsen, tekst).",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "15cd11f5-c381-49d0-a911-8e24b6a15af8",
+		"id": "2406346a-6e9c-4efd-be59-518bd0e184fc",
 		"title": "Je bereidt een presentatie voor met daarin de resultaten van het testplan en conclusies.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "9d59237a-5127-4d33-80cd-e290f4edc0a3",
+		"id": "9971144a-8b27-4379-a096-849727b7321c",
 		"title": "Je geeft een presentatie , waarin Je vertelt hoe het proces is verlopen en geeft uitleg over hoe aan het programma van eisen is voldaan.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "93c1c5dd-7cda-47cd-937b-6bf9ad8018c9",
+		"id": "0a74f97e-9c5e-4afb-ba28-28d36226304d",
 		"title": "Je beoordeelt met behulp van het rapport hoe het ontwerpproces is verlopen en geeft tips om het ontwerp te verbeteren.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "6f51e234-a76a-4373-8422-97a9c8431446",
+		"id": "db958f99-796c-4626-93ba-3d00a135dbc4",
 		"title": "Je benoemt waarin Je bent verbeterd bij het ontwerpen en wat Je nog zou willen leren.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "771bbe9f-6b84-4ef7-9338-d86f6049d02c",
+		"id": "2f54439c-fccb-4655-b796-8a1c59149ce6",
 		"title": "Je plaatst ideeën in een ideeëntabel en controleert of deze deeluitwerkingen uitvoerbaar zijn.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
-		"id": "9195614b-c602-4422-a1d2-901c3cf4eddb",
+		"id": "53d16a2c-3d2d-4381-8b8e-dc5fc7207e3f",
 		"title": "Je licht ideeën toe met schetsen.",
 		"tag_id": [
-			"16291789-55ad-4462-b1d1-192acb3283d5"
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
 		]
 	},
 	{
@@ -19462,6 +19126,31 @@
 		"title": "Je maakt inzichtelijk hoe met (deeltjes)modellen en eigenschappen stoffen en materialen beschreven kunnen worden"
 	},
 	{
+		"id": "c81fa4b6-7f37-4e31-80ac-11b5c671f122",
+		"prefix": "1.1.1.",
+		"title": "Je herkent en benoemt een aantal (stof)eigenschappen, waaronder kleur, oplosbaarheid in water, elektrische geleiding, kookpunt, smeltpunt en fase bij kamertemperatuur en dichtheid."
+	},
+	{
+		"id": "fd6a9f36-9d41-4f53-a8a1-fc47e887bf87",
+		"prefix": "1.1.2.",
+		"title": "Je onderscheidt en herkent drie stoffen aan de hand van hun eigenschappen."
+	},
+	{
+		"id": "ec59effa-b373-489a-a613-ab0f914de8ab",
+		"prefix": "1.1.3.",
+		"title": "Je gebruikt pictogrammen, etiketten (mate van brandbaarheid en giftigheid), en H- en P-zinnen."
+	},
+	{
+		"id": "b71ebf49-cdc7-4c31-b9ae-0d5223718638",
+		"prefix": "1.1.4.",
+		"title": "Je verklaart dat de dichtheid verandert bij veranderende temperatuur."
+	},
+	{
+		"id": "1a75d20f-70c7-45ba-8b8e-f83e882ce8ea",
+		"prefix": "1.1.5.",
+		"title": "Je herkent en ordent stoffen aan de hand van warmtegeleiding, brandbaarheid en mengbaarheid."
+	},
+	{
 		"id": "46235b4b-a1de-482d-a13b-76d550fb2c1c",
 		"prefix": "1.2.1",
 		"title": "Je beschrijft  het begrip zuivere stof op macroscopisch niveau"
@@ -19857,7 +19546,7 @@
 		"title": "Je herkent zuivere stof en mengsel op deeltjes niveau"
 	},
 	{
-		"id": "e96b44f0-8b33-446f-8b66-177e38b609c9",
+		"id": "d0945722-37a3-4f0d-9bad-c1745fe114c3",
 		"prefix": "3.",
 		"title": "Je maakt inzichtelijk dat bij chemische reacties beginstoffen verdwijnen en nieuwe stoffen ontstaan en dat deze reacties afhankelijk zijn van de aard van de stoffen en de reactieomstandigheden."
 	},
@@ -20182,230 +19871,6 @@
 		"title": "Je herkent mondiale voedselproblematiek, waaronder de rol van consumptie en reclame."
 	},
 	{
-		"id": "2f297f03-ed40-4b21-90f6-b746bc34acde",
-		"title": "Je begrijpt persoonlijke brieven, e-mails en vormen van sociale media voldoende om met iemand te kunnen corresponderen."
-	},
-	{
-		"id": "7233c7cd-0e89-4809-b700-d746ef905b5b",
-		"title": "Je begrijpt een eenvoudige formele brief of e-mail voldoende om adequaat te kunnen reageren."
-	},
-	{
-		"id": "0a82c7cb-abc9-4344-b1d6-859a1506ff9c",
-		"title": "Je vindt en begrijpt relevante informatie in brochures en korte officiële documenten op internet of in andere media."
-	},
-	{
-		"id": "7b9eedf0-6921-4bed-8d82-b8cd36a9b304",
-		"title": "Je zoekt informatie in langere teksten op internet of in andere media over thema's binnen het eigen interessegebied."
-	},
-	{
-		"id": "d499b75c-906d-475b-b31e-6d1e27920762",
-		"title": "Je begrijpt belangrijke feitelijke informatie in korte verslagen en artikelen."
-	},
-	{
-		"id": "cf87d3ff-1093-45cb-accb-054bbf532461",
-		"title": "Je begrijpt het hoofdthema en de belangrijkste argumenten in eenvoudige teksten op internet of in andere media."
-	},
-	{
-		"id": "2c0eb65a-ecc6-4e87-a268-c4b5ecbbb97c",
-		"title": "Je leest eenvoudige jeugdliteratuur."
-	},
-	{
-		"id": "d0af6c8b-80c5-41d1-a6cb-cb85c6fc62e6",
-		"title": "Je begrijpt eenvoudige, korte en goed gestructureerde instructies."
-	},
-	{
-		"id": "54c35749-6881-4f12-b851-50d615e8505d",
-		"title": "Je begrijpt duidelijk geschreven, ondubbelzinnige instructies."
-	},
-	{
-		"id": "0e69f3c3-65f9-47a5-8d67-81e123db419b",
-		"title": "Je begrijpt een korte, eenvoudige (standaard)brief, e-mail of (algemene) kennisgeving, bijvoorbeeld van een officiële instantie over een tijdelijk parkeerverbod."
-	},
-	{
-		"id": "232ed71c-338a-4427-84d9-85fcbcf301a1",
-		"title": "Je vindt en begrijpt specifieke informatie in eenvoudig, alledaags materiaal."
-	},
-	{
-		"id": "9424caff-a266-4302-bd12-7804aac03217",
-		"title": "Je begrijpt eenvoudige advertenties met weinig afkortingen."
-	},
-	{
-		"id": "1083f58c-2800-4250-9e9f-a9755a7f49d0",
-		"title": "Je vindt en begrijpt specifieke informatie in lijsten, overzichten en formulieren."
-	},
-	{
-		"id": "1b75194f-2ef9-4da0-b446-eb653ba36180",
-		"title": "Je begrijpt veelvoorkomende borden en mededelingen."
-	},
-	{
-		"id": "8bebde8e-b68a-4e4e-9546-40c60d6c8b37",
-		"title": "Je begrijpt specifieke informatie in eenvoudige teksten."
-	},
-	{
-		"id": "5e2a25ad-815b-4d58-9b54-95b9a5f2fbc0",
-		"title": "Je begrijpt de hoofdlijn van eenvoudige teksten in een tijdschrift, krant of op een website."
-	},
-	{
-		"id": "ddf06474-1f7e-443a-94be-c456086cae89",
-		"title": "Je begrijpt korte, beschrijvende teksten over vertrouwde onderwerpen."
-	},
-	{
-		"id": "0df9dc01-b24d-4125-a1b6-d21597ee4acd",
-		"title": "Je begrijpt zeer eenvoudige, korte en goed gestructureerde instructies."
-	},
-	{
-		"id": "6da0633a-1ecd-4d8b-b057-e12d2878ec7f",
-		"title": "Je begrijpt eenvoudige, goed gestructureerde instructies."
-	},
-	{
-		"id": "17069e14-b682-442b-a16f-c35ae59e1beb",
-		"title": "Je begrijpt een korte, eenvoudige (standaard)brief, e-mail of (algemene) kennisgeving, bijvoorbeeld van een officiële instantie over een tijdelijk parkeerverbod."
-	},
-	{
-		"id": "44ceba5b-428a-4124-a20f-0f6cf9fec388",
-		"title": "Je vindt en begrijpt specifieke informatie in eenvoudig, alledaags materiaal."
-	},
-	{
-		"id": "f6bbeaf4-32e3-4e2e-aea4-ea6c07bc1839",
-		"title": "Je begrijpt eenvoudige advertenties met weinig afkortingen."
-	},
-	{
-		"id": "4e96cba6-18f0-4cb9-b68e-d787411ca884",
-		"title": "Je vindt en begrijpt specifieke informatie in lijsten, overzichten en formulieren."
-	},
-	{
-		"id": "f8f19416-3fd3-4a85-90af-13c0ce01c6ec",
-		"title": "Je begrijpt veelvoorkomende borden en mededelingen."
-	},
-	{
-		"id": "91b18518-c73b-4fb9-b1c3-348d2245de15",
-		"title": "Je begrijpt specifieke informatie in eenvoudige teksten."
-	},
-	{
-		"id": "5b723846-b225-4752-a04a-6050c2203c3d",
-		"title": "Je begrijpt de hoofdlijn van eenvoudige teksten in een tijdschrift, krant of op een website."
-	},
-	{
-		"id": "9ce90b49-b5f1-431e-b222-5115e000ace2",
-		"title": "Je begrijpt korte, beschrijvende teksten over vertrouwde onderwerpen."
-	},
-	{
-		"id": "d2ff3139-6b51-4ada-a83a-5b3f9e465d89",
-		"title": "Je begrijpt zeer eenvoudige, korte en goed gestructureerde instructies."
-	},
-	{
-		"id": "563f2380-f6a7-49f7-8057-a670f4a6bbdd",
-		"title": "Je begrijpt eenvoudige, goed gestructureerde instructies."
-	},
-	{
-		"id": "84cf2405-1701-40ba-a503-102bc201733a",
-		"title": "Je begrijpt een korte, eenvoudige (standaard)brief, e-mail of (algemene) kennisgeving, bijvoorbeeld van een officiële instantie over een tijdelijk parkeerverbod."
-	},
-	{
-		"id": "c989870a-8e07-4cb6-a5dc-ad8542dabee5",
-		"title": "Je vindt en begrijpt specifieke informatie in eenvoudig, alledaags materiaal."
-	},
-	{
-		"id": "7e86c42c-f50f-4a4d-9a27-6fc2b96baf2e",
-		"title": "Je begrijpt eenvoudige advertenties met weinig afkortingen."
-	},
-	{
-		"id": "85ddb3c9-c6d6-4832-b258-48e7b379caee",
-		"title": "Je vindt en begrijpt specifieke informatie in lijsten, overzichten en formulieren."
-	},
-	{
-		"id": "fe09fdb0-5267-42a7-8697-bf2845c93699",
-		"title": "Je begrijpt veelvoorkomende borden en mededelingen."
-	},
-	{
-		"id": "c8545553-7660-4dea-9f28-f09725642be1",
-		"title": "Je begrijpt specifieke informatie in eenvoudige teksten."
-	},
-	{
-		"id": "ae62fa47-baf2-4755-b44c-ffec46d2f4db",
-		"title": "Je begrijpt de hoofdlijn van eenvoudige teksten in een tijdschrift, krant of op een website."
-	},
-	{
-		"id": "13224c91-e9b3-43ac-a819-506a03b8297f",
-		"title": "Je begrijpt korte, beschrijvende teksten over vertrouwde onderwerpen."
-	},
-	{
-		"id": "a502a45e-d533-4ba8-9f69-99731774e2c3",
-		"title": "Je begrijpt zeer eenvoudige, korte en goed gestructureerde instructies."
-	},
-	{
-		"id": "ccb4ca0d-cc8d-4661-92f7-c2b03193b1b0",
-		"title": "Je begrijpt eenvoudige, goed gestructureerde instructies."
-	},
-	{
-		"id": "7f6b2040-33ba-4f1e-876f-294e46cd768d",
-		"title": "Je begrijpt korte eenvoudige mededelingen, bijvoorbeeld via sociale media of op brief- of ansichtkaarten."
-	},
-	{
-		"id": "335c1919-bd8b-4e1e-b826-89a79c3e60e4",
-		"title": "Je begrijpt voorgedrukte kaarten met standaard boodschappen."
-	},
-	{
-		"id": "94fb88de-d36b-4d6c-bdc5-16c374d9abb9",
-		"title": "Je leest een korte standaard mededeling."
-	},
-	{
-		"id": "f6aa5172-aa02-4ccc-9040-1bf5498dbd0d",
-		"title": "Je zoekt dingen op in of kiest uit een lijst."
-	},
-	{
-		"id": "445357b3-fa7b-4ad9-9d9f-6d5f81060c97",
-		"title": "Je leest eenvoudige informatie op een poster, mededelingenbord of brochure."
-	},
-	{
-		"id": "64470b1c-746e-4756-81ed-67e553145e8d",
-		"title": "Je vormt je een idee van de inhoud van een korte tekst die waar mogelijk visueel ondersteund wordt."
-	},
-	{
-		"id": "11a71cc9-452c-4153-9313-7f042add021f",
-		"title": "Je begrijpt informatie over personen en plaatsen in korte informatieve teksten."
-	},
-	{
-		"id": "b840ccf9-135d-402f-a801-96efee2c862c",
-		"title": "Je begrijpt zeer eenvoudige, korte en goed gestructureerde instructies"
-	},
-	{
-		"id": "86dec884-9f4d-4668-b06a-f2afba117473",
-		"title": "Je begrijpt persoonlijke brieven, e-mails en vormen van sociale media voldoende om met iemand te kunnen corresponderen."
-	},
-	{
-		"id": "cd781c53-200c-4ee4-8f82-60bba95cc0f5",
-		"title": "Je begrijpt een eenvoudige formele brief of e-mail voldoende om adequaat te kunnen reageren."
-	},
-	{
-		"id": "ce6f6492-d0e1-4477-bc38-54ebf5674429",
-		"title": "Je vindt en begrijpt relevante informatie in brochures en korte officiële documenten op internet of in andere media."
-	},
-	{
-		"id": "60a94e49-7914-40ef-aae3-695559645c74",
-		"title": "Je zoekt informatie in langere teksten op internet of in andere media over thema's binnen het eigen interessegebied."
-	},
-	{
-		"id": "8fb38ddc-024e-4feb-a8ad-155fb5fe1f62",
-		"title": "Je begrijpt belangrijke feitelijke informatie in korte verslagen en artikelen."
-	},
-	{
-		"id": "6101accc-9f2b-423d-b974-eafab9276504",
-		"title": "Je begrijpt het hoofdthema en de belangrijkste argumenten in eenvoudige teksten op internet of in andere media."
-	},
-	{
-		"id": "9013d66d-8d15-44db-b103-b5e276c76ba5",
-		"title": "Je leest eenvoudige jeugdliteratuur."
-	},
-	{
-		"id": "36c5f78f-fdc2-447c-ae62-b929f4a96582",
-		"title": "Je begrijpt eenvoudige, korte en goed gestructureerde instructies."
-	},
-	{
-		"id": "59c4d87e-11e7-452f-8cd4-412470756bab",
-		"title": "Je begrijpt duidelijk geschreven, ondubbelzinnige instructies."
-	},
-	{
 		"id": "96300d4f-8788-4508-9d3b-be2437c599e8",
 		"prefix": "4.2.1",
 		"title": "Je benoemt aardolie, aardgas en steenkool als belangrijkste fossiele brandstoffen."
@@ -20671,11 +20136,11 @@
 		"title": "Je legt de veiligheidsmaatregelen ter voorkoming van letsel in het verkeer (valhelm, autogordels, veiligheidskooi, kreukelzone, airbag, hoofdsteunen) uit."
 	},
 	{
-		"id": "c69693ec-3f7b-4d52-a0ea-f2ff742c1863",
+		"id": "733b1ed3-567c-4146-9756-dad8caef3686",
 		"title": "Kerndoel 30"
 	},
 	{
-		"id": "3ca704c4-53d9-408a-b693-b9d0c12df781",
+		"id": "58cb7b62-84c5-4775-aa58-237618d4af52",
 		"title": "Kerndoel 33"
 	},
 	{
@@ -22779,7 +22244,7 @@
 		"title": "Je beschrijft  burgerlijk bestuur en stedelijke cultuur in Nederland met voorbeelden."
 	},
 	{
-		"id": "92a12b3d-ee2b-4614-9d98-ad4af5e5f7a5",
+		"id": "0d5a75c2-5de0-47fa-bcb5-dd396a188533",
 		"prefix": "6.3.1.",
 		"title": "Je beschrijft  kenmerken van het absolutisme."
 	},
@@ -22984,7 +22449,7 @@
 		"title": "Je legt uit waarom de steden zelfstandiger werden t.o.v. de adel."
 	},
 	{
-		"id": "ddbc9508-8fc6-4c77-96ef-447b96d21549",
+		"id": "896a03f6-5ce5-4bb8-8999-ab81814871be",
 		"prefix": "4.4.1.",
 		"title": "Je beschrijft het ontstaan van staten aan de hand van een voorbeeld (bijvoorbeeld Nederland)."
 	},
@@ -23734,6 +23199,54 @@
 		"title": "Je plaatst historische gebeurtenissen, ontwikkelingen, verschijnselen en (handelingen en gedachten van) personen plaatsen in  de tijd van televisie en computer (vanaf 1950) en je geeft er betekenis aan."
 	},
 	{
+		"id": "0de35d3b-5cc8-4f97-a666-8e5dd1612b93",
+		"title": "Je praat over onderwerpen die alledaags en vertrouwd zijn en passen bij je persoonlijke belangstelling, of betrekking hebben op je eigen werk of opleiding"
+	},
+	{
+		"id": "ea6337fa-c76c-4718-908a-bd5e67d7dd0c",
+		"title": "Je woordenschat is toereikend om onvoorbereid deel te nemen aan gesprekken over alledaagse onderwerpen en over actuele gebeurtenissen, eventueel met omschrijvingen."
+	},
+	{
+		"id": "13524e55-29bf-4178-855c-cdb1700ce635",
+		"title": "Je verbindt series van korte, eenvoudige afzonderlijke elementen tot een samenhangende tekst of een samenhangend verhaal."
+	},
+	{
+		"id": "369469b8-6013-45b8-82d2-900fefb02ed2",
+		"title": "Je maakt correct gebruik van eenvoudige constructies die horen bij voorspelbare situaties."
+	},
+	{
+		"id": "db6aa4a1-d3e5-4cdf-aaef-c1fd8dff858b",
+		"title": "Je maakt redelijk accuraatgebruik van frequente routines en patronen die horen bij voorspelbare situatie"
+	},
+	{
+		"id": "53e59353-229e-4c09-a7b2-56accd9493ea",
+		"title": "Je begint, voert en sluit eenvoudige face-to-face gesprekken over bekende onderwerpen die jou persoonlijke interesseren af."
+	},
+	{
+		"id": "df7b6c08-32fd-47b5-8cf8-cdd7c9931120",
+		"title": "Je herhaalt hierbij gedeeltelijk wat iemand gezegd heeft."
+	},
+	{
+		"id": "ead10961-b08f-41bc-961b-39fb4a87200c",
+		"title": "Je bent goed te volgen in sociale gesprekken, hoewel in langere stukken tekst pauzes kunnen voorkomen om na te denken en fouten te herstellen."
+	},
+	{
+		"id": "3632fdef-5b36-47e1-bd54-d5205d03f254",
+		"title": "Je uitspraak is duidelijk verstaanbaar, zelfs met een accent en met af en toe een verkeerd uitgesproken woord."
+	},
+	{
+		"id": "c8e52e4d-3699-4754-bc58-475f40ffad72",
+		"title": "Je omschrijft een woord als je niet meteen op het woord kan komen, eventueel met gebruik van gebaren en mimiek."
+	},
+	{
+		"id": "a3d28a4d-88eb-430b-882c-b8d5046411f3",
+		"title": "Je maakt gebruik van een overkoepelend begrip ('tool' voor 'screwdriver')."
+	},
+	{
+		"id": "1e10d428-39bb-4ba2-9407-8852438813e4",
+		"title": "Je herhaalt wat de ander gezegd heeft om (denk)tijd te winnen."
+	},
+	{
 		"id": "07b81bbb-285f-480f-b87e-f30f57c6b583",
 		"title": "Je uit je gevoelens en reageert op gevoelens van anderen."
 	},
@@ -23778,7 +23291,7 @@
 		"title": "Je vraagt telefonische informatie op of geeft dit door."
 	},
 	{
-		"id": "be1c5f1f-4f7a-4d52-940b-8f768eda3353",
+		"id": "f23a0cd0-3d03-4ccf-9e0d-eabd0179ac6f",
 		"prefix": "1.2.2",
 		"title": "Je kunt formele discussies voeren tijdens bijeenkomsten en vergaderingen"
 	},
@@ -23963,6 +23476,42 @@
 		"title": "Je leidt uit de context af wat de betekenis is van zo nu en dan voorkomende, onbekende woorden en je herleidt de betekenis van zinnen, op voorwaarde dat het besproken onderwerp bekend is."
 	},
 	{
+		"id": "2f297f03-ed40-4b21-90f6-b746bc34acde",
+		"title": "Je begrijpt persoonlijke brieven, e-mails en vormen van sociale media voldoende om met iemand te kunnen corresponderen."
+	},
+	{
+		"id": "7233c7cd-0e89-4809-b700-d746ef905b5b",
+		"title": "Je begrijpt een eenvoudige formele brief of e-mail voldoende om adequaat te kunnen reageren."
+	},
+	{
+		"id": "0a82c7cb-abc9-4344-b1d6-859a1506ff9c",
+		"title": "Je vindt en begrijpt relevante informatie in brochures en korte officiële documenten op internet of in andere media."
+	},
+	{
+		"id": "7b9eedf0-6921-4bed-8d82-b8cd36a9b304",
+		"title": "Je zoekt informatie in langere teksten op internet of in andere media over thema's binnen het eigen interessegebied."
+	},
+	{
+		"id": "d499b75c-906d-475b-b31e-6d1e27920762",
+		"title": "Je begrijpt belangrijke feitelijke informatie in korte verslagen en artikelen."
+	},
+	{
+		"id": "cf87d3ff-1093-45cb-accb-054bbf532461",
+		"title": "Je begrijpt het hoofdthema en de belangrijkste argumenten in eenvoudige teksten op internet of in andere media."
+	},
+	{
+		"id": "2c0eb65a-ecc6-4e87-a268-c4b5ecbbb97c",
+		"title": "Je leest eenvoudige jeugdliteratuur."
+	},
+	{
+		"id": "d0af6c8b-80c5-41d1-a6cb-cb85c6fc62e6",
+		"title": "Je begrijpt eenvoudige, korte en goed gestructureerde instructies."
+	},
+	{
+		"id": "54c35749-6881-4f12-b851-50d615e8505d",
+		"title": "Je begrijpt duidelijk geschreven, ondubbelzinnige instructies."
+	},
+	{
 		"id": "3528b848-cbd1-45e6-8db4-2ac70316cb86",
 		"title": "Je luistert naar teksten die betrekking hebben op vertrouwde onderwerpen uit het eigen interessegebied of op actualiteiten."
 	},
@@ -24033,6 +23582,58 @@
 	{
 		"id": "47911524-268a-40fb-b52b-fa68bf513fdd",
 		"title": "Je volgt de handeling en het verloop van de gebeurtenissen in films als het verhaal door beeld en actie duidelijk wordt en de taal niet te moeilijk is."
+	},
+	{
+		"id": "09e701e8-4ae6-4b86-bdcc-07104514f0be",
+		"title": "Je praat over onderwerpen die eenvoudig, alledaags, vertrouwd en gerelateerd zijn aan directe behoeften."
+	},
+	{
+		"id": "8f07271f-18a7-4661-b1e8-7c6772b2d5d8",
+		"title": "Je woordenschat bestaat uiteenvoudige uitdrukkingen en kleine groepen van woorden die je uit je hoofd geleerd hebt en waarmee je zeer beperkte informatie uitwisselt in eenvoudige, alledaagse en vertrouwde activiteiten."
+	},
+	{
+		"id": "ce1a6763-5f41-4bd4-8943-e96658059146",
+		"title": "Je geeft het verband aan tussen woorden of groepen van woorden door basisvoegwoorden te gebruiken, zoals ‘en’ of ‘dan’"
+	},
+	{
+		"id": "2e418c8e-fe47-41e4-b4be-279578c30261",
+		"title": "Dit breid je incidenteel uit met andere eenvoudige voegwoorden, zoals ‘maar’ en ‘omdat’."
+	},
+	{
+		"id": "1f3c42f1-0ae2-4be8-9e3f-5a222b227989",
+		"title": "Je maakt gebruik van een beperkt aantal eenvoudige, uit het hoofd geleerde uitdrukkingen en eenvoudige grammaticale constructies. Deze hoeven nog niet correct te zijn."
+	},
+	{
+		"id": "2ed5763a-d5bf-4480-8e51-784110b36acf",
+		"title": "Je stelt vragen en geeft antwoorden op eenvoudige uitspraken."
+	},
+	{
+		"id": "194dce4f-c6b5-4283-b213-50823c4b1f60",
+		"title": "Je communicatie is nog vaak afhankelijk van herhaling, herformulering en correcties."
+	},
+	{
+		"id": "c4e68cb9-b6c4-4ac7-8213-22b76baa390b",
+		"title": "Je hoeft geen initiatief te tonen om de conversatie gaande te houden."
+	},
+	{
+		"id": "b5269e73-e2ab-462a-9c8a-b2da7602f107",
+		"title": "Je bent beperkt tot veel standaarduitdrukkingen met veel pauzes, valse starts en herformuleringen."
+	},
+	{
+		"id": "9cdaada6-cbc6-4f4e-8779-083ca47b1507",
+		"title": "Je uitspraak kan met enige inspanning worden verstaan door native speakers die gewend zijn om te luisteren naar mensen met een andere taalachtergrond."
+	},
+	{
+		"id": "70385913-fa5a-4014-af1a-bccce9acd776",
+		"title": "Je geeft het aan als je iets niet begrijpt."
+	},
+	{
+		"id": "e5f807f5-5f11-4d81-8f1e-8099df1bc2c1",
+		"title": "Je vraagt om een langzamer spreektempo, herhaling of uitleg, eventueel met behulp van gebaren en mimiek."
+	},
+	{
+		"id": "002fbc82-0501-4bcb-951d-40a0d05856e8",
+		"title": "Je maakt gebruik van 'fillers', zoals 'well', 'uhm', en stopwoorden zoals 'kind of', 'youknow' enz."
 	},
 	{
 		"id": "e2bc9501-c073-4c3c-beab-cad87f69ed8c",
@@ -24223,6 +23824,46 @@
 		"title": "Je voorspelt van korte teksten over vertrouwde en bekende onderwerpen waar de tekst waarschijnlijk over gaat, op basis van voorkennis en gebruikmakend van de lay-out."
 	},
 	{
+		"id": "0e69f3c3-65f9-47a5-8d67-81e123db419b",
+		"title": "Je begrijpt een korte, eenvoudige (standaard)brief, e-mail of (algemene) kennisgeving, bijvoorbeeld van een officiële instantie over een tijdelijk parkeerverbod."
+	},
+	{
+		"id": "232ed71c-338a-4427-84d9-85fcbcf301a1",
+		"title": "Je vindt en begrijpt specifieke informatie in eenvoudig, alledaags materiaal."
+	},
+	{
+		"id": "9424caff-a266-4302-bd12-7804aac03217",
+		"title": "Je begrijpt eenvoudige advertenties met weinig afkortingen."
+	},
+	{
+		"id": "1083f58c-2800-4250-9e9f-a9755a7f49d0",
+		"title": "Je vindt en begrijpt specifieke informatie in lijsten, overzichten en formulieren."
+	},
+	{
+		"id": "1b75194f-2ef9-4da0-b446-eb653ba36180",
+		"title": "Je begrijpt veelvoorkomende borden en mededelingen."
+	},
+	{
+		"id": "8bebde8e-b68a-4e4e-9546-40c60d6c8b37",
+		"title": "Je begrijpt specifieke informatie in eenvoudige teksten."
+	},
+	{
+		"id": "5e2a25ad-815b-4d58-9b54-95b9a5f2fbc0",
+		"title": "Je begrijpt de hoofdlijn van eenvoudige teksten in een tijdschrift, krant of op een website."
+	},
+	{
+		"id": "ddf06474-1f7e-443a-94be-c456086cae89",
+		"title": "Je begrijpt korte, beschrijvende teksten over vertrouwde onderwerpen."
+	},
+	{
+		"id": "0df9dc01-b24d-4125-a1b6-d21597ee4acd",
+		"title": "Je begrijpt zeer eenvoudige, korte en goed gestructureerde instructies."
+	},
+	{
+		"id": "6da0633a-1ecd-4d8b-b057-e12d2878ec7f",
+		"title": "Je begrijpt eenvoudige, goed gestructureerde instructies."
+	},
+	{
 		"id": "0a80dd40-fc69-4575-b7be-2ad397d37f93",
 		"title": "Je luistert naar teksten die betrekking hebben op eenvoudige en bekende onderwerpen uit het dagelijks leven"
 	},
@@ -24277,6 +23918,58 @@
 	{
 		"id": "29b363d0-40d6-41c9-bd4d-8c58095e7e89",
 		"title": "Je begrijpt korte, duidelijke berichten van computers en antwoordapparaten"
+	},
+	{
+		"id": "ee937363-1f8c-4d6f-a32c-5ec80b707a05",
+		"title": "Je praat over onderwerpen die eenvoudig, alledaags, vertrouwd en gerelateerd zijn aan directe behoeften."
+	},
+	{
+		"id": "da3e6f32-1367-4f83-94b6-bec8edc59a38",
+		"title": "Je woordenschat bestaat uiteenvoudige uitdrukkingen en kleine groepen van woorden die je uit je hoofd geleerd hebt en waarmee je zeer beperkte informatie uitwisselt in eenvoudige, alledaagse en vertrouwde activiteiten."
+	},
+	{
+		"id": "d31c9f8a-9299-46f5-bc8e-a234475f3a3e",
+		"title": "Je geeft het verband aan tussen woorden of groepen van woorden door basisvoegwoorden te gebruiken, zoals ‘en’ of ‘dan’"
+	},
+	{
+		"id": "e3354c78-0fe3-4338-9450-ca88254d0311",
+		"title": "Dit breid je incidenteel uit met andere eenvoudige voegwoorden, zoals ‘maar’ en ‘omdat’."
+	},
+	{
+		"id": "e7003120-c30c-4938-8f80-aeb28e3d9f31",
+		"title": "Je maakt gebruik van een beperkt aantal eenvoudige, uit het hoofd geleerde uitdrukkingen en eenvoudige grammaticale constructies. Deze hoeven nog niet correct te zijn."
+	},
+	{
+		"id": "e5604054-0546-42c1-b20c-37c80fa5daff",
+		"title": "Je stelt vragen en geeft antwoorden op eenvoudige uitspraken."
+	},
+	{
+		"id": "065d719f-4999-46fc-be5b-03ae2cf98224",
+		"title": "Je communicatie is nog vaak afhankelijk van herhaling, herformulering en correcties."
+	},
+	{
+		"id": "e296bc94-474f-4d5e-b118-6fc1050124a0",
+		"title": "Je hoeft geen initiatief te tonen om de conversatie gaande te houden."
+	},
+	{
+		"id": "5ee714c8-86e4-4398-ad9d-055e19724845",
+		"title": "Je bent beperkt tot veel standaarduitdrukkingen met veel pauzes, valse starts en herformuleringen."
+	},
+	{
+		"id": "9cd7cc35-be8b-4946-a879-7c5491be198d",
+		"title": "Je uitspraak kan met enige inspanning worden verstaan door native speakers die gewend zijn om te luisteren naar mensen met een andere taalachtergrond."
+	},
+	{
+		"id": "c3bc0100-e323-4036-9493-cf08e9c3c3fd",
+		"title": "Je geeft het aan als je iets niet begrijpt."
+	},
+	{
+		"id": "b3fddf47-3051-4dd5-ab8f-7919a875dc5a",
+		"title": "Je vraagt om een langzamer spreektempo, herhaling of uitleg, eventueel met behulp van gebaren en mimiek."
+	},
+	{
+		"id": "1bdf0ed5-82b1-45b7-ba76-b972dc671b9c",
+		"title": "Je maakt gebruik van 'fillers', zoals 'well', 'uhm', en stopwoorden zoals 'kind of', 'youknow' enz."
 	},
 	{
 		"id": "60701d19-e13f-4665-9120-9549b3d6f5b2",
@@ -24467,6 +24160,46 @@
 		"title": "Je voorspelt van korte teksten over vertrouwde en bekende onderwerpen waar de tekst waarschijnlijk over gaat, op basis van voorkennis en gebruikmakend van de lay-out."
 	},
 	{
+		"id": "17069e14-b682-442b-a16f-c35ae59e1beb",
+		"title": "Je begrijpt een korte, eenvoudige (standaard)brief, e-mail of (algemene) kennisgeving, bijvoorbeeld van een officiële instantie over een tijdelijk parkeerverbod."
+	},
+	{
+		"id": "44ceba5b-428a-4124-a20f-0f6cf9fec388",
+		"title": "Je vindt en begrijpt specifieke informatie in eenvoudig, alledaags materiaal."
+	},
+	{
+		"id": "f6bbeaf4-32e3-4e2e-aea4-ea6c07bc1839",
+		"title": "Je begrijpt eenvoudige advertenties met weinig afkortingen."
+	},
+	{
+		"id": "4e96cba6-18f0-4cb9-b68e-d787411ca884",
+		"title": "Je vindt en begrijpt specifieke informatie in lijsten, overzichten en formulieren."
+	},
+	{
+		"id": "f8f19416-3fd3-4a85-90af-13c0ce01c6ec",
+		"title": "Je begrijpt veelvoorkomende borden en mededelingen."
+	},
+	{
+		"id": "91b18518-c73b-4fb9-b1c3-348d2245de15",
+		"title": "Je begrijpt specifieke informatie in eenvoudige teksten."
+	},
+	{
+		"id": "5b723846-b225-4752-a04a-6050c2203c3d",
+		"title": "Je begrijpt de hoofdlijn van eenvoudige teksten in een tijdschrift, krant of op een website."
+	},
+	{
+		"id": "9ce90b49-b5f1-431e-b222-5115e000ace2",
+		"title": "Je begrijpt korte, beschrijvende teksten over vertrouwde onderwerpen."
+	},
+	{
+		"id": "d2ff3139-6b51-4ada-a83a-5b3f9e465d89",
+		"title": "Je begrijpt zeer eenvoudige, korte en goed gestructureerde instructies."
+	},
+	{
+		"id": "563f2380-f6a7-49f7-8057-a670f4a6bbdd",
+		"title": "Je begrijpt eenvoudige, goed gestructureerde instructies."
+	},
+	{
 		"id": "d13447c8-1d3a-483c-8b5d-28d236ac5834",
 		"title": "Je luistert naar teksten die betrekking hebben op eenvoudige en bekende onderwerpen uit het dagelijks leven"
 	},
@@ -24521,6 +24254,58 @@
 	{
 		"id": "7626b1fb-a61e-43a7-bbd1-bd8d8ec29f35",
 		"title": "Je begrijpt korte, duidelijke berichten van computers en antwoordapparaten"
+	},
+	{
+		"id": "ad655c56-7dd4-4557-8306-33377df43c55",
+		"title": "Je praat over onderwerpen die eenvoudig, alledaags, vertrouwd en gerelateerd zijn aan directe behoeften."
+	},
+	{
+		"id": "431efaa7-f89f-40f7-b0c9-53b80e2f1c7a",
+		"title": "Je woordenschat bestaat uiteenvoudige uitdrukkingen en kleine groepen van woorden die je uit je hoofd geleerd hebt en waarmee je zeer beperkte informatie uitwisselt in eenvoudige, alledaagse en vertrouwde activiteiten."
+	},
+	{
+		"id": "3e0420be-99d1-4d28-9d22-37fe4d2dba73",
+		"title": "Je geeft het verband aan tussen woorden of groepen van woorden door basisvoegwoorden te gebruiken, zoals ‘en’ of ‘dan’"
+	},
+	{
+		"id": "b8639eb1-ee43-4975-805b-f231c9cc2f21",
+		"title": "Dit breid je incidenteel uit met andere eenvoudige voegwoorden, zoals ‘maar’ en ‘omdat’."
+	},
+	{
+		"id": "6fed63b0-eab9-4405-bd51-e5f1174d86f7",
+		"title": "Je maakt gebruik van een beperkt aantal eenvoudige, uit het hoofd geleerde uitdrukkingen en eenvoudige grammaticale constructies. Deze hoeven nog niet correct te zijn."
+	},
+	{
+		"id": "cdb07d0e-496d-43a8-acfb-69d3611b1dbd",
+		"title": "Je stelt vragen en geeft antwoorden op eenvoudige uitspraken."
+	},
+	{
+		"id": "bace6c2f-02ad-47e7-96cd-d89444e2607f",
+		"title": "Je communicatie is nog vaak afhankelijk van herhaling, herformulering en correcties."
+	},
+	{
+		"id": "73b6f001-9fb7-432b-8a40-80c4e94bc58d",
+		"title": "Je hoeft geen initiatief te tonen om de conversatie gaande te houden."
+	},
+	{
+		"id": "cf1164d9-cb3c-4ed5-ab4e-e1300a536386",
+		"title": "Je bent beperkt tot veel standaarduitdrukkingen met veel pauzes, valse starts en herformuleringen."
+	},
+	{
+		"id": "732e0a4c-467a-4627-bf0d-d4470c28afff",
+		"title": "Je uitspraak kan met enige inspanning worden verstaan door native speakers die gewend zijn om te luisteren naar mensen met een andere taalachtergrond."
+	},
+	{
+		"id": "4e196667-eb95-469e-9e60-91ba3331872f",
+		"title": "Je geeft het aan als je iets niet begrijpt."
+	},
+	{
+		"id": "cdc40620-93a1-4251-817e-df3561fdbb14",
+		"title": "Je vraagt om een langzamer spreektempo, herhaling of uitleg, eventueel met behulp van gebaren en mimiek."
+	},
+	{
+		"id": "fcd483c6-64cb-486e-b65e-8442220cd260",
+		"title": "Je maakt gebruik van 'fillers', zoals 'well', 'uhm', en stopwoorden zoals 'kind of', 'youknow' enz."
 	},
 	{
 		"id": "f6850ae5-cd93-497b-961d-cd5486150792",
@@ -24711,6 +24496,46 @@
 		"title": "Je voorspelt van korte teksten over vertrouwde en bekende onderwerpen waar de tekst waarschijnlijk over gaat, op basis van voorkennis en gebruikmakend van de lay-out."
 	},
 	{
+		"id": "84cf2405-1701-40ba-a503-102bc201733a",
+		"title": "Je begrijpt een korte, eenvoudige (standaard)brief, e-mail of (algemene) kennisgeving, bijvoorbeeld van een officiële instantie over een tijdelijk parkeerverbod."
+	},
+	{
+		"id": "c989870a-8e07-4cb6-a5dc-ad8542dabee5",
+		"title": "Je vindt en begrijpt specifieke informatie in eenvoudig, alledaags materiaal."
+	},
+	{
+		"id": "7e86c42c-f50f-4a4d-9a27-6fc2b96baf2e",
+		"title": "Je begrijpt eenvoudige advertenties met weinig afkortingen."
+	},
+	{
+		"id": "85ddb3c9-c6d6-4832-b258-48e7b379caee",
+		"title": "Je vindt en begrijpt specifieke informatie in lijsten, overzichten en formulieren."
+	},
+	{
+		"id": "fe09fdb0-5267-42a7-8697-bf2845c93699",
+		"title": "Je begrijpt veelvoorkomende borden en mededelingen."
+	},
+	{
+		"id": "c8545553-7660-4dea-9f28-f09725642be1",
+		"title": "Je begrijpt specifieke informatie in eenvoudige teksten."
+	},
+	{
+		"id": "ae62fa47-baf2-4755-b44c-ffec46d2f4db",
+		"title": "Je begrijpt de hoofdlijn van eenvoudige teksten in een tijdschrift, krant of op een website."
+	},
+	{
+		"id": "13224c91-e9b3-43ac-a819-506a03b8297f",
+		"title": "Je begrijpt korte, beschrijvende teksten over vertrouwde onderwerpen."
+	},
+	{
+		"id": "a502a45e-d533-4ba8-9f69-99731774e2c3",
+		"title": "Je begrijpt zeer eenvoudige, korte en goed gestructureerde instructies."
+	},
+	{
+		"id": "ccb4ca0d-cc8d-4661-92f7-c2b03193b1b0",
+		"title": "Je begrijpt eenvoudige, goed gestructureerde instructies."
+	},
+	{
 		"id": "4274c296-fd29-4add-9986-4384fe360dc1",
 		"title": "Je luistert naar teksten die betrekking hebben op eenvoudige en bekende onderwerpen uit het dagelijks leven"
 	},
@@ -24765,6 +24590,54 @@
 	{
 		"id": "72c79e5b-eead-4098-99d5-701fab646d13",
 		"title": "Je begrijpt korte, duidelijke berichten van computers en antwoordapparaten"
+	},
+	{
+		"id": "558b9e67-b797-496f-ae6d-d830d83385f8",
+		"title": "Je praat over onderwerpen die eenvoudig, alledaags, zeer vertrouwd en gerelateerd zijn aan directe behoeften."
+	},
+	{
+		"id": "87f74a8f-12da-4a26-86fe-1e51f43693b2",
+		"title": "Je woordenschat is beperkt tot een klein repertoire van woorden en eenvoudige uitdrukkingen om jezelf te redden in bepaalde concrete situaties en te praten over persoonlijke details, zoals welbevinden."
+	},
+	{
+		"id": "be3f7c69-f856-478b-a314-ca3d543df07b",
+		"title": "Je geeft een verband aan tussen woorden of groepen van woorden door basisvoegwoorden te gebruiken, zoals 'en' of 'dan'."
+	},
+	{
+		"id": "ad5f3a41-b040-441b-b364-106b1128324f",
+		"title": "Je maakt gebruik van een beperkt aantal eenvoudige, uit het hoofd geleerde uitdrukkingen. Deze hoeven nog niet correct te zijn"
+	},
+	{
+		"id": "7476a0c9-da82-4ee5-8955-e3fcccd5a129",
+		"title": "Je stelt vragen en geeft antwoorden over persoonlijke details, zoals welbevinden, hoy's e.d."
+	},
+	{
+		"id": "e828d33f-6178-4de7-a0e4-752595a931ec",
+		"title": "Je communicatie is totaal afhankelijk van herhaling, herformulering en correcties."
+	},
+	{
+		"id": "2b4b1cad-a719-4ef8-ae34-e7d5cdce88db",
+		"title": "Je bent beperkt tot korte, geÃ¯soleerde standaarduitdrukkingen met veel pauzes."
+	},
+	{
+		"id": "427e4b64-82f2-46af-be9c-f70eb59c0fc0",
+		"title": "Je spreekt minder bekende woorden uiten herstelt storingen in de communicatie."
+	},
+	{
+		"id": "b916c996-7fc6-4b9d-b617-072c4c68c322",
+		"title": "Je uitspraak van een beperkt aantal geleerde woorden en uitdrukkingen worden met enige inspanning verstaan door native speakers die gewend zijn om te luisteren naar mensen met een andere taalachtergrond."
+	},
+	{
+		"id": "d14f0c7b-5115-465d-8fc5-7f37fbe4ddd3",
+		"title": "Je geeft het aan als je iets niet begrijpt."
+	},
+	{
+		"id": "582327d5-f078-4a19-a013-39ef29340778",
+		"title": "Je vraagt om een langzamer spreektempo, herhaling of uitleg, eventueel met behulp van gebaren en mimiek."
+	},
+	{
+		"id": "ff7a6689-7c21-4e12-bd92-36d580986299",
+		"title": "Je maakt gebruik van 'fillers', zoals 'well', 'uhm', en stopwoorden zoals 'kind of', 'youknow' enz."
 	},
 	{
 		"id": "fcf8118f-459c-46f9-8f71-60f66ca3bce1",
@@ -24903,6 +24776,38 @@
 		"title": "Je voorspelt van korte teksten over zeer vertrouwde en bekende onderwerpen waar de tekst waarschijnlijk over gaat, op basis van voorkennis en gebruikmakend van de lay-out."
 	},
 	{
+		"id": "7f6b2040-33ba-4f1e-876f-294e46cd768d",
+		"title": "Je begrijpt korte eenvoudige mededelingen, bijvoorbeeld via sociale media of op brief- of ansichtkaarten."
+	},
+	{
+		"id": "335c1919-bd8b-4e1e-b826-89a79c3e60e4",
+		"title": "Je begrijpt voorgedrukte kaarten met standaard boodschappen."
+	},
+	{
+		"id": "94fb88de-d36b-4d6c-bdc5-16c374d9abb9",
+		"title": "Je leest een korte standaard mededeling."
+	},
+	{
+		"id": "f6aa5172-aa02-4ccc-9040-1bf5498dbd0d",
+		"title": "Je zoekt dingen op in of kiest uit een lijst."
+	},
+	{
+		"id": "445357b3-fa7b-4ad9-9d9f-6d5f81060c97",
+		"title": "Je leest eenvoudige informatie op een poster, mededelingenbord of brochure."
+	},
+	{
+		"id": "64470b1c-746e-4756-81ed-67e553145e8d",
+		"title": "Je vormt je een idee van de inhoud van een korte tekst die waar mogelijk visueel ondersteund wordt."
+	},
+	{
+		"id": "11a71cc9-452c-4153-9313-7f042add021f",
+		"title": "Je begrijpt informatie over personen en plaatsen in korte informatieve teksten."
+	},
+	{
+		"id": "b840ccf9-135d-402f-a801-96efee2c862c",
+		"title": "Je begrijpt zeer eenvoudige, korte en goed gestructureerde instructies"
+	},
+	{
 		"id": "096397cd-fb5d-4a83-8fc4-5990ae695e56",
 		"title": "Je luistert naar teksten die betrekking hebben op zeer eenvoudige en bekende onderwerpen uit het dagelijks leven."
 	},
@@ -24945,6 +24850,50 @@
 	{
 		"id": "69da2b58-3f08-4ad7-ac3e-55ab693b7bd1",
 		"title": "Je bepaalt het onderwerp van korte voorspelbare luisterteksten."
+	},
+	{
+		"id": "16d43831-dd65-4159-935f-acb803f77a07",
+		"title": "Je praat over onderwerpen die alledaags en vertrouwd zijn en passen bij je persoonlijke belangstelling."
+	},
+	{
+		"id": "9e3f03bc-81cf-4193-a676-489be15b9051",
+		"title": "Je woordenschat is meestal toereikend om onvoorbereid deel te nemen aan gesprekken over alledaagse onderwerpen en over actuele gebeurtenissen, eventueel met omschrijvingen."
+	},
+	{
+		"id": "da70b6ed-c074-44dc-aaf9-829e2c77e71f",
+		"title": "Je verbindt groepen woorden en series van korte, eenvoudige afzonderlijke elementen, maar deze vormen nog niet altijd een samenhangende tekst of samenhangend verhaal."
+	},
+	{
+		"id": "dd6d9e19-5df0-4bcb-ae75-6ff14b713e35",
+		"title": "Je maakt correct gebruik van eenvoudige constructies die horen bij voorspelbare situaties."
+	},
+	{
+		"id": "423cc918-936b-4888-b932-7b5015cc1af9",
+		"title": "Je maakt nog systematische fouten in frequente routines en patronen."
+	},
+	{
+		"id": "cd9af058-af3c-49e5-971b-79886afa8389",
+		"title": "Je toont initiatief om eenvoudige, korte, sociale gesprekken gaande te houden."
+	},
+	{
+		"id": "9fb85085-fb85-4e7b-b501-25997fcb3b65",
+		"title": "Je bent redelijk goed te volgen in korte, sociale gesprekken, hoewel er nog pauzes, valse starts en herformuleringen kunnen voorkomen."
+	},
+	{
+		"id": "86221681-bfbf-4809-92fc-ed8f1ec451e6",
+		"title": "Je uitspraak is duidelijk verstaanbaar, ondanks een hoorbaar accent. Luisteraars zullen af en toe om herhaling moeten vragen omdat de uitspraak van een aantal woorden het begrip in de weg staat."
+	},
+	{
+		"id": "3f683684-aec8-49bc-a68c-4e14967f348a",
+		"title": "Je omschrijft een woord als je niet meteen op het woord kan komen, eventueel met gebruik van gebaren en mimiek."
+	},
+	{
+		"id": "c9ed86e0-4cae-472f-9840-5ee29bcf6455",
+		"title": "Je maakt gebruik van een overkoepelend begrip ('tool' voor 'screwdriver')."
+	},
+	{
+		"id": "dcdda0a3-c1cd-41eb-a135-0b72ac541b3d",
+		"title": "Je herhaalt wat de ander gezegd heeft om (denk)tijd te winnen."
 	},
 	{
 		"id": "ed2a283e-4237-4a0c-bebb-330807850df3",
@@ -25169,6 +25118,42 @@
 	{
 		"id": "eaeca089-3bb0-42d1-8105-bf4c78edc6d5",
 		"title": "Je leidt uit de context redelijk af wat de betekenis is van onbekende woorden over onderwerpen die vertrouwd en bekend zijn."
+	},
+	{
+		"id": "86dec884-9f4d-4668-b06a-f2afba117473",
+		"title": "Je begrijpt persoonlijke brieven, e-mails en vormen van sociale media voldoende om met iemand te kunnen corresponderen."
+	},
+	{
+		"id": "cd781c53-200c-4ee4-8f82-60bba95cc0f5",
+		"title": "Je begrijpt een eenvoudige formele brief of e-mail voldoende om adequaat te kunnen reageren."
+	},
+	{
+		"id": "ce6f6492-d0e1-4477-bc38-54ebf5674429",
+		"title": "Je vindt en begrijpt relevante informatie in brochures en korte officiële documenten op internet of in andere media."
+	},
+	{
+		"id": "60a94e49-7914-40ef-aae3-695559645c74",
+		"title": "Je zoekt informatie in langere teksten op internet of in andere media over thema's binnen het eigen interessegebied."
+	},
+	{
+		"id": "8fb38ddc-024e-4feb-a8ad-155fb5fe1f62",
+		"title": "Je begrijpt belangrijke feitelijke informatie in korte verslagen en artikelen."
+	},
+	{
+		"id": "6101accc-9f2b-423d-b974-eafab9276504",
+		"title": "Je begrijpt het hoofdthema en de belangrijkste argumenten in eenvoudige teksten op internet of in andere media."
+	},
+	{
+		"id": "9013d66d-8d15-44db-b103-b5e276c76ba5",
+		"title": "Je leest eenvoudige jeugdliteratuur."
+	},
+	{
+		"id": "36c5f78f-fdc2-447c-ae62-b929f4a96582",
+		"title": "Je begrijpt eenvoudige, korte en goed gestructureerde instructies."
+	},
+	{
+		"id": "59c4d87e-11e7-452f-8cd4-412470756bab",
+		"title": "Je begrijpt duidelijk geschreven, ondubbelzinnige instructies."
 	},
 	{
 		"id": "d36ec6eb-5f25-4356-ab6f-9f985314e02b",
@@ -26149,7 +26134,7 @@
 		"title": "Je kan uitleggen dat gezinnen en ondernemingen informatie verzamelen ten einde onzekerheid te verkleinen."
 	},
 	{
-		"id": "2a3a77ba-8d31-4970-aadb-1dc6042dd3b7",
+		"id": "d78e3764-b0de-4c1c-8c7b-b16e88a4fbf2",
 		"prefix": "7.1.1.",
 		"title": "Je kan voorbeelden geven van rijke en arme landen en op welke wijze de welvaart in een land kan worden gemeten."
 	},
@@ -26812,6 +26797,21 @@
 		"id": "55c82670-3afd-4c3d-9d64-31cb351af6d2",
 		"prefix": "3.1.3",
 		"title": "Je benoemt dat signalen vanuit de zintuigen via zenuwen naar de hersenen worden doorgegeven."
+	},
+	{
+		"id": "5e946325-5ad1-4bad-8725-2ce1e0253893",
+		"prefix": "3.2.2",
+		"title": "Je benoemt dat signalen vanuit de hersenen via zenuwen naar de spieren worden doorgegeven."
+	},
+	{
+		"id": "bf01ed2a-4612-4495-9539-72c001cca814",
+		"prefix": "3.2.4.",
+		"title": "Je legt uit wat lichamelijke conditie inhoudt en je benoemt hoe deze bevorderd kan worden."
+	},
+	{
+		"id": "f3431c22-0752-4509-ae71-7340289e6a9b",
+		"prefix": "3.3.2",
+		"title": "Je benoemt verschil tussen observatie en interpretatie van gedrag"
 	},
 	{
 		"id": "dd78c6e6-9bf0-48c2-b79a-bbbc6065f8fa",
