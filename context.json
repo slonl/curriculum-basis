@@ -14,19 +14,25 @@
 			},
 			"uniqueItems": true
 		},
-		"base": {
+		"baseid": {
 			"properties": {
 				"id": {
 					"$ref": "#/definitions/uuid"
-				},
-				"title": {
-					"type": "string"
 				},
 				"replacedBy": {
 					"$ref": "#/definitions/uuidArray"
 				},
 				"replaces" : {
 					"$ref": "#/definitions/uuidArray"
+				}
+			},
+			"required": ["id"]
+		},
+		"base": {
+			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/baseid" } ],
+			"properties": {
+				"title": {
+					"type": "string"
 				}
 			},
 			"required": ["id","title"]
