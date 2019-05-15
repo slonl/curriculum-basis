@@ -24,6 +24,9 @@
 				},
 				"replaces" : {
 					"$ref": "#/definitions/uuidArray"
+				},
+				"unreleased" : {
+					"type" : "boolean"
 				}
 			},
 			"required": ["id"]
