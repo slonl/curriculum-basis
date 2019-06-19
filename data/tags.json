@@ -138,5 +138,101 @@
 	{
 		"id": "96d7d640-acf7-46e8-b98c-80bee8c3e89c",
 		"title": "geen obknr."
+	},
+	{
+		"id": "822ae7cc-07c6-4f1d-af3a-6aee4a77f4b9",
+		"title": "Preamuble"
+	},
+	{
+		"id": "bbbc8ed8-e207-4233-b234-d02128cb04f0",
+		"title": "Preambule"
+	},
+	{
+		"id": "a2b4b945-8366-4291-bc6c-5a1755682647",
+		"title": "Leeswijzer"
+	},
+	{
+		"id": "2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50",
+		"title": "Examenstof"
+	},
+	{
+		"id": "eb71d445-164f-4a3a-a354-c6518173feb6",
+		"title": "Schoolexamen"
+	},
+	{
+		"id": "642137e0-e1bb-4b54-a2f5-211be6eeb3fc",
+		"title": "Centraal examen"
+	},
+	{
+		"id": "12ad89b5-0997-4695-952f-84e83a44fbab",
+		"title": "Voorwoord"
+	},
+	{
+		"id": "3011f700-4baf-48a1-81c0-7dad7fdd3caa",
+		"title": "Algemene"
+	},
+	{
+		"id": "dc0a4fb3-e5ff-4f10-b3a8-ad3c0d25ecc3",
+		"title": "natuurwetenschappelijke, wiskundige en technische"
+	},
+	{
+		"id": "beeec413-7e45-4ecf-b67c-d543e935f38b",
+		"title": "Scheikunde - specifieke"
+	},
+	{
+		"id": "077a694e-c6ae-4219-af2f-c10d12894b3a",
+		"title": "Natuurwetenschappelijke, wiskundige en technische"
+	},
+	{
+		"id": "bd1b3809-5eea-4f2b-8be9-21d8516f1362",
+		"title": "Scheikunde - specfieke"
+	},
+	{
+		"id": "4ddbf045-8c97-4983-88fd-afa1e78afd77",
+		"title": "Algemeen"
+	},
+	{
+		"id": "525c9413-7264-4dfe-860d-010fca591704",
+		"title": "NLT"
+	},
+	{
+		"id": "732e91df-50c2-465f-948c-07462f06acba",
+		"title": "Natuurwetenschappeloijke, wiskundige en technische"
+	},
+	{
+		"id": "f1025847-e6d2-487e-9d54-a0554cd84491",
+		"title": "NLT-specifieke"
+	},
+	{
+		"id": "3ce4438b-2479-4233-98f3-5cb0d52b4c22",
+		"title": "Informatiewijzer"
+	},
+	{
+		"id": "1501da9d-d129-462c-8c25-1c0a2769d9aa",
+		"title": "centraal examen"
+	},
+	{
+		"id": "1551ae07-0ec0-4e8e-9591-f11c3c653f83",
+		"title": "Verdeling Kern"
+	},
+	{
+		"id": "03bda9b8-ca83-4130-ac00-a3051117bb6b",
+		"title": "Voorwoor"
+	},
+	{
+		"id": "ab30327e-67d4-4d54-8ca9-36eb0e170917",
+		"title": "Vaardigheden"
+	},
+	{
+		"id": "82f345a4-7808-4bdf-85f6-04581318d294",
+		"title": "Verdeling SE-CE"
+	},
+	{
+		"id": "4aa60eea-d8f9-49d4-b0c3-ef64b34d743c",
+		"title": "Inhoudsopgave"
+	},
+	{
+		"id": "14a35875-6f59-4877-ad8c-8dd870547928",
+		"title": "Centraal eindexamen"
 	}
 ]
