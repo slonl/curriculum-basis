@@ -5,8 +5,10 @@ This repository contains the core curriculum dataset. The dataset is defined by 
 ## installation
 
 ```
-git clone https://github.com/slonl/curriculum-doelen
+git clone https://github.com/slonl/curriculum-doelen.git
 cd curriculum-doelen
+git submodule init
+git submodule update
 npm install
 ```
 

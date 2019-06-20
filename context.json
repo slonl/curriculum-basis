@@ -143,6 +143,22 @@
 				"required": ["id","title"]
 			}
 		},
+		"tag": {
+			"#file": "data/tags.json",
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"id": {
+						"$ref": "#/definitions/uuid"
+					},
+					"title": {
+						"type": "string"
+					}
+				},
+				"required": ["id","title"]
+			}
+		},
 		"deprecated": {
 			"#file": "data/deprecated.json",
 			"type" : "array"
