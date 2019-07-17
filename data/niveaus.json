@@ -2,7 +2,7 @@
 	{
 		"prefix": "1000",
 		"title": "po",
-		"id": "bk:512e4729-03a4-43a2-95ba-758071d1b725",
+		"id": "512e4729-03a4-43a2-95ba-758071d1b725",
 		"description": "Primair Onderwijs",
 		"type": "Sector"
 	},
@@ -114,7 +114,7 @@
 	{
 		"prefix": "1550",
 		"title": "vso",
-		"id": "bk:dbbc3e87-a848-4425-912a-d494e43e5e59",
+		"id": "dbbc3e87-a848-4425-912a-d494e43e5e59",
 		"description": "Voortgezet speciaal onderwijs",
 		"type": "Opleiding"
 	},
