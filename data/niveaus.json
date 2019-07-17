@@ -99,16 +99,16 @@
 	},
 	{
 		"prefix": "0002",
-		"title": "so nl/ml",
+		"title": "so nl\/ml",
 		"id": "f9b25c20-9017-425b-8d3c-360ab6b5c222",
-		"description": "so nl/ml",
+		"description": "so nl\/ml",
 		"type": "Opleiding"
 	},
 	{
 		"prefix": "0001",
-		"title": "so zml/mg",
+		"title": "so zml\/mg",
 		"id": "edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
-		"description": "so zml/mg",
+		"description": "so zml\/mg",
 		"type": "Opleiding"
 	},
 	{
