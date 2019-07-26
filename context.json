@@ -109,13 +109,6 @@
 	"$schema": "http://json-schema.org/draft-07/schema#",
 	"type": "object",
 	"properties": {
-		"inhoud": {
-			"#file": "data/inhouden.json",
-			"type": "array",
-			"items": {
-				"$ref": "#/definitions/inhoud"
-			}
-		},
 		"doelniveau": {
 			"#file": "data/doelniveaus.json",
 			"type" : "array",
