@@ -58,7 +58,9 @@
 				},
 				"niveau_id": {
 					"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
-					"itemTypeReference": "#/definitions/niveau"
+					"items" : {
+						"itemTypeReference": "#/definitions/niveau"
+					}
 				},
 				"kerndoel_id": {
 					"allOf": [ 
@@ -83,15 +85,21 @@
 			"properties" : {
 				"doel_id" : {
 					"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
-					"itemTypeReference": "#/definitions/doel"
+					"items" : {
+						"itemTypeReference": "#/definitions/doel"
+					}
 				},
 				"niveau_id" : {
 					"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
-					"itemTypeReference": "#/definitions/niveau"
+					"items" : {
+						"itemTypeReference": "#/definitions/niveau"
+					}
 				},
 				"doelniveau_id" : {
 					"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
-					"itemTypeReference": "#/definitions/doelniveau"
+					"items" : {
+						"itemTypeReference": "#/definitions/doelniveau"
+					}
 				},
 				"deprecated_id" : {
 					"allOf": [ {"$ref": "#/definitions/uuidArray"} ]
