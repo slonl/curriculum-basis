@@ -1,25 +1,5 @@
 {
 	"definitions": {
-		"inhoud": {
-	            "allOf": [ { "$ref": "#/definitions/base" } ],
-	            "properties": {
-	                "description": {
-	                    "type": "string"
-	                },
-	                "doelniveau_id": {
-        	            "allOf": [
-	                        {
-                        	    "$ref": "#/definitions/uuidArray"
-                	        },
-        	                {
-	                            "items": {
-	                                "itemTypeReference": "#/definitions/doelniveau"
-                        	    }
-                	        }
-        	            ]
-	                }
-        	    }
-	        },
 		"uuid": {
 			"type": "string",
 			"anyOf": [
@@ -98,6 +78,31 @@
 		},
 		"niveau": {
 			"$ref": "#/definitions/base"
+		},
+		"allEntities" : {
+			"properties" : {
+				"doel_id" : {
+					"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
+					"itemTypeReference": "#/definitions/doel"
+				},
+				"niveau_id" : {
+					"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
+					"itemTypeReference": "#/definitions/niveau"
+				},
+				"doelniveau_id" : {
+					"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
+					"itemTypeReference": "#/definitions/doelniveau"
+				},
+				"deprecated_id" : {
+					"allOf": [ {"$ref": "#/definitions/uuidArray"} ]
+				},
+				"tag_id" : {
+					"allOf": [ {"$ref": "#/definitions/uuidArray"} ]
+				},
+				"alias_id" : {
+					"allOf": [ {"$ref": "#/definitions/uuidArray"} ]
+				}
+			}
 		}
 	},
 	"$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json",
@@ -152,22 +157,6 @@
 					}
 				},
 				"required": ["doel_id","parent_id","title"]
-			}
-		},
-		"tag": {
-			"#file": "data/tags.json",
-			"type": "array",
-			"items": {
-				"type": "object",
-				"properties": {
-					"id": {
-						"$ref": "#/definitions/uuid"
-					},
-					"title": {
-						"type": "string"
-					}
-				},
-				"required": ["id","title"]
 			}
 		},
 		"tag": {
