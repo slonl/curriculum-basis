@@ -91,7 +91,11 @@
 					]
 				}
 			},
-			"required": ["id","doel_id","niveau_id"]
+			"anyOf" : [
+				{ "required": ["id","doel_id","niveau_id"] },
+				{ "required": ["id","kerndoel_id","niveau_id"] },
+				{ "required": ["id","examenprogramma_eindterm_id","niveau_id"] }
+			]
 		},
 		"doel": {
 			"$ref": "#/definitions/base"
