@@ -141517,15 +141517,15 @@
         {
                 "id": "dd6e5e04-943f-4057-86e5-a5346deda677",
 	        "unreleased" : true,
-                "doel_id": [
-                        "cd0893a6-07e2-4a9e-a9bf-08f49c5d7d3f"
+                "kerndoel_id": [
+                        "82c7db22-1b7f-4890-8720-dd2aa8373b56"
                 ]
         },
         {
                 "id": "55858989-db4b-4bb7-8767-2ba903499ddb",
 	        "unreleased" : true,
-                "doel_id": [
-                        "8ce62613-04cd-4ff5-995d-4373c40c3d15"
+                "kerndoel_id": [
+                        "45dbe23d-61b7-4332-872d-a5280d7a17b0"
                 ]
         }
 ]
