@@ -798,45 +798,45 @@
 		"type": "Leerjaar"
 	},
 	{
+		"description": "Voorbereidend wetenschappelijk onderwijs, klas 1",
 		"id": "ac188375-0a1a-4984-ac80-14d04a086a19",
 		"prefix": "4501",
 		"title": "VWO, 1",
-		"description": "",
 		"type": "Leerjaar"
 	},
 	{
+		"description": "Voorbereidend wetenschappelijk onderwijs, klas 2",
 		"id": "17da6976-2f1b-4214-a471-168f469d7e04",
 		"prefix": "4502",
 		"title": "VWO, 2",
-		"description": "",
 		"type": "Leerjaar"
 	},
 	{
+		"description": "Voorbereidend wetenschappelijk onderwijs, klas 3",
 		"id": "b924d4ad-65a1-41dc-b704-c7786eb4aec0",
 		"prefix": "4503",
 		"title": "VWO, 3",
-		"description": "",
 		"type": "Leerjaar"
 	},
 	{
+		"description": "Voorbereidend wetenschappelijk onderwijs, klas 4",
 		"id": "e2026706-0829-4a4c-b726-9409b6f407e1",
 		"prefix": "4504",
 		"title": "VWO, 4",
-		"description": "",
 		"type": "Leerjaar"
 	},
 	{
+		"description": "Voorbereidend wetenschappelijk onderwijs, klas 5",
 		"id": "f2513775-3d54-423b-803b-15e06a8c89a8",
 		"prefix": "4505",
 		"title": "VWO, 5",
-		"description": "",
 		"type": "Leerjaar"
 	},
 	{
+		"description": "Voorbereidend wetenschappelijk onderwijs, klas 6",
 		"id": "85d15c83-e2b4-4359-8475-a355591aaa1a",
 		"prefix": "4506",
 		"title": "VWO, 6",
-		"description": "",
 		"type": "Leerjaar"
 	},
 	{
