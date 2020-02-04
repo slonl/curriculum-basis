@@ -1006,5 +1006,40 @@
 		"description": "Speciaal niveau voor lichamelijke opvoeding",
 		"prefix": "",
 		"type": ""
+	},
+	{
+		"id": "a1928e1b-3780-4307-8e12-e01b0830ec18",
+		"title": "OB VWO basis",
+		"description": "Niveau voor lichamelijke opvoeding",
+		"prefix": "",
+		"type": ""
+	},
+	{
+		"id": "a526db51-0477-4acb-b86c-a4e627312bbe",
+		"title": "OB HAVO gevorderd",
+		"description": "Niveau voor lichamelijke opvoeding",
+		"prefix": "",
+		"type": ""
+	},
+	{
+		"id": "51f66470-1156-4dc6-ba29-f92b08a67ce9",
+		"title": "OB VWO gevorderd",
+		"description": "Niveau voor lichamelijke opvoeding",
+		"prefix": "",
+		"type": ""
+	},
+	{
+		"id": "81552702-cb71-440e-b26c-8015993196d7",
+		"title": "OB HAVO vervolg",
+		"description": "Niveau voor lichamelijke opvoeding",
+		"prefix": "",
+		"type": ""
+	},
+	{
+		"id": "0d70a7c4-3184-460b-b1a0-b6d7dae24bb1",
+		"title": "OB VWO vervolg",
+		"description": "",
+		"prefix": "",
+		"type": ""
 	}
 ]
