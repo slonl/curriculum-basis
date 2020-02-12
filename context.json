@@ -89,11 +89,43 @@
 							}
 						}
 					]
+				},
+				"examenprogramma_eindterm_id": {
+					"allOf": [ 
+						{"$ref": "#/definitions/uuidArray"},
+						{
+							"items": {
+								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/eindterm"
+							}
+						}
+					]
+				},
+				"examenprogramma_subdomein_id": {
+					"allOf": [ 
+						{"$ref": "#/definitions/uuidArray"},
+						{
+							"items": {
+								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/subdomein"
+							}
+						}
+					]
+				},
+				"examenprogramma_domein_id": {
+					"allOf": [ 
+						{"$ref": "#/definitions/uuidArray"},
+						{
+							"items": {
+								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/domein"
+							}
+						}
+					]
 				}
 			},
 			"anyOf" : [
 				{ "required": ["id","doel_id","niveau_id"] },
 				{ "required": ["id","kerndoel_id","niveau_id"] },
+				{ "required": ["id","examenprogramma_domein_id","niveau_id"] },
+				{ "required": ["id","examenprogramma_subdomein_id","niveau_id"] },
 				{ "required": ["id","examenprogramma_eindterm_id","niveau_id"] }
 			]
 		},
