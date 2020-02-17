@@ -129,7 +129,6 @@
 							}
 						}
 					]
-				},
 				}
 			},
 			"anyOf" : [
@@ -137,7 +136,7 @@
 				{ "required": ["id","kerndoel_id","niveau_id"] },
 				{ "required": ["id","examenprogramma_domein_id","niveau_id"] },
 				{ "required": ["id","examenprogramma_subdomein_id","niveau_id"] },
-				{ "required": ["id","examenprogramma_eindterm_id","niveau_id"] }
+				{ "required": ["id","examenprogramma_eindterm_id","niveau_id"] },
 				{ "required": ["id","examenprogramma_bg_module_id","niveau_id"] }
 			]
 		},
