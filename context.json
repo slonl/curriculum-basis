@@ -119,6 +119,17 @@
 							}
 						}
 					]
+				},
+				"examenprogramma_bg_module_id": {
+					"allOf": [ 
+						{"$ref": "#/definitions/uuidArray"},
+						{
+							"items": {
+								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json#/definitions/examenprogramma_bg_module"
+							}
+						}
+					]
+				},
 				}
 			},
 			"anyOf" : [
@@ -127,6 +138,7 @@
 				{ "required": ["id","examenprogramma_domein_id","niveau_id"] },
 				{ "required": ["id","examenprogramma_subdomein_id","niveau_id"] },
 				{ "required": ["id","examenprogramma_eindterm_id","niveau_id"] }
+				{ "required": ["id","examenprogramma_bg_module_id","niveau_id"] }
 			]
 		},
 		"doel": {
