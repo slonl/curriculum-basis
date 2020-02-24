@@ -12,11 +12,12 @@
 	{
 		"id": "d3c68dce-4d05-44bc-a312-328727acf953",
 		"unreleased": true,
-		"doel_id": [
-			"77c9b3ac-b9ba-427a-8a1e-a1b5dca04d3d"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"494f3351-b5b0-4d17-a34e-44d42cfca837"
 		]
 	},
 	{
@@ -34917,11 +34918,12 @@
 	{
 		"id": "fdaae98e-a2f3-49fb-97d0-ba595146db07",
 		"unreleased": true,
-		"doel_id": [
-			"6dd4f5fd-8a73-4723-8be7-5c09654681bd"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"8bf84901-c463-4e75-adb3-d1b362990a6b"
 		]
 	},
 	{
@@ -35097,11 +35099,12 @@
 	{
 		"id": "7f51876e-8491-4e06-8b1c-26ea1125880e",
 		"unreleased": true,
-		"doel_id": [
-			"6dd4f5fd-8a73-4723-8be7-5c09654681bd"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"8bf84901-c463-4e75-adb3-d1b362990a6b"
 		]
 	},
 	{
@@ -35247,11 +35250,12 @@
 	{
 		"id": "a5c2917f-f005-4ae0-bde2-e2d485a6a53c",
 		"unreleased": true,
-		"doel_id": [
-			"6dd4f5fd-8a73-4723-8be7-5c09654681bd"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_bg_module_id": [
+			"8bf84901-c463-4e75-adb3-d1b362990a6b"
 		]
 	},
 	{
@@ -35417,11 +35421,12 @@
 	{
 		"id": "c0044579-93a0-4bef-b330-2b759c7648be",
 		"unreleased": true,
-		"doel_id": [
-			"0a2c1e70-df85-4fb1-a1b8-b58447db7970"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"3a47a268-8215-4982-b3e9-d249abc9d650"
 		]
 	},
 	{
@@ -35457,11 +35462,12 @@
 	{
 		"id": "68069711-86ed-4f46-819d-bacd45c6326a",
 		"unreleased": true,
-		"doel_id": [
-			"0a2c1e70-df85-4fb1-a1b8-b58447db7970"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"3a47a268-8215-4982-b3e9-d249abc9d650"
 		]
 	},
 	{
@@ -35797,11 +35803,12 @@
 	{
 		"id": "db347068-10ed-439a-a5dd-3f94059f7dd7",
 		"unreleased": true,
-		"doel_id": [
-			"c6f6b612-3e74-4272-b808-dbcbee98533a"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"3cfbfcff-c849-428a-a522-9003b71b2f91"
 		]
 	},
 	{
@@ -35847,11 +35854,12 @@
 	{
 		"id": "ea8cbbc2-ab07-48e2-a1ed-7814058cb68a",
 		"unreleased": true,
-		"doel_id": [
-			"c6f6b612-3e74-4272-b808-dbcbee98533a"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"3cfbfcff-c849-428a-a522-9003b71b2f91"
 		]
 	},
 	{
@@ -35937,11 +35945,12 @@
 	{
 		"id": "328a6a34-8e57-4aa0-bf58-a2e734de64fb",
 		"unreleased": true,
-		"doel_id": [
-			"d91ba23f-d2a4-421d-8f29-fe7b8b6cf24e"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"4bfa4db1-2b0c-492a-bc75-8808528eddc7"
 		]
 	},
 	{
@@ -35967,11 +35976,12 @@
 	{
 		"id": "3eeceb42-8c95-487f-a28f-ac66c809175b",
 		"unreleased": true,
-		"doel_id": [
-			"d91ba23f-d2a4-421d-8f29-fe7b8b6cf24e"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"4bfa4db1-2b0c-492a-bc75-8808528eddc7"
 		]
 	},
 	{
@@ -36007,11 +36017,12 @@
 	{
 		"id": "e97bb1b7-69a9-40db-9d08-1b9cc3c9a820",
 		"unreleased": true,
-		"doel_id": [
-			"d91ba23f-d2a4-421d-8f29-fe7b8b6cf24e"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_bg_module_id": [
+			"4bfa4db1-2b0c-492a-bc75-8808528eddc7"
 		]
 	},
 	{
@@ -38028,11 +38039,12 @@
 	{
 		"id": "57e0e330-6bf2-4bcb-b17a-6217d59ff73e",
 		"unreleased": true,
-		"doel_id": [
-			"15aedb53-2f0d-47c6-b3ee-8dbecd5aa0f2"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"15e909b2-4aa4-4f71-8219-57825d6b6d2f"
 		]
 	},
 	{
@@ -38058,11 +38070,12 @@
 	{
 		"id": "68bbc7e2-b36e-4f86-8d65-8997f7d6dbb8",
 		"unreleased": true,
-		"doel_id": [
-			"15aedb53-2f0d-47c6-b3ee-8dbecd5aa0f2"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"15e909b2-4aa4-4f71-8219-57825d6b6d2f"
 		]
 	},
 	{
@@ -38088,11 +38101,12 @@
 	{
 		"id": "fa25eff4-92f6-4b84-845e-d508c9b05f61",
 		"unreleased": true,
-		"doel_id": [
-			"15aedb53-2f0d-47c6-b3ee-8dbecd5aa0f2"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_bg_module_id": [
+			"15e909b2-4aa4-4f71-8219-57825d6b6d2f"
 		]
 	},
 	{
@@ -38548,11 +38562,12 @@
 	{
 		"id": "eb0f64db-d7d9-4eb7-a955-2a0a44fa40a2",
 		"unreleased": true,
-		"doel_id": [
-			"18c5eb45-5288-4c68-b702-8c114058c4d1"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"d66384a7-3aaf-4545-8990-86df5a6556fe"
 		]
 	},
 	{
@@ -38588,11 +38603,12 @@
 	{
 		"id": "ad20952e-b0fa-4593-bfe7-9c452d2be829",
 		"unreleased": true,
-		"doel_id": [
-			"18c5eb45-5288-4c68-b702-8c114058c4d1"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"d66384a7-3aaf-4545-8990-86df5a6556fe"
 		]
 	},
 	{
@@ -38758,11 +38774,12 @@
 	{
 		"id": "0a726e63-ffde-4c8e-bbb6-3a5624d46c59",
 		"unreleased": true,
-		"doel_id": [
-			"1a1e76b1-8a11-4906-b5b5-29970a56c4f7"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"e6a7c3b8-0772-4890-94c4-c8beb300dad6"
 		]
 	},
 	{
@@ -38798,11 +38815,12 @@
 	{
 		"id": "00adfb9f-c9d8-436a-8c5c-94d64c961f82",
 		"unreleased": true,
-		"doel_id": [
-			"1a1e76b1-8a11-4906-b5b5-29970a56c4f7"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"e6a7c3b8-0772-4890-94c4-c8beb300dad6"
 		]
 	},
 	{
@@ -38948,11 +38966,12 @@
 	{
 		"id": "b92cc64d-8bd1-4166-878f-95d506f1be5e",
 		"unreleased": true,
-		"doel_id": [
-			"a74bb739-35fa-402f-bab4-6a54fa44d4ee"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"ba63254a-1817-47e8-9982-171c0ada1132"
 		]
 	},
 	{
@@ -38968,11 +38987,12 @@
 	{
 		"id": "34bfa8ad-de2f-4a9e-a08f-bb2bde909564",
 		"unreleased": true,
-		"doel_id": [
-			"a74bb739-35fa-402f-bab4-6a54fa44d4ee"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"ba63254a-1817-47e8-9982-171c0ada1132"
 		]
 	},
 	{
@@ -38988,11 +39008,12 @@
 	{
 		"id": "9dbfe97a-8502-40db-b592-3d9d1aed88a6",
 		"unreleased": true,
-		"doel_id": [
-			"a74bb739-35fa-402f-bab4-6a54fa44d4ee"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_bg_module_id": [
+			"ba63254a-1817-47e8-9982-171c0ada1132"
 		]
 	},
 	{
@@ -48639,11 +48660,12 @@
 	{
 		"id": "5c0a4ee0-7e27-4d25-bc09-1ed6e3d01d08",
 		"unreleased": true,
-		"doel_id": [
-			"6bc55917-acb7-43e9-a674-61a6ac62a08e"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"8edc0141-3309-466e-b211-1dd9264c9498"
 		]
 	},
 	{
@@ -48729,11 +48751,12 @@
 	{
 		"id": "a03a003b-af2e-4509-89d3-e55731e781be",
 		"unreleased": true,
-		"doel_id": [
-			"6bc55917-acb7-43e9-a674-61a6ac62a08e"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"8edc0141-3309-466e-b211-1dd9264c9498"
 		]
 	},
 	{
@@ -48829,11 +48852,12 @@
 	{
 		"id": "cd357575-4165-465c-95af-71d3a8df3886",
 		"unreleased": true,
-		"doel_id": [
-			"6bc55917-acb7-43e9-a674-61a6ac62a08e"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_bg_module_id": [
+			"8edc0141-3309-466e-b211-1dd9264c9498"
 		]
 	},
 	{
@@ -48989,11 +49013,12 @@
 	{
 		"id": "a24d4d97-fc5a-471e-9d71-14ac26a08a0b",
 		"unreleased": true,
-		"doel_id": [
-			"2a89c4d2-d869-48b8-92ce-4bf541f9776c"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"10c1767e-677e-45be-8cf8-d55a1057b177"
 		]
 	},
 	{
@@ -49059,11 +49084,12 @@
 	{
 		"id": "06a7651f-9be8-4851-879c-b9b4ab033bbe",
 		"unreleased": true,
-		"doel_id": [
-			"2a89c4d2-d869-48b8-92ce-4bf541f9776c"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"10c1767e-677e-45be-8cf8-d55a1057b177"
 		]
 	},
 	{
@@ -49129,11 +49155,12 @@
 	{
 		"id": "2af4c90d-4f33-4edd-9c26-bcb9e720b71b",
 		"unreleased": true,
-		"doel_id": [
-			"2a89c4d2-d869-48b8-92ce-4bf541f9776c"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_bg_module_id": [
+			"10c1767e-677e-45be-8cf8-d55a1057b177"
 		]
 	},
 	{
@@ -49379,11 +49406,12 @@
 	{
 		"id": "527023c3-07ae-4a2d-8cd0-f00036c213a4",
 		"unreleased": true,
-		"doel_id": [
-			"e9364783-a89a-488e-912b-b8bc8b906f3d"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"2b49e345-4bbd-4d06-a886-2a9a0ec7efa4"
 		]
 	},
 	{
@@ -49429,11 +49457,12 @@
 	{
 		"id": "ae3b0744-3f5e-4527-923f-955f76003715",
 		"unreleased": true,
-		"doel_id": [
-			"e9364783-a89a-488e-912b-b8bc8b906f3d"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"2b49e345-4bbd-4d06-a886-2a9a0ec7efa4"
 		]
 	},
 	{
@@ -49599,11 +49628,12 @@
 	{
 		"id": "2b570192-7fab-4809-bade-8b77920f1844",
 		"unreleased": true,
-		"doel_id": [
-			"b2e2e232-0957-47eb-90e9-f42a927e3c1c"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"cba57f3c-ad8c-4616-a244-4c1e1eb7a4ae"
 		]
 	},
 	{
@@ -49649,11 +49679,12 @@
 	{
 		"id": "4d92435b-a865-409a-8ad1-45038ebf4e8c",
 		"unreleased": true,
-		"doel_id": [
-			"b2e2e232-0957-47eb-90e9-f42a927e3c1c"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"cba57f3c-ad8c-4616-a244-4c1e1eb7a4ae"
 		]
 	},
 	{
@@ -69287,11 +69318,12 @@
 	{
 		"id": "59a628e5-bb4c-4573-a147-195ac357fe20",
 		"unreleased": true,
-		"doel_id": [
-			"c52fbd83-1e10-4ec4-b46e-44dc3323d332"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"889b8ea0-f292-4097-a6a7-2d8955da5aa4"
 		]
 	},
 	{
@@ -69327,11 +69359,12 @@
 	{
 		"id": "34ae693d-5a8e-4e9d-9c2a-514b41f601e3",
 		"unreleased": true,
-		"doel_id": [
-			"c52fbd83-1e10-4ec4-b46e-44dc3323d332"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"889b8ea0-f292-4097-a6a7-2d8955da5aa4"
 		]
 	},
 	{
@@ -69587,11 +69620,12 @@
 	{
 		"id": "509932ec-32d4-4c0c-9032-8369428a7207",
 		"unreleased": true,
-		"doel_id": [
-			"c60dc7dc-d641-4c49-a399-568d51822d0d"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"8a2694de-2e35-429e-8b76-60bb1bead791"
 		]
 	},
 	{
@@ -69647,11 +69681,12 @@
 	{
 		"id": "455581a0-c49d-4091-be80-fd3bc1455ea5",
 		"unreleased": true,
-		"doel_id": [
-			"c60dc7dc-d641-4c49-a399-568d51822d0d"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"8a2694de-2e35-429e-8b76-60bb1bead791"
 		]
 	},
 	{
@@ -69707,11 +69742,12 @@
 	{
 		"id": "fe99dc7c-656b-4dc9-ab1b-9e473c7ec351",
 		"unreleased": true,
-		"doel_id": [
-			"c60dc7dc-d641-4c49-a399-568d51822d0d"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_bg_module_id": [
+			"8a2694de-2e35-429e-8b76-60bb1bead791"
 		]
 	},
 	{
@@ -69957,11 +69993,12 @@
 	{
 		"id": "e5f370b7-0deb-412e-bfa1-8b19ad8e79ee",
 		"unreleased": true,
-		"doel_id": [
-			"ec51e359-597d-4854-8e7c-a3e34d124eb6"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"bb1488a2-93da-4cfb-afe4-68882b0d2d51"
 		]
 	},
 	{
@@ -69987,11 +70024,12 @@
 	{
 		"id": "495a6552-5df1-4697-b8ed-c3690b1e2023",
 		"unreleased": true,
-		"doel_id": [
-			"ec51e359-597d-4854-8e7c-a3e34d124eb6"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"bb1488a2-93da-4cfb-afe4-68882b0d2d51"
 		]
 	},
 	{
@@ -70037,11 +70075,12 @@
 	{
 		"id": "aabcc2ce-bedf-4b6a-8a07-dd33e5224d95",
 		"unreleased": true,
-		"doel_id": [
-			"ec51e359-597d-4854-8e7c-a3e34d124eb6"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_bg_module_id": [
+			"bb1488a2-93da-4cfb-afe4-68882b0d2d51"
 		]
 	},
 	{
@@ -70397,11 +70436,12 @@
 	{
 		"id": "e9b5d4be-4772-4e3b-b3a4-740d6e00caa9",
 		"unreleased": true,
-		"doel_id": [
-			"4996b005-618d-4050-bc18-b942ad764597"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"e53f7cd4-f3ac-48a9-a463-e37f7adeada8"
 		]
 	},
 	{
@@ -70447,11 +70487,12 @@
 	{
 		"id": "23fa5a42-ac67-4b59-a0e2-7929520ef6ba",
 		"unreleased": true,
-		"doel_id": [
-			"4996b005-618d-4050-bc18-b942ad764597"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"e53f7cd4-f3ac-48a9-a463-e37f7adeada8"
 		]
 	},
 	{
@@ -71557,11 +71598,12 @@
 	{
 		"id": "fc58f9f7-2ad6-4514-9616-3f76f79e88c6",
 		"unreleased": true,
-		"doel_id": [
-			"26bee1ef-e67b-4d18-8d11-244c47563ffd"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"f579b2d3-3b2c-467f-9f48-7e6079598798"
 		]
 	},
 	{
@@ -71637,11 +71679,12 @@
 	{
 		"id": "10b37b75-3812-4e5e-af6b-ee6feab59a7c",
 		"unreleased": true,
-		"doel_id": [
-			"26bee1ef-e67b-4d18-8d11-244c47563ffd"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"f579b2d3-3b2c-467f-9f48-7e6079598798"
 		]
 	},
 	{
@@ -71717,11 +71760,12 @@
 	{
 		"id": "f4caae53-6915-45e7-88aa-9358b04c70db",
 		"unreleased": true,
-		"doel_id": [
-			"26bee1ef-e67b-4d18-8d11-244c47563ffd"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_bg_module_id": [
+			"f579b2d3-3b2c-467f-9f48-7e6079598798"
 		]
 	},
 	{
@@ -72217,11 +72261,12 @@
 	{
 		"id": "9a405dbe-3ac6-4ffb-b5af-9a2536a3a959",
 		"unreleased": true,
-		"doel_id": [
-			"fccc2d2f-f690-4c9b-a07f-7efc17342f02"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"865067ae-5978-4da7-869d-f896579fab3e"
 		]
 	},
 	{
@@ -72267,11 +72312,12 @@
 	{
 		"id": "ecd0c59f-22ea-4347-9c86-f9353b74e67d",
 		"unreleased": true,
-		"doel_id": [
-			"fccc2d2f-f690-4c9b-a07f-7efc17342f02"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"865067ae-5978-4da7-869d-f896579fab3e"
 		]
 	},
 	{
@@ -72437,11 +72483,12 @@
 	{
 		"id": "c44b90f0-f5e0-4008-b132-71a7ef7010d0",
 		"unreleased": true,
-		"doel_id": [
-			"b6167284-58c9-4ed6-942f-6d7facbe43fd"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"f05f0054-2579-4c7d-9036-47a242156596"
 		]
 	},
 	{
@@ -72487,11 +72534,12 @@
 	{
 		"id": "d08d1415-6c39-420d-9e5f-37f67953e3f1",
 		"unreleased": true,
-		"doel_id": [
-			"b6167284-58c9-4ed6-942f-6d7facbe43fd"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"f05f0054-2579-4c7d-9036-47a242156596"
 		]
 	},
 	{
@@ -72537,11 +72585,12 @@
 	{
 		"id": "99f8d0fd-5a74-4e0f-b5dd-550c8c8743a4",
 		"unreleased": true,
-		"doel_id": [
-			"b6167284-58c9-4ed6-942f-6d7facbe43fd"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_bg_module_id": [
+			"f05f0054-2579-4c7d-9036-47a242156596"
 		]
 	},
 	{
@@ -72767,11 +72816,12 @@
 	{
 		"id": "8983a4dd-9c26-46ec-a370-7a3cbeeb6dee",
 		"unreleased": true,
-		"doel_id": [
-			"d42e7905-785f-489e-a484-e44ba47fdbe5"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"2b246b68-ba0c-44a0-a84e-d3501e4c60b7"
 		]
 	},
 	{
@@ -72847,11 +72897,12 @@
 	{
 		"id": "90fbfed5-6099-4f81-aef7-5b0d735f3503",
 		"unreleased": true,
-		"doel_id": [
-			"d42e7905-785f-489e-a484-e44ba47fdbe5"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"2b246b68-ba0c-44a0-a84e-d3501e4c60b7"
 		]
 	},
 	{
@@ -78829,11 +78880,12 @@
 	{
 		"id": "9b237fe1-cb40-45e7-9d69-379b0b06a474",
 		"unreleased": true,
-		"doel_id": [
-			"91393491-7a0d-4b8b-ade9-bdd9a0165f83"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"63603766-0750-4bdd-82f8-334caaaf630a"
 		]
 	},
 	{
@@ -78869,11 +78921,12 @@
 	{
 		"id": "79409599-91ae-44da-82b9-f923a9ddb983",
 		"unreleased": true,
-		"doel_id": [
-			"91393491-7a0d-4b8b-ade9-bdd9a0165f83"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_bg_module_id": [
+			"63603766-0750-4bdd-82f8-334caaaf630a"
 		]
 	},
 	{
@@ -79149,11 +79202,12 @@
 	{
 		"id": "94575fd3-516f-4ffe-bc10-937c7f5eb71d",
 		"unreleased": true,
-		"doel_id": [
-			"91393491-7a0d-4b8b-ade9-bdd9a0165f83"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"63603766-0750-4bdd-82f8-334caaaf630a"
 		]
 	},
 	{
@@ -79399,11 +79453,12 @@
 	{
 		"id": "4a682fdc-9e30-42f5-b590-36f7f30c3e2c",
 		"unreleased": true,
-		"doel_id": [
-			"6cf9f623-df89-46c7-83c5-8ed0f5068bca"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"d42e8b8f-b96a-4961-b4e0-f12e5145d5e2"
 		]
 	},
 	{
@@ -79609,11 +79664,12 @@
 	{
 		"id": "812124f3-b3ff-40d4-a6a9-6e8d97be9acb",
 		"unreleased": true,
-		"doel_id": [
-			"6cf9f623-df89-46c7-83c5-8ed0f5068bca"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_bg_module_id": [
+			"d42e8b8f-b96a-4961-b4e0-f12e5145d5e2"
 		]
 	},
 	{
@@ -79819,11 +79875,12 @@
 	{
 		"id": "51598d52-b932-4d68-bac0-93f8ede08727",
 		"unreleased": true,
-		"doel_id": [
-			"6cf9f623-df89-46c7-83c5-8ed0f5068bca"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"d42e8b8f-b96a-4961-b4e0-f12e5145d5e2"
 		]
 	},
 	{
@@ -80179,11 +80236,12 @@
 	{
 		"id": "25b24f00-a5e5-4949-bcc6-6a35f561da5c",
 		"unreleased": true,
-		"doel_id": [
-			"77c9b3ac-b9ba-427a-8a1e-a1b5dca04d3d"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"494f3351-b5b0-4d17-a34e-44d42cfca837"
 		]
 	},
 	{
@@ -80269,11 +80327,12 @@
 	{
 		"id": "92711b56-85fd-44f3-bb0b-2f9c6796e410",
 		"unreleased": true,
-		"doel_id": [
-			"e084f67a-86e3-4b9e-994e-4320d6ad8d9f"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"4279d37f-fab7-492b-9611-95e5d6dd649b"
 		]
 	},
 	{
@@ -80409,11 +80468,12 @@
 	{
 		"id": "950a7b95-a3db-43d4-ad04-d8c86329fa9a",
 		"unreleased": true,
-		"doel_id": [
-			"e084f67a-86e3-4b9e-994e-4320d6ad8d9f"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"4279d37f-fab7-492b-9611-95e5d6dd649b"
 		]
 	},
 	{
@@ -82039,11 +82099,12 @@
 	{
 		"id": "62ecbde4-58cb-4c98-b62c-e137028987ff",
 		"unreleased": true,
-		"doel_id": [
-			"8066e542-f7eb-4dcc-9dfe-e9ef9167cc7f"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"1475cd45-19a6-4624-8a99-dbed2d86aa78"
 		]
 	},
 	{
@@ -82059,11 +82120,12 @@
 	{
 		"id": "903cf1b7-b33d-4ffc-922a-0d9b4435f774",
 		"unreleased": true,
-		"doel_id": [
-			"8066e542-f7eb-4dcc-9dfe-e9ef9167cc7f"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"1475cd45-19a6-4624-8a99-dbed2d86aa78"
 		]
 	},
 	{
@@ -82569,11 +82631,12 @@
 	{
 		"id": "129b96d0-936a-417b-8eca-8a3fc2e7e656",
 		"unreleased": true,
-		"doel_id": [
-			"b5bc3312-8141-47f7-b76c-e1cd4b12cdb1"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"67dfc8c2-3747-4051-962e-97fb1c6d45d8"
 		]
 	},
 	{
@@ -82619,11 +82682,12 @@
 	{
 		"id": "b6e70cc0-f8db-4894-9f6d-4807d1c1c85c",
 		"unreleased": true,
-		"doel_id": [
-			"b5bc3312-8141-47f7-b76c-e1cd4b12cdb1"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"67dfc8c2-3747-4051-962e-97fb1c6d45d8"
 		]
 	},
 	{
@@ -82929,11 +82993,12 @@
 	{
 		"id": "d7a1ebb0-5110-4e55-be9f-f0a45fc9df9b",
 		"unreleased": true,
-		"doel_id": [
-			"6979351f-4691-4d82-974b-a99723814c7a"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"03085782-0791-4b66-b764-4e1bdecd6292"
 		]
 	},
 	{
@@ -82979,11 +83044,12 @@
 	{
 		"id": "7371f930-497d-4f67-babd-8380a43bb284",
 		"unreleased": true,
-		"doel_id": [
-			"6979351f-4691-4d82-974b-a99723814c7a"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"03085782-0791-4b66-b764-4e1bdecd6292"
 		]
 	},
 	{
@@ -83109,11 +83175,12 @@
 	{
 		"id": "37a9f042-3ff8-424f-ba9c-d9a2ffa269d7",
 		"unreleased": true,
-		"doel_id": [
-			"6979351f-4691-4d82-974b-a99723814c7a"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_bg_module_id": [
+			"03085782-0791-4b66-b764-4e1bdecd6292"
 		]
 	},
 	{
@@ -83369,11 +83436,12 @@
 	{
 		"id": "5a031054-2c8a-4256-9bb7-0f92e69ea5ba",
 		"unreleased": true,
-		"doel_id": [
-			"63bafa16-94fd-49af-8f7e-1d674e1bcbf4"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"45d3a7a5-dc10-45ec-8b9f-8ef26dfd4fb7"
 		]
 	},
 	{
@@ -83419,11 +83487,12 @@
 	{
 		"id": "aa779b99-b1f1-4a14-b137-8845bf7558f0",
 		"unreleased": true,
-		"doel_id": [
-			"63bafa16-94fd-49af-8f7e-1d674e1bcbf4"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_bg_module_id": [
+			"45d3a7a5-dc10-45ec-8b9f-8ef26dfd4fb7"
 		]
 	},
 	{
@@ -83469,11 +83538,12 @@
 	{
 		"id": "4e77947d-15f9-419f-9c36-f1159ff31e36",
 		"unreleased": true,
-		"doel_id": [
-			"63bafa16-94fd-49af-8f7e-1d674e1bcbf4"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"45d3a7a5-dc10-45ec-8b9f-8ef26dfd4fb7"
 		]
 	},
 	{
@@ -91477,11 +91547,12 @@
 	{
 		"id": "2518521e-2189-46eb-923c-d9ab3590f764",
 		"unreleased": true,
-		"doel_id": [
-			"a647d0e0-df99-4d37-ba4e-b0fc1226d421"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"aa1c343e-5c85-4fe4-887f-14f0d28bf950"
 		]
 	},
 	{
@@ -91507,11 +91578,12 @@
 	{
 		"id": "d1d443b9-878f-4186-b2c6-e8d9a376e97b",
 		"unreleased": true,
-		"doel_id": [
-			"a647d0e0-df99-4d37-ba4e-b0fc1226d421"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"aa1c343e-5c85-4fe4-887f-14f0d28bf950"
 		]
 	},
 	{
@@ -91547,11 +91619,12 @@
 	{
 		"id": "c31208cb-bea9-462b-9c12-739ff4a05f8f",
 		"unreleased": true,
-		"doel_id": [
-			"a647d0e0-df99-4d37-ba4e-b0fc1226d421"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_bg_module_id": [
+			"aa1c343e-5c85-4fe4-887f-14f0d28bf950"
 		]
 	},
 	{
@@ -91827,11 +91900,12 @@
 	{
 		"id": "6c8003f1-645b-40fb-881a-36232f734580",
 		"unreleased": true,
-		"doel_id": [
-			"fa64df67-0854-4e50-8fa7-facc710c6463"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"1909051b-1f84-4e86-ad52-75335a6cfeed"
 		]
 	},
 	{
@@ -91877,11 +91951,12 @@
 	{
 		"id": "d8bf81d7-e3f4-4219-854e-2bf4bade77a1",
 		"unreleased": true,
-		"doel_id": [
-			"fa64df67-0854-4e50-8fa7-facc710c6463"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"1909051b-1f84-4e86-ad52-75335a6cfeed"
 		]
 	},
 	{
@@ -92067,11 +92142,12 @@
 	{
 		"id": "5127d9b4-6907-4e15-96b0-d7191cd37f9d",
 		"unreleased": true,
-		"doel_id": [
-			"90062720-58f4-43d3-9788-d11577773d7c"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"8985d70c-8166-42a0-b97c-3d1233b7f73e"
 		]
 	},
 	{
@@ -92117,11 +92193,12 @@
 	{
 		"id": "865c2891-b95a-4408-aa12-c7126575476c",
 		"unreleased": true,
-		"doel_id": [
-			"90062720-58f4-43d3-9788-d11577773d7c"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"8985d70c-8166-42a0-b97c-3d1233b7f73e"
 		]
 	},
 	{
@@ -92177,11 +92254,12 @@
 	{
 		"id": "22038dba-3ae8-40b2-8852-f55c14692833",
 		"unreleased": true,
-		"doel_id": [
-			"90062720-58f4-43d3-9788-d11577773d7c"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_bg_module_id": [
+			"8985d70c-8166-42a0-b97c-3d1233b7f73e"
 		]
 	},
 	{
@@ -108281,11 +108359,12 @@
 	{
 		"id": "7ae153f4-9a61-4216-afc2-c19a3cae300e",
 		"unreleased": true,
-		"doel_id": [
-			"f0292fb6-591e-4353-823e-cae54c1c6e15"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"a8085016-f316-4cbd-8012-9fc1275db93e"
 		]
 	},
 	{
@@ -108331,11 +108410,12 @@
 	{
 		"id": "4d3882e4-90fb-4601-86f9-ae3853a64d7b",
 		"unreleased": true,
-		"doel_id": [
-			"f0292fb6-591e-4353-823e-cae54c1c6e15"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"a8085016-f316-4cbd-8012-9fc1275db93e"
 		]
 	},
 	{
@@ -108391,11 +108471,12 @@
 	{
 		"id": "f6d9516b-ec15-4965-a6f2-4723f2b46fb2",
 		"unreleased": true,
-		"doel_id": [
-			"f0292fb6-591e-4353-823e-cae54c1c6e15"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_bg_module_id": [
+			"a8085016-f316-4cbd-8012-9fc1275db93e"
 		]
 	},
 	{
@@ -108721,11 +108802,12 @@
 	{
 		"id": "e8284470-8b5e-4e91-8fab-5745df48d98d",
 		"unreleased": true,
-		"doel_id": [
-			"a474168b-5826-400e-8fe8-83d7409b7f0e"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"1fbc31fd-c574-49f9-bc02-c9b71e06d067"
 		]
 	},
 	{
@@ -108781,11 +108863,12 @@
 	{
 		"id": "38745c54-8fbc-4898-8975-db35467797e7",
 		"unreleased": true,
-		"doel_id": [
-			"a474168b-5826-400e-8fe8-83d7409b7f0e"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"1fbc31fd-c574-49f9-bc02-c9b71e06d067"
 		]
 	},
 	{
@@ -108911,11 +108994,12 @@
 	{
 		"id": "3866d9ee-5266-4ea8-8a9e-c3ed6891d3fe",
 		"unreleased": true,
-		"doel_id": [
-			"72d1e66f-842c-425a-8709-5c4c651427da"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"834f36fb-5162-4fac-b647-78140196ae4b"
 		]
 	},
 	{
@@ -108951,11 +109035,12 @@
 	{
 		"id": "3b272efa-e54b-4b35-ac68-05959ca6d2f9",
 		"unreleased": true,
-		"doel_id": [
-			"72d1e66f-842c-425a-8709-5c4c651427da"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"834f36fb-5162-4fac-b647-78140196ae4b"
 		]
 	},
 	{
@@ -109041,11 +109126,12 @@
 	{
 		"id": "067e322a-97f3-41f5-b410-46522074905d",
 		"unreleased": true,
-		"doel_id": [
-			"72d1e66f-842c-425a-8709-5c4c651427da"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_bg_module_id": [
+			"834f36fb-5162-4fac-b647-78140196ae4b"
 		]
 	},
 	{
@@ -109401,11 +109487,12 @@
 	{
 		"id": "b90c8752-0d58-4276-b75b-8bac56f0ba1f",
 		"unreleased": true,
-		"doel_id": [
-			"d6bcc900-1e76-4348-9961-7f1aceb33575"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"e3f30a6e-8e2b-4658-9fda-1799ab3a1070"
 		]
 	},
 	{
@@ -109491,11 +109578,12 @@
 	{
 		"id": "d4d9cfdd-978b-4306-8dbc-a90ec8c047e6",
 		"unreleased": true,
-		"doel_id": [
-			"d6bcc900-1e76-4348-9961-7f1aceb33575"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"e3f30a6e-8e2b-4658-9fda-1799ab3a1070"
 		]
 	},
 	{
@@ -142667,11 +142755,12 @@
 	{
 		"id": "a97285c6-1c2e-4728-9c58-70a9abd9b1e6",
 		"unreleased": true,
-		"doel_id": [
-			"94ef2a1c-45bf-4d91-a2e0-850bcba3f48d"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"a2f5502d-d285-4696-9e30-f7f79d635152"
 		]
 	},
 	{
@@ -142707,11 +142796,12 @@
 	{
 		"id": "a5bdc6bf-fa8c-494c-9da1-0f7a790afcf1",
 		"unreleased": true,
-		"doel_id": [
-			"94ef2a1c-45bf-4d91-a2e0-850bcba3f48d"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"a2f5502d-d285-4696-9e30-f7f79d635152"
 		]
 	},
 	{
@@ -142977,11 +143067,12 @@
 	{
 		"id": "c3c85caf-70d4-44a1-8847-24c6b44ca798",
 		"unreleased": true,
-		"doel_id": [
-			"4ae25d9e-ddb9-43a6-9972-782c6b1c0ee5"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"e576d504-e884-4b8b-9de1-fc1734fb2180"
 		]
 	},
 	{
@@ -143027,11 +143118,12 @@
 	{
 		"id": "a06938d4-d67b-4eec-9653-1ad3494c77e0",
 		"unreleased": true,
-		"doel_id": [
-			"4ae25d9e-ddb9-43a6-9972-782c6b1c0ee5"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"e576d504-e884-4b8b-9de1-fc1734fb2180"
 		]
 	},
 	{
@@ -143377,11 +143469,12 @@
 	{
 		"id": "c6bef3b2-c9fb-4eba-b120-5769dbfcce10",
 		"unreleased": true,
-		"doel_id": [
-			"7ef536d5-74d9-4ca3-ad0d-9a75ef66052e"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"55404dab-7f33-4a24-afcd-c0cce12f356e"
 		]
 	},
 	{
@@ -143427,11 +143520,12 @@
 	{
 		"id": "a8594d67-dacf-4523-b834-54687bb579a4",
 		"unreleased": true,
-		"doel_id": [
-			"7ef536d5-74d9-4ca3-ad0d-9a75ef66052e"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"55404dab-7f33-4a24-afcd-c0cce12f356e"
 		]
 	},
 	{
@@ -143477,11 +143571,12 @@
 	{
 		"id": "91531dfd-ab38-448e-a637-c1110613efe0",
 		"unreleased": true,
-		"doel_id": [
-			"7ef536d5-74d9-4ca3-ad0d-9a75ef66052e"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_bg_module_id": [
+			"55404dab-7f33-4a24-afcd-c0cce12f356e"
 		]
 	},
 	{
@@ -143767,11 +143862,12 @@
 	{
 		"id": "764187da-f49d-40e8-966e-89869a3d9876",
 		"unreleased": true,
-		"doel_id": [
-			"553c9b4e-da3b-4fcc-8d90-b2825979719e"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_bg_module_id": [
+			"432fc4e7-74f7-4c63-9016-ab5a7687f95a"
 		]
 	},
 	{
@@ -143807,11 +143903,12 @@
 	{
 		"id": "f397914d-1b51-4ef1-917b-ee477390c374",
 		"unreleased": true,
-		"doel_id": [
-			"553c9b4e-da3b-4fcc-8d90-b2825979719e"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_bg_module_id": [
+			"432fc4e7-74f7-4c63-9016-ab5a7687f95a"
 		]
 	},
 	{
@@ -143857,11 +143954,12 @@
 	{
 		"id": "f39303d5-6967-4db9-90db-6a16587d8757",
 		"unreleased": true,
-		"doel_id": [
-			"553c9b4e-da3b-4fcc-8d90-b2825979719e"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_bg_module_id": [
+			"432fc4e7-74f7-4c63-9016-ab5a7687f95a"
 		]
 	},
 	{
