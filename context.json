@@ -95,7 +95,7 @@
 						{"$ref": "#/definitions/uuidArray"},
 						{
 							"items": {
-								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/eindterm"
+								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_eindterm"
 							}
 						}
 					]
@@ -105,7 +105,7 @@
 						{"$ref": "#/definitions/uuidArray"},
 						{
 							"items": {
-								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/subdomein"
+								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_subdomein"
 							}
 						}
 					]
@@ -115,7 +115,17 @@
 						{"$ref": "#/definitions/uuidArray"},
 						{
 							"items": {
-								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/domein"
+								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_domein"
+							}
+						}
+					]
+				},
+				"examenprogramma_bg_module_id": {
+					"allOf": [ 
+						{"$ref": "#/definitions/uuidArray"},
+						{
+							"items": {
+								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json#/definitions/examenprogramma_bg_module"
 							}
 						}
 					]
@@ -126,7 +136,8 @@
 				{ "required": ["id","kerndoel_id","niveau_id"] },
 				{ "required": ["id","examenprogramma_domein_id","niveau_id"] },
 				{ "required": ["id","examenprogramma_subdomein_id","niveau_id"] },
-				{ "required": ["id","examenprogramma_eindterm_id","niveau_id"] }
+				{ "required": ["id","examenprogramma_eindterm_id","niveau_id"] },
+				{ "required": ["id","examenprogramma_bg_module_id","niveau_id"] }
 			]
 		},
 		"doel": {
