@@ -16,7 +16,7 @@
 		"deleted": 1
 	},
 	{
-		"title": "VO",
+		"title": "vo",
 		"id": "2a1401e9-c223-493b-9b86-78f6993b1a8d",
 		"prefix": "2000",
 		"description": "Voortgezet onderwijs",
@@ -46,7 +46,7 @@
 		"deleted": 1
 	},
 	{
-		"title": "VMBO",
+		"title": "vmbo",
 		"id": "c7942bb1-bf4f-409f-bc98-9a0b02f175dc",
 		"prefix": "3000",
 		"description": "Voorbereidend middelbaar beroepsonderwijs",
@@ -258,11 +258,12 @@
 		"type": "Opleiding"
 	},
 	{
-		"title": "BB VMBO KB",
+		"title": "bb vmbo kb",
 		"id": "8574855d-0670-42bf-9f73-dc6706278b8b",
 		"prefix": "3502",
 		"description": "Bovenbouw vmbo kaderberoeps leerweg",
-		"type": "Opleiding"
+		"type": "Opleiding",
+		"deleted": "0"
 	},
 	{
 		"title": "BB VMBO KB/GL/TL",
