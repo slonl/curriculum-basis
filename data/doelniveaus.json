@@ -85710,11 +85710,12 @@
 	{
 		"id": "dcfa532e-edcd-4c9b-88ad-364b0bf2bab4",
 		"unreleased": true,
-		"doel_id": [
-			"3c2e9723-e798-4f3a-a117-86630158d547"
-		],
+		"doel_id": [],
 		"niveau_id": [
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
+		],
+		"examenprogramma_eindterm_id": [
+			"402ea6ae-7345-43df-ae2c-af0707af505e"
 		]
 	},
 	{
