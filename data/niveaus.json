@@ -20,10 +20,7 @@
 		"id": "2a1401e9-c223-493b-9b86-78f6993b1a8d",
 		"prefix": "2000",
 		"description": "Voortgezet onderwijs",
-		"type": "Sector",
-		"children": [],
-		"dirty": 0,
-		"commit": "1"
+		"type": "Sector"
 	},
 	{
 		"title": "HAVO/VWO",
@@ -53,9 +50,7 @@
 		"id": "c7942bb1-bf4f-409f-bc98-9a0b02f175dc",
 		"prefix": "3000",
 		"description": "Voorbereidend middelbaar beroepsonderwijs",
-		"type": "Sector",
-		"children": [],
-		"dirty": 0
+		"type": "Sector"
 	},
 	{
 		"title": "vve",
@@ -268,10 +263,7 @@
 		"prefix": "3502",
 		"description": "Bovenbouw vmbo kaderberoeps leerweg",
 		"type": "Opleiding",
-		"children": [],
-		"dirty": 0,
-		"deleted": "0",
-		"commit": "1"
+		"deleted": "0"
 	},
 	{
 		"title": "BB VMBO KB/GL/TL",
@@ -938,21 +930,24 @@
 		"id": "75e50bea-c1ac-4705-b1d1-3136286c3cec",
 		"prefix": "4601",
 		"description": "havo a",
-		"type": "Wiskundeniveau"
+		"type": "Wiskundeniveau",
+		"deleted": 1
 	},
 	{
 		"title": "BB HAVO B",
 		"id": "797f785d-acd0-4fcc-9aed-7ac3974941a0",
 		"prefix": "4602",
 		"description": "havo b",
-		"type": "Wiskundeniveau"
+		"type": "Wiskundeniveau",
+		"deleted": 1
 	},
 	{
 		"title": "BB HAVO C",
 		"id": "24559031-3048-40d6-99d0-c7e39bb677a7",
 		"prefix": "4606",
 		"description": "havo c",
-		"type": "Wiskundeniveau"
+		"type": "Wiskundeniveau",
+		"deleted": 1
 	},
 	{
 		"title": "BB HAVO D",
@@ -966,21 +961,24 @@
 		"id": "4124c89f-dc8c-4d57-ace9-ab24a9d72c21",
 		"prefix": "4703",
 		"description": "vwo a",
-		"type": "Wiskundeniveau"
+		"type": "Wiskundeniveau",
+		"deleted": 1
 	},
 	{
 		"title": "BB VWO B",
 		"id": "28531be6-5259-460a-8ef9-8d1bc918f937",
 		"prefix": "4704",
 		"description": "vwo b",
-		"type": "Wiskundeniveau"
+		"type": "Wiskundeniveau",
+		"deleted": 1
 	},
 	{
 		"title": "BB VWO C",
 		"id": "0adaab8b-5725-4b04-9176-0c01c7cb03b3",
 		"prefix": "4705",
 		"description": "vwo c",
-		"type": "Wiskundeniveau"
+		"type": "Wiskundeniveau",
+		"deleted": 1
 	},
 	{
 		"title": "BB VWO D",
