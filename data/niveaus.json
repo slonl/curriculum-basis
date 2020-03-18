@@ -20,7 +20,10 @@
 		"id": "2a1401e9-c223-493b-9b86-78f6993b1a8d",
 		"prefix": "2000",
 		"description": "Voortgezet onderwijs",
-		"type": "Sector"
+		"type": "Sector",
+		"children": [],
+		"dirty": 0,
+		"commit": "1"
 	},
 	{
 		"title": "HAVO/VWO",
@@ -50,7 +53,9 @@
 		"id": "c7942bb1-bf4f-409f-bc98-9a0b02f175dc",
 		"prefix": "3000",
 		"description": "Voorbereidend middelbaar beroepsonderwijs",
-		"type": "Sector"
+		"type": "Sector",
+		"children": [],
+		"dirty": 0
 	},
 	{
 		"title": "vve",
@@ -263,7 +268,10 @@
 		"prefix": "3502",
 		"description": "Bovenbouw vmbo kaderberoeps leerweg",
 		"type": "Opleiding",
-		"deleted": "0"
+		"children": [],
+		"dirty": 0,
+		"deleted": "0",
+		"commit": "1"
 	},
 	{
 		"title": "BB VMBO KB/GL/TL",
