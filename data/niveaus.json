@@ -34,7 +34,10 @@
 		"prefix": "4000",
 		"description": "havo/vwo",
 		"type": "Sector",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"description": "hoger beroepsonderwijs",
@@ -157,7 +160,10 @@
 		"prefix": "4500",
 		"description": "havo/vwo",
 		"type": "Sector",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"description": "bovenbouw vmbo",
@@ -208,7 +214,10 @@
 		"title": "OB HAVO/VWO",
 		"prefix": "4101",
 		"type": "Sector",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"description": "onderbouw vmbo",
@@ -284,7 +293,10 @@
 		"prefix": "3505",
 		"description": "bb/kb",
 		"type": "Opleiding",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"description": "bovenbouw vmbo gemengde leerweg",
@@ -299,7 +311,10 @@
 		"prefix": "3506",
 		"description": "gl/tl",
 		"type": "Opleiding",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"description": "bovenbouw vmbo kaderberoeps leerweg",
@@ -315,7 +330,10 @@
 		"prefix": "3507",
 		"description": "kb/gl/tl",
 		"type": "Opleiding",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"description": "bovenbouw vmbo theoretische leerweg",
@@ -344,7 +362,10 @@
 		"prefix": "3105",
 		"description": "bb/bk",
 		"type": "Opleiding",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"description": "onderbouw vmbo gevorderd",
@@ -366,7 +387,10 @@
 		"prefix": "3106",
 		"description": "gl/tl",
 		"type": "Opleiding",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"description": "onderbouw vmbo kaderberoeps leerweg",
@@ -381,7 +405,10 @@
 		"prefix": "3107",
 		"description": "kb/gl/tl",
 		"type": "Opleiding",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"title": "OB VMBO KB/GL/TL fout",
@@ -1060,7 +1087,8 @@
 		"id": "5251da2c-9e4c-4394-bca6-faa7be195a9b",
 		"prefix": "4608",
 		"description": "havo d",
-		"type": "Wiskundeniveau"
+		"type": "Wiskundeniveau",
+		"deleted": 1
 	},
 	{
 		"title": "BB VWO A",
@@ -1100,56 +1128,64 @@
 		"id": "efd50ed9-2f8f-4ab3-a53f-8951137901a1",
 		"prefix": "4707",
 		"description": "vwo d",
-		"type": "Wiskundeniveau"
+		"type": "Wiskundeniveau",
+		"deleted": 1
 	},
 	{
 		"title": "OB HAVO B/D",
 		"id": "b0b5b80e-a08c-4780-b301-edf0cc014210",
 		"prefix": "4106",
 		"description": "havo b/d",
-		"type": "Wiskundeniveau"
+		"type": "Wiskundeniveau",
+		"deleted": 1
 	},
 	{
 		"title": "OB HAVO C",
 		"id": "89cf271d-5bd3-4054-9fb5-ff0723c5509b",
 		"prefix": "4108",
 		"description": "havo c",
-		"type": "Wiskundeniveau"
+		"type": "Wiskundeniveau",
+		"deleted": 1
 	},
 	{
 		"title": "OB HAVO D",
 		"id": "b5bcba4c-b2be-4cd0-a7d4-020a9404d9e6",
 		"prefix": "4109",
 		"description": "havo d",
-		"type": "Wiskundeniveau"
+		"type": "Wiskundeniveau",
+		"deleted": 1
 	},
 	{
 		"title": "OB VWO A/C",
 		"id": "106d1741-e31c-405e-9d22-d1129243774e",
 		"prefix": "4151",
 		"description": "vwo a/c",
-		"type": "Wiskundeniveau"
+		"type": "Wiskundeniveau",
+		"deleted": 1
 	},
 	{
 		"title": "OB VWO B/D",
 		"id": "b5162591-13c0-4f4d-b236-68fbfc8a7c83",
 		"prefix": "4152",
 		"description": "vwo b/d",
-		"type": "Wiskundeniveau"
+		"type": "Wiskundeniveau",
+		"deleted": 1
 	},
 	{
 		"title": "OB VWO D",
 		"id": "b76c8b9c-9072-4bc9-bc6d-903d80ee8432",
 		"prefix": "4153",
 		"description": "vwo d",
-		"type": "Wiskundeniveau"
+		"type": "Wiskundeniveau",
+		"deleted": 1
 	},
 	{
 		"id": "8291418d-f683-4c58-97cd-f25e9e0f88c9",
 		"title": "OB VWO vervolg",
 		"description": "test2",
 		"prefix": "4114",
-		"type": "Fase"
+		"type": "Fase",
+		"deleted": 1
 	},
 	{
 		"id": "c8621962-12ec-4792-b8e9-604cb2e74d07",
