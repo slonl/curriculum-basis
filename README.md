@@ -97,4 +97,3 @@ This uses the `context.json` JSON schema for validation. The JSON schema has two
 
 - `#file` contains the path to retrieve and export each collection from and to
 - `itemTypeReference` specifies what type each uuid identifier should map to
-
