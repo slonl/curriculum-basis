@@ -1,10 +1,65 @@
 [
 	{
+		"title": "bedrijfsopleiding",
+		"description": "bedrijfsopleiding",
+		"id": "a3c394bc-44a2-4afe-b7b4-044633b84121",
+		"prefix": 9000,
+		"type": "Sector",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "bve",
+		"description": "beroepsonderwijs en volwasseneneducatie",
+		"id": "caa97efc-a713-41ea-a845-1534ca65eac9",
+		"prefix": 9000,
+		"type": "Sector",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
 		"description": "voortgezet onderwijs",
 		"id": "2a1401e9-c223-493b-9b86-78f6993b1a8d",
 		"title": "vo",
 		"prefix": "2000",
 		"type": "Sector"
+	},
+	{
+		"title": "HAVO/VWO",
+		"id": "e5d3f6f2-c41d-4c6a-8dc2-ccee788baa9b",
+		"prefix": "4000",
+		"description": "havo/vwo",
+		"type": "Sector",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"description": "hoger beroepsonderwijs",
+		"id": "be140797-803f-4b9e-81cc-5572c711e09c",
+		"title": "HBO",
+		"prefix": "9000",
+		"type": "Sector",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"description": "middelbaar beroepsonderwijs",
+		"id": "f3ac3fbb-5eae-49e0-8494-0a44855fff25",
+		"prefix": "8000",
+		"title": "MBO",
+		"type": "Sector",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"description": "voorbereidend middelbaar beroepsonderwijs",
@@ -42,6 +97,28 @@
 		"type": "Sector"
 	},
 	{
+		"title": "volwasseneneducatie",
+		"description": "volwasseneneducatie",
+		"id": "431f5942-4c61-42a5-b33d-638b82e0c4f6",
+		"prefix": "6000",
+		"type": "Sector",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "sbao",
+		"description": "speciaal basisonderwijs",
+		"id": "e05b5eb1-6a65-4f45-9556-79b25cd91da8",
+		"prefix": 500,
+		"type": "Opleiding",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
 		"description": "voorbereidend wetenschappelijk onderwijs",
 		"id": "ad9872e5-edc4-4a62-9ee7-ba7daceba2e0",
 		"prefix": "4500",
@@ -49,11 +126,44 @@
 		"type": "Opleiding"
 	},
 	{
+		"title": "vavo",
+		"description": "voortgezet algemeen volwassenen onderwijs",
+		"id": "a05ae1d7-8868-46e8-a4ed-eb6da166499d",
+		"prefix": "6500",
+		"type": "Opleiding",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "OB HAVO A",
+		"id": "f69986db-720c-4134-887e-d980d07892cd",
+		"prefix": "4105",
+		"description": "havo a",
+		"type": "Wiskundeniveau",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
 		"description": "bovenbouw havo",
 		"id": "6dc8e1f2-a929-418f-b4e5-6be1204639da",
 		"title": "bb havo",
 		"prefix": "4600",
 		"type": "Sector"
+	},
+	{
+		"title": "BB HAVO/VWO",
+		"id": "2cd219cf-56ee-4327-a399-4f44cd571351",
+		"prefix": "4500",
+		"description": "havo/vwo",
+		"type": "Sector",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"description": "bovenbouw vmbo",
@@ -70,11 +180,44 @@
 		"type": "Sector"
 	},
 	{
+		"id": "f33b30ee-3c82-4ead-bc20-4255be9ece2d",
+		"prefix": "9000",
+		"title": "HBO - Bachelor",
+		"description": "",
+		"type": "Sector",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"id": "de952b8b-efa5-4395-92c0-193812130c67",
+		"prefix": "9000",
+		"title": "HBO - Master",
+		"description": "",
+		"type": "Sector",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
 		"description": "onderbouw havo",
 		"id": "5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 		"title": "ob havo",
 		"prefix": "4107",
 		"type": "Sector"
+	},
+	{
+		"description": "ob havo/vwo",
+		"id": "fe74fabd-e1de-4902-98c4-2cfa44e05233",
+		"title": "OB HAVO/VWO",
+		"prefix": "4101",
+		"type": "Sector",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"description": "onderbouw vmbo",
@@ -105,11 +248,55 @@
 		"type": "Sector"
 	},
 	{
+		"description": "wetenschappelijk onderwijs",
+		"id": "bbbd99c6-cf49-4980-baed-12388f8dcff4",
+		"title": "WO",
+		"prefix": "9500",
+		"type": "Sector",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"id": "18656a7c-95a5-4831-8085-020d3151aceb",
+		"prefix": "9501",
+		"title": "WO - Bachelor",
+		"description": "",
+		"type": "Sector",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"id": "2998f2e0-449d-4911-86a2-f4cbf1a20b56",
+		"prefix": "9502",
+		"title": "WO - Master",
+		"description": "",
+		"type": "Sector",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
 		"description": "bovenbouw vmbo beroepsgerichte leerweg",
 		"id": "861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 		"title": "bb vmbo bb",
 		"prefix": "3501",
 		"type": "Opleiding"
+	},
+	{
+		"title": "BB VMBO BB/KB",
+		"id": "350ec1a4-2f02-4949-a758-a4a7896183e9",
+		"prefix": "3505",
+		"description": "bb/kb",
+		"type": "Opleiding",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"description": "bovenbouw vmbo gemengde leerweg",
@@ -119,12 +306,34 @@
 		"type": "Opleiding"
 	},
 	{
+		"title": "BB VMBO GL/TL",
+		"id": "44db4243-0092-4905-ae4a-9f6906a0f2a3",
+		"prefix": "3506",
+		"description": "gl/tl",
+		"type": "Opleiding",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
 		"description": "bovenbouw vmbo kaderberoeps leerweg",
 		"id": "8574855d-0670-42bf-9f73-dc6706278b8b",
 		"title": "bb vmbo kb",
 		"prefix": "3502",
 		"type": "Opleiding",
 		"deleted": "0"
+	},
+	{
+		"title": "BB VMBO KB/GL/TL",
+		"id": "f958d18f-dda9-4011-be66-d553e0dd24c7",
+		"prefix": "3507",
+		"description": "kb/gl/tl",
+		"type": "Opleiding",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"description": "bovenbouw vmbo theoretische leerweg",
@@ -148,6 +357,17 @@
 		"type": "Opleiding"
 	},
 	{
+		"title": "OB VMBO BB/KB",
+		"id": "2dd57ebb-6142-40e2-8d4f-065309ffe9c8",
+		"prefix": "3105",
+		"description": "bb/bk",
+		"type": "Opleiding",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
 		"description": "onderbouw vmbo gevorderd",
 		"id": "553479de-32ba-42b2-a8e7-5ceb19caac42",
 		"title": "ob vmbo gevorderd",
@@ -162,11 +382,44 @@
 		"type": "Opleiding"
 	},
 	{
+		"title": "OB VMBO GL/TL",
+		"id": "df35dc93-7bdb-4023-b3d5-d194c58ba442",
+		"prefix": "3106",
+		"description": "gl/tl",
+		"type": "Opleiding",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
 		"description": "onderbouw vmbo kaderberoeps leerweg",
 		"id": "2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
 		"title": "ob vmbo kb",
 		"prefix": "3102",
 		"type": "Opleiding"
+	},
+	{
+		"title": "OB VMBO KB/GL/TL",
+		"id": "b8a2f14f-4d60-41d1-b2b8-6f144a8f2ca0",
+		"prefix": "3107",
+		"description": "kb/gl/tl",
+		"type": "Opleiding",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "OB VMBO KB/GL/TL fout",
+		"id": "9bebc1ce-2913-4788-b302-a43b3dfcd43c",
+		"prefix": "3108",
+		"description": "kb/gl/tl",
+		"type": "Opleiding",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"description": "onderbouw vmbo theoretische leerweg ",
@@ -260,6 +513,18 @@
 		"type": "Beheersingsniveau"
 	},
 	{
+		"description": "bovenbouw po",
+		"__EMPTY_1": " ",
+		"id": "7cb9ca5a-29ba-4690-8d01-3df70025b28c",
+		"prefix": "1003",
+		"title": "bb po",
+		"type": "Fase",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
 		"title": "fase 1",
 		"description": "fase 1",
 		"id": "0a3d23df-1758-439b-b219-cd2854cc639b",
@@ -323,6 +588,17 @@
 		"type": "Fase"
 	},
 	{
+		"id": "543e0a46-3aba-410e-b18a-37b332665b19",
+		"prefix": "1002",
+		"title": "mb po",
+		"description": "middenbouw po",
+		"type": "Fase",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
 		"title": "OB HAVO/VWO basis",
 		"id": "55bbab6f-73d1-4476-ba25-daf84c8da5e4",
 		"prefix": "4113",
@@ -342,6 +618,39 @@
 		"prefix": "4114",
 		"description": "vervolg",
 		"type": "Fase"
+	},
+	{
+		"id": "85a90f2c-5d18-4bb4-bb1e-b3a88607b425",
+		"prefix": "1001",
+		"title": "ob po",
+		"description": "onderbouw po",
+		"type": "Fase",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "overstijgend",
+		"description": "overstijgend",
+		"id": "4bf78737-2974-4534-a0fb-178edf38049d",
+		"prefix": "9999",
+		"type": "Fase",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "streefdoelen po",
+		"description": "streefdoelen po",
+		"id": "670f2ae3-5e65-4458-b0c4-a9f42a7d9531",
+		"prefix": "1001",
+		"type": "Fase",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"description": "havo, leerjaar 1",
@@ -377,6 +686,50 @@
 		"prefix": "4205",
 		"title": "havo 5",
 		"type": "Leerjaar"
+	},
+	{
+		"description": "MBO, Niveau 1: Assistentenopleiding",
+		"id": "a598e56e-d1a6-4907-9e2c-3da64e59f9ae",
+		"prefix": "8001",
+		"title": "MBO, Niveau 1: Assistentenopleiding",
+		"type": "Leerjaar",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"description": "MBO, Niveau 2: Basisberoepsopleiding",
+		"id": "00ace3c7-d7a8-41e6-83b1-7f13a9af7668",
+		"prefix": "8002",
+		"title": "MBO, Niveau 2: Basisberoepsopleiding",
+		"type": "Leerjaar",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"description": "MBO, Niveau 3: Vakopleiding",
+		"id": "654931e1-6f8b-4f72-aa4b-92c99c72c347",
+		"prefix": "8003",
+		"title": "MBO, Niveau 3: Vakopleiding",
+		"type": "Leerjaar",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"description": "MBO, Niveau 4: Middenkaderopleiding",
+		"id": "8beca7eb-95a5-4c7d-9704-2d2a2fc4bc65",
+		"prefix": "8004",
+		"title": "MBO, Niveau 4: Middenkaderopleiding",
+		"type": "Leerjaar",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"title": "groep 1",
@@ -433,6 +786,72 @@
 		"id": "95138558-9f65-4888-8ea3-8acce5eea273",
 		"prefix": "1008",
 		"type": "Leerjaar"
+	},
+	{
+		"title": "vmbo bb, 1",
+		"description": "vmbo basisberoepsgerichte leerweg, leerjaar 1",
+		"id": "50746437-08f3-4559-8af3-3fa6e05d1a44",
+		"prefix": "3001",
+		"type": "Leerjaar",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "vmbo bb, 2",
+		"description": "vmbo basisberoepsgerichte leerweg, leerjaar 2",
+		"id": "9716fc83-479c-48da-be13-2fdd74e3b692",
+		"prefix": "3002",
+		"type": "Leerjaar",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "vmbo bb, 3",
+		"description": "vmbo basisberoepsgerichte leerweg, leerjaar 3",
+		"id": "e56a05b1-a9af-432f-a7ac-b7401d8e95fb",
+		"prefix": "3003",
+		"type": "Leerjaar",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "vmbo bb, 4",
+		"description": "vmbo basisberoepsgerichte leerweg, leerjaar 4",
+		"id": "45403807-f052-4e09-a95c-b2e1c10c6c89",
+		"prefix": "3004",
+		"type": "Leerjaar",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "vmbo gl, 1",
+		"description": "vmbo gemengde leerweg, leerjaar 1",
+		"id": "8ae2af2d-890e-49d6-95cb-3619acb5c2cf",
+		"prefix": "3005",
+		"type": "Leerjaar",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "vmbo gl, 2",
+		"description": "vmbo gemengde leerweg, leerjaar 2",
+		"id": "05d90293-e675-44f4-bcd7-1f67161f6734",
+		"prefix": "3006",
+		"type": "Leerjaar",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"title": "vmbo gl, 3",
@@ -629,6 +1048,171 @@
 		"title": "4S",
 		"description": "4S",
 		"type": "Referentieniveau"
+	},
+	{
+		"title": "BB HAVO A",
+		"id": "75e50bea-c1ac-4705-b1d1-3136286c3cec",
+		"prefix": "4601",
+		"description": "havo a",
+		"type": "Wiskundeniveau",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "BB HAVO B",
+		"id": "797f785d-acd0-4fcc-9aed-7ac3974941a0",
+		"prefix": "4602",
+		"description": "havo b",
+		"type": "Wiskundeniveau",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "BB HAVO C",
+		"id": "24559031-3048-40d6-99d0-c7e39bb677a7",
+		"prefix": "4606",
+		"description": "havo c",
+		"type": "Wiskundeniveau",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "BB HAVO D",
+		"id": "5251da2c-9e4c-4394-bca6-faa7be195a9b",
+		"prefix": "4608",
+		"description": "havo d",
+		"type": "Wiskundeniveau",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "BB VWO A",
+		"id": "4124c89f-dc8c-4d57-ace9-ab24a9d72c21",
+		"prefix": "4703",
+		"description": "vwo a",
+		"type": "Wiskundeniveau",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "BB VWO B",
+		"id": "28531be6-5259-460a-8ef9-8d1bc918f937",
+		"prefix": "4704",
+		"description": "vwo b",
+		"type": "Wiskundeniveau",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "BB VWO C",
+		"id": "0adaab8b-5725-4b04-9176-0c01c7cb03b3",
+		"prefix": "4705",
+		"description": "vwo c",
+		"type": "Wiskundeniveau",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "BB VWO D",
+		"id": "efd50ed9-2f8f-4ab3-a53f-8951137901a1",
+		"prefix": "4707",
+		"description": "vwo d",
+		"type": "Wiskundeniveau",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "OB HAVO B/D",
+		"id": "b0b5b80e-a08c-4780-b301-edf0cc014210",
+		"prefix": "4106",
+		"description": "havo b/d",
+		"type": "Wiskundeniveau",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "OB HAVO C",
+		"id": "89cf271d-5bd3-4054-9fb5-ff0723c5509b",
+		"prefix": "4108",
+		"description": "havo c",
+		"type": "Wiskundeniveau",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "OB HAVO D",
+		"id": "b5bcba4c-b2be-4cd0-a7d4-020a9404d9e6",
+		"prefix": "4109",
+		"description": "havo d",
+		"type": "Wiskundeniveau",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "OB VWO A/C",
+		"id": "106d1741-e31c-405e-9d22-d1129243774e",
+		"prefix": "4151",
+		"description": "vwo a/c",
+		"type": "Wiskundeniveau",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "OB VWO B/D",
+		"id": "b5162591-13c0-4f4d-b236-68fbfc8a7c83",
+		"prefix": "4152",
+		"description": "vwo b/d",
+		"type": "Wiskundeniveau",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"title": "OB VWO D",
+		"id": "b76c8b9c-9072-4bc9-bc6d-903d80ee8432",
+		"prefix": "4153",
+		"description": "vwo d",
+		"type": "Wiskundeniveau",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
+	},
+	{
+		"id": "8291418d-f683-4c58-97cd-f25e9e0f88c9",
+		"title": "OB VWO vervolg",
+		"description": "test2",
+		"prefix": "4114",
+		"type": "Fase",
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"id": "c8621962-12ec-4792-b8e9-604cb2e74d07",
