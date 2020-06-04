@@ -321,8 +321,7 @@
 		"id": "8574855d-0670-42bf-9f73-dc6706278b8b",
 		"title": "bb vmbo kb",
 		"prefix": "3502",
-		"type": "Opleiding",
-		"deleted": "0"
+		"type": "Opleiding"
 	},
 	{
 		"title": "BB VMBO KB/GL/TL",
@@ -603,21 +602,24 @@
 		"id": "55bbab6f-73d1-4476-ba25-daf84c8da5e4",
 		"prefix": "4113",
 		"description": "basis",
-		"type": "Fase"
+		"type": "Fase",
+		"deleted": 1
 	},
 	{
 		"title": "OB HAVO/VWO gevorderd",
 		"id": "f68cd217-a703-459f-884f-b095e9f3accc",
 		"prefix": "4116",
 		"description": "gevorderd",
-		"type": "Fase"
+		"type": "Fase",
+		"deleted": 1
 	},
 	{
 		"title": "OB HAVO/VWO vervolg",
 		"id": "f8ddb369-de86-49f1-b8b9-d62dfb3dd25f",
 		"prefix": "4114",
 		"description": "vervolg",
-		"type": "Fase"
+		"type": "Fase",
+		"deleted": 1
 	},
 	{
 		"id": "85a90f2c-5d18-4bb4-bb1e-b3a88607b425",
@@ -1219,8 +1221,7 @@
 		"title": "ob havo basis",
 		"description": "Speciaal niveau voor lichamelijke opvoeding",
 		"prefix": "4113",
-		"type": "Fase",
-		"deleted": "0"
+		"type": "Fase"
 	},
 	{
 		"id": "a1928e1b-3780-4307-8e12-e01b0830ec18",
