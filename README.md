@@ -1,12 +1,12 @@
-# curriculum-doelen: SLO Curriculum core dataset
+# curriculum-basis: SLO Curriculum core dataset
 
 This repository contains the core curriculum dataset. The dataset is defined by the `context.json` JSON Schema file. 
 
 ## installation
 
 ```
-git clone https://github.com/slonl/curriculum-doelen.git
-cd curriculum-doelen
+git clone https://github.com/slonl/curriculum-basis.git
+cd curriculum-basis
 git submodule init
 git submodule update
 npm install
@@ -49,8 +49,8 @@ This dataset also contains code to load and alter the dataset. This is written i
 `schema curriculum.loadSchema(string schemaFilename, string repositoryPath)`
 
 ```
-  var curriculum = require('curriculum-doelen/lib/curriculum.js');
-  var schema     = curriculum.loadSchema('context.json','curriculum-doelen/');
+  var curriculum = require('curriculum-basis/lib/curriculum.js');
+  var schema     = curriculum.loadSchema('context.json','curriculum-basis/');
 ```
 Once loaded you can access the dataset collections under the `curriculum.data` property:
 
