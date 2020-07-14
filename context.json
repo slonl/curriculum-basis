@@ -135,6 +135,21 @@
 				{ "required": ["id","examenprogramma_eindterm_id","niveau_id"] }
 			]
 		},
+		"vakleergebied": {
+			"allOf": [
+				{ "$ref": "#/definitions/inhoud" },
+				{
+					"properties": {
+						"niveau_id": {
+							"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
+							"items" : {
+								"itemTypeReference": "#/definitions/niveau"
+							}
+						}
+					}
+				}
+			]
+		},
 		"doel": {
 			"$ref": "#/definitions/base"
 		},
@@ -159,6 +174,12 @@
 					"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
 					"items" : {
 						"itemTypeReference": "#/definitions/doelniveau"
+					}
+				},
+				"vakleergebied_id": {
+					"allOf": [ { "$ref": "#/definitions/uuidArray"} ],
+					"items": {
+						"itemTypeReference": "#/definitions/vakleergebied"
 					}
 				},
 				"deprecated_id" : {
@@ -196,6 +217,13 @@
 			"type" : "array",
 			"items": {
 				"$ref": "#/definitions/niveau"
+			}
+		},
+		"vakleergebied": {
+			"#file": "data/vakleergebieden.json",
+			"type": "array",
+			"items": {
+				"$ref": "#/definitions/vakleergebied"
 			}
 		},
 		"alias": {
