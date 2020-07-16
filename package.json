@@ -1,7 +1,7 @@
 {
-  "name": "curriculum-kern",
+  "name": "curriculum-basis",
   "version": "1.0.0",
-  "description": "Curriculum Kern Context",
+  "description": "Curriculum Basis Context",
   "main": "context.json",
   "scripts": {
     "test": "node test/test.js"
