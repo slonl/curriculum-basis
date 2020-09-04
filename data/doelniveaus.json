@@ -169125,5 +169125,15 @@
 		"kerndoel_id": [
 			"070cf703-9914-492d-8893-0a39ccec17db"
 		]
+	},
+	{
+		"id": "f707fcbb-da76-4793-9bc6-01254f1fda11",
+		"title": "verzamelen van gegevens",
+		"description": "",
+		"bron": "lpib"
+	},
+	{
+		"id": "49584710-3970-481d-a330-d43c319929b9",
+		"title": ""
 	}
 ]
