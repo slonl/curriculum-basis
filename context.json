@@ -140,6 +140,9 @@
 				{ "$ref": "#/definitions/inhoud" },
 				{
 					"properties": {
+						"prefix": {
+							"type": "string"
+						},
 						"niveau_id": {
 							"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
 							"items" : {
