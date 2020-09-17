@@ -24,7 +24,7 @@
 			"type": "string",
 			"anyOf": [
 				{ "format": "uuid" },
-				{ "pattern": "^bk:[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-4[0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}$" }
+				{ "pattern": "^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-4[0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}$" }
 			]
 		},
 		"uuidArray": {
