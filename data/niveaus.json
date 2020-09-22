@@ -602,7 +602,10 @@
 		"prefix": "4113",
 		"description": "basis",
 		"type": "Fase",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"title": "OB HAVO/VWO gevorderd",
@@ -610,7 +613,10 @@
 		"prefix": "4116",
 		"description": "gevorderd",
 		"type": "Fase",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"title": "OB HAVO/VWO vervolg",
@@ -618,7 +624,10 @@
 		"prefix": "4114",
 		"description": "vervolg",
 		"type": "Fase",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"niveau"
+		]
 	},
 	{
 		"id": "85a90f2c-5d18-4bb4-bb1e-b3a88607b425",
@@ -1255,6 +1264,14 @@
 		"title": "ob vwo vervolg",
 		"description": "Speciaal niveau voor lichamelijke opvoeding",
 		"prefix": "4114",
+		"type": ""
+	},
+	{
+		"id": "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+		"parent": "",
+		"prefix": "",
+		"title": "ob vo\n",
+		"description": "Onderbouw voortgezet onderwijs",
 		"type": ""
 	}
 ]
