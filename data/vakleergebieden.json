@@ -1,7 +1,7 @@
 [
 	{
 		"id": "c0f3b769-606e-488a-aeb1-405bf46df24a",
-		"unreleased": true,
+		"prefix": "21ev",
 		"sloID": "55",
 		"title": "21e eeuwse vaardigheden",
 		"description": "",
@@ -23,11 +23,10 @@
 	},
 	{
 		"id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da",
+		"prefix": "ak",
 		"title": "Aardrijkskunde",
-		"unreleased": true,
 		"sloID": "1",
 		"description": "",
-		"prefix": "AK",
 		"niveau_id": [
 			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
 			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
@@ -46,7 +45,7 @@
 	},
 	{
 		"id": "182462b2-662f-42e5-8464-f9075afee3ba",
-		"unreleased": true,
+		"prefix": "anw",
 		"sloID": "2",
 		"title": "Algemene natuurwetenschappen",
 		"description": "",
@@ -57,7 +56,7 @@
 	},
 	{
 		"id": "0552d51c-e6e8-4cfd-8a4b-dd3520dd0039",
-		"unreleased": true,
+		"prefix": "be",
 		"sloID": "57",
 		"title": "Bedrijfseconomie",
 		"description": "",
@@ -68,7 +67,7 @@
 	},
 	{
 		"id": "f7bbb238-929b-4f7e-b147-3b082baf2ddc",
-		"unreleased": true,
+		"prefix": "bs",
 		"sloID": "3",
 		"title": "Bewegen en sport",
 		"description": "",
@@ -83,7 +82,7 @@
 	},
 	{
 		"id": "18361045-bd2b-4c50-9267-cd24dc3498bb",
-		"unreleased": true,
+		"prefix": "bsm",
 		"sloID": "4",
 		"title": "Bewegen, sport en maatschappij",
 		"description": "",
@@ -94,7 +93,7 @@
 	},
 	{
 		"id": "9d6793a3-a5d6-4719-9ad3-24b5677bec26",
-		"unreleased": true,
+		"prefix": "bo",
 		"sloID": "5",
 		"title": "Bewegingsonderwijs",
 		"description": "",
@@ -104,7 +103,7 @@
 	},
 	{
 		"id": "41dd7292-3cce-411b-8097-11db8c875a89",
-		"unreleased": true,
+		"prefix": "bio",
 		"sloID": "6",
 		"title": "Biologie",
 		"description": "",
@@ -128,7 +127,7 @@
 	},
 	{
 		"id": "26eb622d-6239-4f26-bdef-0c9662891285",
-		"unreleased": true,
+		"prefix": "bwi",
 		"sloID": "68",
 		"title": "Bouwen, Wonen en Interieur",
 		"description": "",
@@ -140,7 +139,7 @@
 	},
 	{
 		"id": "7316c15e-d1d1-4d73-b4df-94b46b04aadd",
-		"unreleased": true,
+		"prefix": "ce",
 		"sloID": "56",
 		"title": "Cultureel erfgoed",
 		"description": "",
@@ -150,7 +149,7 @@
 	},
 	{
 		"id": "a70b035e-2c79-4b7d-81de-03678354cdc1",
-		"unreleased": true,
+		"prefix": "ckv",
 		"sloID": "50",
 		"title": "Culturele en kunstzinnige vorming",
 		"description": "",
@@ -161,7 +160,7 @@
 	},
 	{
 		"id": "8ad1b9a4-8f24-401e-9cf0-0bf9ae0b32b2",
-		"unreleased": true,
+		"prefix": "dp",
 		"sloID": "60",
 		"title": "Dienstverlening en Producten",
 		"description": "",
@@ -173,7 +172,7 @@
 	},
 	{
 		"id": "91e9afb9-a8ab-4fde-aa97-9884a8920b78",
-		"unreleased": true,
+		"prefix": "du",
 		"sloID": "7",
 		"title": "Duits",
 		"description": "",
@@ -194,7 +193,7 @@
 	},
 	{
 		"id": "8755f202-3f28-405d-929e-990ee4fdc521",
-		"unreleased": true,
+		"prefix": "ec",
 		"sloID": "8",
 		"title": "Economie",
 		"description": "",
@@ -215,7 +214,7 @@
 	},
 	{
 		"id": "18126dde-b79b-4231-826d-b902a6fa70db",
-		"unreleased": true,
+		"prefix": "eo",
 		"sloID": "61",
 		"title": "Economie en Ondernemen",
 		"description": "",
@@ -227,7 +226,7 @@
 	},
 	{
 		"id": "d8dc1dca-90ee-4d8b-983b-734207cfbee2",
-		"unreleased": true,
+		"prefix": "en",
 		"sloID": "9",
 		"title": "Engels",
 		"description": "",
@@ -249,7 +248,7 @@
 	},
 	{
 		"id": "15292864-cba8-4af5-90ef-da51cb2d22e1",
-		"unreleased": true,
+		"prefix": "fi",
 		"sloID": "10",
 		"title": "Filosofie",
 		"description": "",
@@ -260,7 +259,7 @@
 	},
 	{
 		"id": "f851676e-b541-42db-986a-5c468974f65e",
-		"unreleased": true,
+		"prefix": "fa",
 		"sloID": "11",
 		"title": "Frans",
 		"description": "",
@@ -281,7 +280,7 @@
 	},
 	{
 		"id": "eaabd632-abdd-499d-9d72-cdfaa4bff2eb",
-		"unreleased": true,
+		"prefix": "fr",
 		"sloID": "12",
 		"title": "Friese taal",
 		"description": "",
@@ -298,14 +297,14 @@
 		]
 	},
 	{
+		"prefix": "fg",
 		"id": "58fe0010-9685-4dae-ba70-2e47d94ad844",
-		"unreleased": true,
 		"sloID": "47",
 		"title": "Fysische geografie"
 	},
 	{
 		"id": "1c445505-16f2-4d3f-b6cf-8623ca317140",
-		"unreleased": true,
+		"prefix": "gs",
 		"sloID": "13",
 		"title": "Geschiedenis",
 		"description": "",
@@ -327,7 +326,7 @@
 	},
 	{
 		"id": "797f5fdf-8e35-43e9-b290-772c84f1761e",
-		"unreleased": true,
+		"prefix": "gtc",
 		"sloID": "54",
 		"title": "Grieks",
 		"description": "",
@@ -338,7 +337,7 @@
 	},
 	{
 		"id": "c17db255-88b0-450b-bf3f-235ad7eaf65f",
-		"unreleased": true,
+		"prefix": "grn",
 		"sloID": "62",
 		"title": "Groen",
 		"description": "",
@@ -350,7 +349,7 @@
 	},
 	{
 		"id": "430c341c-d861-4076-bbce-b8adcda81555",
-		"unreleased": true,
+		"prefix": "hbr",
 		"sloID": "63",
 		"title": "Horeca, Bakkerij en Recreatie",
 		"description": "",
@@ -362,7 +361,7 @@
 	},
 	{
 		"id": "21e34b16-1187-4ebb-967e-ae309993cb58",
-		"unreleased": true,
+		"prefix": "kbnt",
 		"sloID": "46",
 		"title": "Kennisbasis natuurwetenschappen en technologie",
 		"description": "",
@@ -376,14 +375,14 @@
 		]
 	},
 	{
+		"prefix": "kcv",
 		"id": "ef872885-1953-4008-9dcc-32281274446a",
-		"unreleased": true,
 		"sloID": "14",
 		"title": "Klassieke culturele vorming"
 	},
 	{
 		"id": "cef3bf40-8f21-4eea-8ce5-b3360b21023e",
-		"unreleased": true,
+		"prefix": "kc",
 		"sloID": "15",
 		"title": "Kunst en cultuur",
 		"description": "",
@@ -398,7 +397,7 @@
 	},
 	{
 		"id": "26ef692c-72ce-481e-ba7a-43d0bef1fc0c",
-		"unreleased": true,
+		"prefix": "kua",
 		"sloID": "16",
 		"title": "Kunst: algemeen",
 		"description": "",
@@ -409,7 +408,7 @@
 	},
 	{
 		"id": "3e408d9d-d9dc-4eb7-8841-13f3dabe27fd",
-		"unreleased": true,
+		"prefix": "kubv",
 		"sloID": "17",
 		"title": "Kunst: beeldende vorming",
 		"description": "",
@@ -431,7 +430,7 @@
 	},
 	{
 		"id": "fbf18b56-2d01-4fc0-975d-af7122af4052",
-		"unreleased": true,
+		"prefix": "kuda",
 		"sloID": "18",
 		"title": "Kunst: dans",
 		"description": "",
@@ -453,7 +452,7 @@
 	},
 	{
 		"id": "b63165ce-21a3-45d5-8b89-83d48f980cfb",
-		"unreleased": true,
+		"prefix": "kudr",
 		"sloID": "19",
 		"title": "Kunst: drama",
 		"description": "",
@@ -469,7 +468,7 @@
 	},
 	{
 		"id": "aa9da88c-189f-4857-b067-7cbdc929c905",
-		"unreleased": true,
+		"prefix": "kumu",
 		"sloID": "20",
 		"title": "Kunst: muziek",
 		"description": "",
@@ -490,14 +489,14 @@
 		]
 	},
 	{
+		"prefix": "kv1",
 		"id": "29a8bd9f-2963-4070-84d8-c06075ca0ae1",
-		"unreleased": true,
 		"sloID": "51",
 		"title": "Kunstvakken 1: Culturele Kunstzinnige Vorming"
 	},
 	{
 		"id": "23f4e5a7-fc21-410c-859f-85b99d4ae8f9",
-		"unreleased": true,
+		"prefix": "ko",
 		"sloID": "21",
 		"title": "Kunstzinnige oriëntatie",
 		"description": "",
@@ -507,7 +506,7 @@
 	},
 	{
 		"id": "0f1daeda-c83f-41bf-ab2b-ca148761e66a",
-		"unreleased": true,
+		"prefix": "ltc",
 		"sloID": "53",
 		"title": "Latijn",
 		"description": "",
@@ -518,7 +517,7 @@
 	},
 	{
 		"id": "4c78ac37-1937-4cc4-86e4-aa3192ef44db",
-		"unreleased": true,
+		"prefix": "lo",
 		"sloID": "22",
 		"title": "Lichamelijke opvoeding",
 		"description": "",
@@ -528,20 +527,20 @@
 		]
 	},
 	{
+		"prefix": "lo1",
 		"id": "53b729cd-f9de-4de2-822b-8736225e9406",
-		"unreleased": true,
 		"sloID": "23",
 		"title": "Lichamelijke opvoeding 1"
 	},
 	{
+		"prefix": "lo2",
 		"id": "efac65df-e5e1-40b5-bb46-ed4ea8f378fd",
-		"unreleased": true,
 		"sloID": "24",
 		"title": "Lichamelijke opvoeding 2"
 	},
 	{
 		"id": "b4459aa1-0dbb-409d-a675-8ca914234028",
-		"unreleased": true,
+		"prefix": "mk",
 		"sloID": "27",
 		"title": "Maatschappijkunde",
 		"description": "",
@@ -553,20 +552,20 @@
 		]
 	},
 	{
+		"prefix": "ml",
 		"id": "ef5159b3-ead9-4a86-9324-e80cd867856c",
-		"unreleased": true,
 		"sloID": "25",
 		"title": "Maatschappijleer"
 	},
 	{
+		"prefix": "ml",
 		"id": "c960fcb7-2c47-4822-88a3-68822f031c40",
-		"unreleased": true,
 		"sloID": "26",
 		"title": "Maatschappijleer"
 	},
 	{
 		"id": "b21832a9-69eb-4c10-9a3e-c8cdc60314bb",
-		"unreleased": true,
+		"prefix": "maw",
 		"sloID": "28",
 		"title": "Maatschappijwetenschappen",
 		"description": "",
@@ -577,7 +576,7 @@
 	},
 	{
 		"id": "8413a8ee-e0e3-4d85-ad62-f869c001ac3b",
-		"unreleased": true,
+		"prefix": "mo",
 		"sloID": "29",
 		"title": "Management en organisatie",
 		"description": "",
@@ -588,7 +587,7 @@
 	},
 	{
 		"id": "36b0661f-9ec6-4b0d-b8b8-8a983eb536d5",
-		"unreleased": true,
+		"prefix": "mat",
 		"sloID": "58",
 		"title": "Maritiem en Techniek",
 		"description": "",
@@ -600,7 +599,7 @@
 	},
 	{
 		"id": "f4848ad5-47b5-4539-8d50-437d15385368",
-		"unreleased": true,
+		"prefix": "mvi",
 		"sloID": "64",
 		"title": "Media, Vormgeving en ICT",
 		"description": "",
@@ -612,7 +611,7 @@
 	},
 	{
 		"id": "8ee02a5b-5e70-4260-b104-96538d8d0cb0",
-		"unreleased": true,
+		"prefix": "mm",
 		"sloID": "30",
 		"title": "Mens en maatschappij",
 		"description": "",
@@ -627,7 +626,7 @@
 	},
 	{
 		"id": "2795bfff-8566-4e69-b70c-12efba965dc8",
-		"unreleased": true,
+		"prefix": "mn",
 		"sloID": "31",
 		"title": "Mens en natuur",
 		"description": "",
@@ -642,7 +641,7 @@
 	},
 	{
 		"id": "aa197275-236f-451e-85be-ed0902848f08",
-		"unreleased": true,
+		"prefix": "mt",
 		"sloID": "65",
 		"title": "Mobiliteit en Transport",
 		"description": "",
@@ -653,14 +652,14 @@
 		]
 	},
 	{
+		"prefix": "mvt",
 		"id": "11aef2d5-ae09-49c8-9485-e7b93e3f9fda",
-		"unreleased": true,
 		"sloID": "52",
 		"title": "MVT"
 	},
 	{
 		"id": "b362c478-90c9-45ac-855a-79421d23ed07",
-		"unreleased": true,
+		"prefix": "nask1",
 		"sloID": "32",
 		"title": "Natuur- en scheikunde I",
 		"description": "",
@@ -677,7 +676,7 @@
 	},
 	{
 		"id": "428c0a27-1cc2-41f0-9f24-36c1d1f1a461",
-		"unreleased": true,
+		"prefix": "nask2",
 		"sloID": "33",
 		"title": "Natuur- en scheikunde II",
 		"description": "",
@@ -692,7 +691,7 @@
 	},
 	{
 		"id": "956d0d86-90f3-443b-a418-52fd9b912661",
-		"unreleased": true,
+		"prefix": "nlt",
 		"sloID": "34",
 		"title": "Natuur, leven en technologie",
 		"description": "",
@@ -703,7 +702,7 @@
 	},
 	{
 		"id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8",
-		"unreleased": true,
+		"prefix": "na",
 		"sloID": "35",
 		"title": "Natuurkunde",
 		"description": "",
@@ -716,7 +715,7 @@
 	},
 	{
 		"id": "96b622d6-264d-4f7a-9875-681ded824e21",
-		"unreleased": true,
+		"prefix": "ne",
 		"sloID": "36",
 		"title": "Nederlands",
 		"description": "",
@@ -746,7 +745,7 @@
 	},
 	{
 		"id": "86be4684-a214-432b-9622-dd97491e6ce2",
-		"unreleased": true,
+		"prefix": "ojw",
 		"sloID": "37",
 		"title": "Oriëntatie op jezelf en de wereld",
 		"description": "",
@@ -756,7 +755,7 @@
 	},
 	{
 		"id": "b8f15528-dedb-4db8-81ee-c820da8453bc",
-		"unreleased": true,
+		"prefix": "pie",
 		"sloID": "66",
 		"title": "Produceren, Installeren en Energie",
 		"description": "",
@@ -767,14 +766,14 @@
 		]
 	},
 	{
+		"prefix": "rw",
 		"id": "d8384a70-755e-4fb8-b4e8-424f617caa89",
-		"unreleased": true,
 		"sloID": "38",
 		"title": "Rekenen en wiskunde"
 	},
 	{
 		"id": "364c2519-7d9e-47d8-b3bd-371cee8583df",
-		"unreleased": true,
+		"prefix": "sk",
 		"sloID": "39",
 		"title": "Scheikunde",
 		"description": "",
@@ -787,7 +786,7 @@
 	},
 	{
 		"id": "73abc618-988a-4409-b2ae-ff16febf68ee",
-		"unreleased": true,
+		"prefix": "sp",
 		"sloID": "40",
 		"title": "Spaans",
 		"description": "",
@@ -807,14 +806,14 @@
 		]
 	},
 	{
+		"prefix": "te",
 		"id": "70d7c26b-9e49-481a-b40b-188e2d538943",
-		"unreleased": true,
 		"sloID": "48",
 		"title": "Technologie"
 	},
 	{
 		"id": "107fbf5f-475d-40b9-a9bc-08c9b6e38182",
-		"unreleased": true,
+		"prefix": "thtex",
 		"sloID": "49",
 		"title": "Tekenen, handvaardigheid en textiele vormgeving",
 		"description": "",
@@ -825,7 +824,7 @@
 	},
 	{
 		"id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13",
-		"unreleased": true,
+		"prefix": "wi",
 		"sloID": "41",
 		"title": "Wiskunde",
 		"description": "",
@@ -844,7 +843,7 @@
 	},
 	{
 		"id": "5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba",
-		"unreleased": true,
+		"prefix": "wisA",
 		"sloID": "42",
 		"title": "Wiskunde A",
 		"description": "",
@@ -855,7 +854,7 @@
 	},
 	{
 		"id": "ccda2b02-3aa8-44bc-adfa-844565c292d0",
-		"unreleased": true,
+		"prefix": "wisB",
 		"sloID": "43",
 		"title": "Wiskunde B",
 		"description": "",
@@ -866,7 +865,7 @@
 	},
 	{
 		"id": "2573e278-9c8a-4787-bce9-8b7df670d4dd",
-		"unreleased": true,
+		"prefix": "wisC",
 		"sloID": "44",
 		"title": "Wiskunde C",
 		"description": "",
@@ -876,7 +875,7 @@
 	},
 	{
 		"id": "6be72775-5689-4aa4-bb5a-38899b174915",
-		"unreleased": true,
+		"prefix": "wisD",
 		"sloID": "45",
 		"title": "Wiskunde D",
 		"description": "",
@@ -887,7 +886,7 @@
 	},
 	{
 		"id": "73cef23f-df24-4015-8516-072a13dcd369",
-		"unreleased": true,
+		"prefix": "zw",
 		"sloID": "67",
 		"title": "Zorg en Welzijn",
 		"description": "",
@@ -899,6 +898,7 @@
 	},
 	{
 		"id": "2845473d-ce18-450a-9135-6738abbdc129",
+		"prefix": "inf",
 		"title": "Informatica",
 		"description": "",
 		"niveau_id": [
@@ -907,28 +907,14 @@
 		]
 	},
 	{
-		"description": "",
 		"id": "1f7aa29f-38d8-4dab-91db-3be52669951f",
+		"prefix": "ch",
+		"description": "",
 		"title": "Chinees",
 		"niveau_id": [
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
-	},
-	{
-		"id": "797c136a-a531-456a-9a74-e6eb5b9464b2",
-		"title": "Zintuigelijke ontwikkeling",
-		"replaces": [
-			"ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51"
-		],
-		"description": "",
-		"deleted": 1
-	},
-	{
-		"id": "1f73da5d-4118-4330-9e3d-597693bd8e10",
-		"title": "Leren leren",
-		"description": "",
-		"deleted": 1
 	},
 	{
 		"id": "bc35dcbf-82a2-498f-9836-75c30bd85264",
@@ -944,12 +930,37 @@
 		"description": ""
 	},
 	{
-		"id": "4de7c3fa-4980-4936-8f33-29c8c6f47d44",
-		"replaces": [
-			"04058361-4e9e-4c02-a057-41605a7f37b5"
+		"niveau_id": [
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
 		],
-		"title": "Praktische redzaamheid",
-		"description": "",
-		"deleted": 1
+		"id": "977fea53-fb3b-4349-a81a-7bf903a152af",
+		"prefix": "tech",
+		"title": "Techniek",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"id": "e2b27400-7f2e-4cd3-a4fb-933fd2bcd7a9",
+		"prefix": "it",
+		"title": "Informatietechnologie",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "309ce03f-dc7c-4429-901b-997b0882dce4",
+		"prefix": "i",
+		"title": "Informatica",
+		"description": ""
 	}
 ]
