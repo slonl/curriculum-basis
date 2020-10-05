@@ -995,7 +995,8 @@
 	{
 		"id": "35d0e3ed-d62e-40a5-8bff-46f1de51e47a",
 		"title": "Sociaal-emotionele ontwikkeling",
-		"description": ""
+		"description": "",
+		"prefix": "seo"
 	},
 	{
 		"niveau_id": [
