@@ -922,12 +922,14 @@
 			"e22b9776-4e4a-4c39-be4e-1cb47b24fd49"
 		],
 		"title": "Motorische ontwikkeling",
-		"description": ""
+		"description": "",
+		"prefix": "moo"
 	},
 	{
 		"id": "35d0e3ed-d62e-40a5-8bff-46f1de51e47a",
 		"title": "Sociaal-emotionele ontwikkeling",
-		"description": ""
+		"description": "",
+		"prefix": "seo"
 	},
 	{
 		"niveau_id": [
