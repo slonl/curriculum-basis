@@ -30,7 +30,7 @@
 	{
 		"description": "praktijkonderwijs",
 		"id": "d6f1bbf7-c1a6-4431-bcbd-f33126d851ef",
-		"prefix": 9000,
+		"prefix": "9000",
 		"title": "pro",
 		"type": "Opleiding"
 	},
