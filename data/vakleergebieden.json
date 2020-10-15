@@ -561,7 +561,9 @@
 		"prefix": "ml",
 		"id": "c960fcb7-2c47-4822-88a3-68822f031c40",
 		"sloID": "26",
-		"title": "Maatschappijleer"
+		"title": "Maatschappijleer",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "b21832a9-69eb-4c10-9a3e-c8cdc60314bb",
