@@ -555,7 +555,13 @@
 		"prefix": "ml",
 		"id": "ef5159b3-ead9-4a86-9324-e80cd867856c",
 		"sloID": "25",
-		"title": "Maatschappijleer"
+		"title": "Maatschappijleer",
+		"description": "",
+		"niveau_id": [
+			"aced88e1-bb12-42f9-88df-16d7abfda57e",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "ml",
@@ -563,7 +569,10 @@
 		"sloID": "26",
 		"title": "Maatschappijleer",
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"vakleergebied"
+		]
 	},
 	{
 		"id": "b21832a9-69eb-4c10-9a3e-c8cdc60314bb",
