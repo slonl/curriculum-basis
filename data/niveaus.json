@@ -657,5 +657,33 @@
 		"title": "ob vo",
 		"description": "Onderbouw voortgezet onderwijs",
 		"type": ""
+	},
+	{
+		"id": "677c431e-7ac6-438f-8204-aea78aef7025",
+		"title": "pre A1",
+		"description": "europees referentiekader pre A1 moderne vreemde talen",
+		"prefix": "1002",
+		"type": ""
+	},
+	{
+		"id": "620710de-54d2-48b5-93ab-40888732aab7",
+		"title": "A2+",
+		"description": "europees referentiekader A2+ moderne vreemde talen",
+		"prefix": "1014",
+		"type": ""
+	},
+	{
+		"id": "a0f545f9-a077-49fd-ab13-ef3533430ee6",
+		"title": "B1+",
+		"description": "europees referentiekader B1+ moderne vreemde talen",
+		"prefix": "4912",
+		"type": ""
+	},
+	{
+		"id": "01c9a4f8-34f3-4579-8bfb-7a00211e29ee",
+		"title": "B2+",
+		"description": "europees referentiekader B2+ moderne vreemde talen",
+		"prefix": "4913",
+		"type": ""
 	}
 ]
