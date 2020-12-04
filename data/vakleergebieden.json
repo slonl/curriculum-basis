@@ -975,6 +975,51 @@
 		"prefix": "i",
 		"title": "Informatica",
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"vakleergebied"
+		]
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"aced88e1-bb12-42f9-88df-16d7abfda57e",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "782220bf-4155-4090-b218-c6957a14f963",
+		"prefix": "ar",
+		"title": "Arabisch",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"aced88e1-bb12-42f9-88df-16d7abfda57e",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "20d46f17-c61f-4677-a2c9-0f2fc7512ed4",
+		"prefix": "tu",
+		"title": "Turks",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "d1797e77-8eb0-4ebd-83f7-f95c7f46fcd7",
+		"prefix": "it",
+		"title": "Italiaans",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "6b89b236-42ae-429f-bc33-422e12b53cb1",
+		"prefix": "ru",
+		"title": "Russisch",
+		"description": ""
 	}
 ]
