@@ -125,6 +125,13 @@
 							}
 						}
 					]
+				},
+				"prefix": {
+					"type": "string"
+				},
+				"ce_se": {
+					"type": "string",
+					"enum": ["CE","SE","CE,SE"]
 				}
 			},
 			"anyOf" : [
