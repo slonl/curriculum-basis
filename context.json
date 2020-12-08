@@ -167,7 +167,16 @@
 			]
 		},
 		"doel": {
-			"$ref": "#/definitions/base"
+			"allOf": [
+				{ "$ref": "#/definitions/base" },
+				{
+					"properties": {
+						"bron": {
+							"type": "string"
+						}
+					}
+				}
+			]
 		},
 		"niveau": {
 			"$ref": "#/definitions/base"
