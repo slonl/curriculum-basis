@@ -167,6 +167,9 @@
 					"properties": {
 						"bron": {
 							"type": "string"
+						},
+						"aanbodid": {
+							"type": "string"
 						}
 					}
 				}
