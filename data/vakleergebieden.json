@@ -1021,5 +1021,60 @@
 		"prefix": "ru",
 		"title": "Russisch",
 		"description": ""
+	},
+	{
+		"niveau_id": [
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"id": "5ffd2181-dc31-4e54-b3eb-3da3e72b673e",
+		"prefix": "lov",
+		"title": "Leergebied overstijgende vaardigheden",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
+		],
+		"id": "6388017e-b067-474b-b6ed-17fddd7e7fda",
+		"prefix": "ngt",
+		"title": "Nederlands gebarentaal",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"id": "319258b1-3b17-4c49-a8a2-bbef7459c908",
+		"prefix": "mnt",
+		"title": "Mens, natuur en techniek",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"id": "7bf5c28d-1f56-45a6-aee8-6ed8aeadfd1e",
+		"prefix": "coce",
+		"title": "Culturele oriëntatie en creatieve expressie",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
+		"id": "d5f0872e-59c0-44da-949d-790ea0b0fa10",
+		"prefix": "voa",
+		"title": "Voorbereiding op arbeid",
+		"description": ""
 	}
 ]
