@@ -948,13 +948,16 @@
 		],
 		"title": "Motorische ontwikkeling",
 		"description": "",
-		"prefix": "moo"
+		"prefix": "moo",
+		"dirty": "1",
+		"deleted": 1
 	},
 	{
 		"id": "35d0e3ed-d62e-40a5-8bff-46f1de51e47a",
 		"title": "Sociaal-emotionele ontwikkeling",
 		"description": "",
-		"prefix": "seo"
+		"prefix": "seo",
+		"deleted": 1
 	},
 	{
 		"niveau_id": [
