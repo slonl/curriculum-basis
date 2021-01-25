@@ -506,8 +506,11 @@
 		"title": "Kunstzinnige oriëntatie",
 		"description": "",
 		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		]
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "0f1daeda-c83f-41bf-ab2b-ca148761e66a",
@@ -950,14 +953,20 @@
 		"description": "",
 		"prefix": "moo",
 		"dirty": "1",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"vakleergebied"
+		]
 	},
 	{
 		"id": "35d0e3ed-d62e-40a5-8bff-46f1de51e47a",
 		"title": "Sociaal-emotionele ontwikkeling",
 		"description": "",
 		"prefix": "seo",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"vakleergebied"
+		]
 	},
 	{
 		"niveau_id": [
@@ -1054,13 +1063,13 @@
 	},
 	{
 		"niveau_id": [
-			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
 		],
 		"id": "6388017e-b067-474b-b6ed-17fddd7e7fda",
 		"prefix": "ngt",
 		"title": "Nederlands gebarentaal",
-		"description": ""
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"niveau_id": [
