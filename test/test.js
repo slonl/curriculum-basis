@@ -20,9 +20,11 @@
 	var curriculum = require('../lib/curriculum.js');
 	var schema     = curriculum.loadSchema('context.json');
 	var kerndoelSchema = curriculum.loadSchema('curriculum-kerndoelen/context.json', 'curriculum-kerndoelen/');
+	var examenprogrammaSchema = curriculum.loadSchema('curriculum-examenprogramma/context.json', 'curriculum-examenprogramma/');
 
 	var valid = ajv.addSchema(kerndoelSchema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-kerndoelen/context.json')
-					.addSchema(schema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json')
+			.addSchema(examenprogrammaSchema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json')
+			.addSchema(schema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json')
 	               .validate('https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json', curriculum.data);
 
 	if (!valid) {
