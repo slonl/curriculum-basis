@@ -101,7 +101,7 @@
 						{"$ref": "#/definitions/uuidArray"},
 						{
 							"items": {
-								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/eindterm"
+								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_eindterm"
 							}
 						}
 					]
@@ -111,7 +111,7 @@
 						{"$ref": "#/definitions/uuidArray"},
 						{
 							"items": {
-								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/subdomein"
+								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_subdomein"
 							}
 						}
 					]
@@ -121,7 +121,7 @@
 						{"$ref": "#/definitions/uuidArray"},
 						{
 							"items": {
-								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/domein"
+								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_domein"
 							}
 						}
 					]
@@ -130,7 +130,7 @@
 					"type": "string"
 				},
 				"ce_se": {
-					"type": "string",
+					"type": ["string","null"],
 					"enum": ["CE", "SE", "CE;SE"]
 				}
 			},
