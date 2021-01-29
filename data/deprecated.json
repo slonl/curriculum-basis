@@ -122554,5 +122554,401 @@
 			"doelniveau"
 		],
 		"replacedBy": []
+	},
+	{
+		"id": "7f532bb6-4481-435c-8170-97b5f4c26b5d",
+		"sloID": "2070",
+		"title": "GR/V/Examenprogramma Griekse taal en literatuur vwo Latijnse taal en literatuur vwo",
+		"description": "Examenprogramma Griekse taal en literatuur vwo Latijnse taal en literatuur vwo\n\n\n\nGriekse taal en literatuur\n\n\n\n&nbsp;\n\n\n\nHet eindexamen\n\n\n\nHet eindexamen bestaat uit het centraal examen en het schoolexamen.\n\n\n\nHet examenprogramma bestaat uit de volgende domeinen:\n\n\n\nDomein A Reflectie op klassieke teksten\n\n\n\nDomein B Reflectie op relaties tussen de antieke cultuur en de latere Europese cultuur\n\n\n\nDomein C Zelfstandige oordeelsvorming\n\n\n\nDomein D Oriëntatie op studie en beroep\n\n\n\nDomein E Informatievaardigheden.\n\n\n\n&nbsp;\n\n\n\nHet centraal examen\n\n\n\nHet centraal examen heeft betrekking op de domeinen A, B (voorzover dat mogelijk is, gelet op het karakter van het centraal examen) en C.\n\n\n\nHet centraal examen heeft betrekking op een thema en/of genre aan de hand van authentieke teksten van een of meer auteurs en van vertaalde teksten.\n\n\n\nDe CEVO stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.\n\n\n\nDe CEVO maakt een specificatie bekend van de examenstof van het centraal examen.\n\n\n\n&nbsp;\n\n\n\nHet schoolexamen\n\n\n\nHet schoolexamen heeft betrekking op:\n\n\n\n- de domeinen A, B, C, D en E. Deze domeinen komen aan de orde aan de hand van een selectie van tenminste 30 pagina’s (Oxford Classical Text) Griekse teksten. Deze selectie bevat teksten van tenminste twee genres uit Grieks proza en Griekse poëzie. Deze bevat geen teksten van de auteur(s) die voor het centraal examen zijn vastgesteld, tenzij deze teksten behoren tot een ander genre en thema.\n\n\n\nDaarnaast komen deze domeinen aan de orde aan de hand van:\n\n\n\n- een selectie van tenminste 45 pagina’s klassieke, vertaalde teksten;\n\n\n\n- indien het bevoegd gezag daarvoor kiest: toetsing van het vertalen van één of meer ongeziene passages;\n\n\n\n- indien het bevoegd gezag daarvoor kiest: stof van het centraal examen naast de hierboven vermelde stof voor het schoolexamen;\n\n\n\n- indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die eventueel per kandidaat kunnen verschillen.",
+		"bron": "eindterm",
+		"types": [
+			"doel"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "92f85172-d165-490e-a6de-a2eb1c7bb29f",
+		"sloID": "2064",
+		"title": "LA/V/Examenprogramma Griekse taal en literatuur vwo Latijnse taal en literatuur vwo",
+		"description": "Examenprogramma Griekse taal en literatuur vwo Latijnse taal en literatuur vwo\n\n\n\nGriekse taal en literatuur\n\n\n\n&nbsp;\n\n\n\nHet eindexamen\n\n\n\nHet eindexamen bestaat uit het centraal examen en het schoolexamen.\n\n\n\nHet examenprogramma bestaat uit de volgende domeinen:\n\n\n\nDomein A Reflectie op klassieke teksten\n\n\n\nDomein B Reflectie op relaties tussen de antieke cultuur en de latere Europese cultuur\n\n\n\nDomein C Zelfstandige oordeelsvorming\n\n\n\nDomein D Oriëntatie op studie en beroep\n\n\n\nDomein E Informatievaardigheden.\n\n\n\n&nbsp;\n\n\n\nHet centraal examen\n\n\n\nHet centraal examen heeft betrekking op de domeinen A, B (voorzover dat mogelijk is, gelet op het karakter van het centraal examen) en C.\n\n\n\nHet centraal examen heeft betrekking op een thema en/of genre aan de hand van authentieke teksten van een of meer auteurs en van vertaalde teksten.\n\n\n\nDe CEVO stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.\n\n\n\nDe CEVO maakt een specificatie bekend van de examenstof van het centraal examen.\n\n\n\n&nbsp;\n\n\n\nHet schoolexamen\n\n\n\nHet schoolexamen heeft betrekking op:\n\n\n\n- de domeinen A, B, C, D en E. Deze domeinen komen aan de orde aan de hand van een selectie van tenminste 30 pagina’s (Oxford Classical Text) Griekse teksten. Deze selectie bevat teksten van tenminste twee genres uit Grieks proza en Griekse poëzie. Deze bevat geen teksten van de auteur(s) die voor het centraal examen zijn vastgesteld, tenzij deze teksten behoren tot een ander genre en thema.\n\n\n\nDaarnaast komen deze domeinen aan de orde aan de hand van:\n\n\n\n- een selectie van tenminste 45 pagina’s klassieke, vertaalde teksten;\n\n\n\n- indien het bevoegd gezag daarvoor kiest: toetsing van het vertalen van één of meer ongeziene passages;\n\n\n\n- indien het bevoegd gezag daarvoor kiest: stof van het centraal examen naast de hierboven vermelde stof voor het schoolexamen;\n\n\n\n- indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die eventueel per kandidaat kunnen verschillen.",
+		"bron": "eindterm",
+		"types": [
+			"doel"
+		],
+		"replacedBy": []
+	},
+	{
+		"prefix": "ml",
+		"id": "c960fcb7-2c47-4822-88a3-68822f031c40",
+		"sloID": "26",
+		"title": "Maatschappijleer",
+		"description": "",
+		"types": [
+			"vakleergebied"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "bc35dcbf-82a2-498f-9836-75c30bd85264",
+		"replaces": [
+			"e22b9776-4e4a-4c39-be4e-1cb47b24fd49"
+		],
+		"title": "Motorische ontwikkeling",
+		"description": "",
+		"prefix": "moo",
+		"types": [
+			"vakleergebied"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "35d0e3ed-d62e-40a5-8bff-46f1de51e47a",
+		"title": "Sociaal-emotionele ontwikkeling",
+		"description": "",
+		"prefix": "seo",
+		"types": [
+			"vakleergebied"
+		],
+		"replacedBy": []
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "309ce03f-dc7c-4429-901b-997b0882dce4",
+		"prefix": "i",
+		"title": "Informatica",
+		"description": "",
+		"types": [
+			"vakleergebied"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "e1fda45a-c583-42b2-869b-38a7aa7296b7",
+		"doel_id": [
+			"9a8999b4-e442-434d-9951-1c9221d88fbd"
+		],
+		"niveau_id": [
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
+		],
+		"title": "",
+		"replacedBy": [
+			"f172fbbb-a321-4a18-aaf6-f9c4e40675d8"
+		],
+		"types": [
+			"doelniveau"
+		]
+	},
+	{
+		"id": "22928605-5559-4887-8c44-89ca8fe7f2bd",
+		"doel_id": [
+			"7183c075-89ce-4754-9a84-48166491f0cb"
+		],
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
+		],
+		"title": "",
+		"replacedBy": [
+			"94d9a2fe-842c-45c6-bbe0-05b4292d632d"
+		],
+		"types": [
+			"doelniveau"
+		]
+	},
+	{
+		"id": "bf5ac972-d5a4-4f41-88fe-785b59bd3ecf",
+		"doel_id": [
+			"f3bf2eea-547b-4b76-85a9-ef553ea9ce88"
+		],
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
+		],
+		"title": "",
+		"replacedBy": [
+			"92567fba-bafe-413d-bce8-cdc60bc88f9f"
+		],
+		"types": [
+			"doelniveau"
+		]
+	},
+	{
+		"id": "3d8f74ec-8f89-41fd-a4ab-be1067699ab0",
+		"doel_id": [
+			"1f39f546-18f8-4aec-bc51-3a677d6c2b91"
+		],
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
+		],
+		"title": "",
+		"replacedBy": [
+			"bcd8d5d9-ad48-44f1-b898-4a77732c6312"
+		],
+		"types": [
+			"doelniveau"
+		]
+	},
+	{
+		"id": "d8e2f0ec-f586-472c-8535-9d14c26f9ba0",
+		"doel_id": [
+			"29992224-1ddc-4c6b-ba1a-2ebb292f071a"
+		],
+		"niveau_id": [
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
+		],
+		"title": "",
+		"replacedBy": [
+			"8a7a1f34-8e67-4b6b-a264-804dd25df36a"
+		],
+		"types": [
+			"doelniveau"
+		]
+	},
+	{
+		"id": "bf5d8974-4b2d-4a58-8c7b-4b6d1a34b84e",
+		"doel_id": [
+			"db02d7be-5ffc-4226-abe1-ac67777d7c77"
+		],
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
+		],
+		"title": "",
+		"replacedBy": [
+			"c8c72294-a4eb-4e47-a103-cd14d011693a"
+		],
+		"types": [
+			"doelniveau"
+		]
+	},
+	{
+		"id": "8bf44f33-c288-4081-8cb0-c7d086faf349",
+		"doel_id": [
+			"f9dc1f05-eff5-479e-b686-e2decdb2620b"
+		],
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
+		],
+		"title": "",
+		"replacedBy": [
+			"aaf9d5c5-4d43-42a3-b02e-94564646b88c"
+		],
+		"types": [
+			"doelniveau"
+		]
+	},
+	{
+		"id": "054ea59f-5d69-4c35-a2eb-b63c535003ec",
+		"doel_id": [
+			"f6db81f8-6436-4cfe-b638-37c21c30b805"
+		],
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
+		],
+		"title": "",
+		"replacedBy": [
+			"0d6d730e-1223-45e3-b915-c935c28ef302"
+		],
+		"types": [
+			"doelniveau"
+		]
+	},
+	{
+		"id": "1bf3787a-cac3-4244-b6b3-a83fcb9d5e21",
+		"doel_id": [
+			"efa14ee7-1f46-4863-af7e-63908dfe114c"
+		],
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39"
+		],
+		"title": "",
+		"replacedBy": [
+			"2f1b36c0-6dd9-4ec3-b5da-a48c40fe9f07"
+		],
+		"types": [
+			"doelniveau"
+		]
+	},
+	{
+		"id": "00dd1a2e-a483-4ecf-8e52-3ae33bd448d7",
+		"doel_id": [
+			"a8eb6565-6a13-408f-bd60-fb72bb6c9388"
+		],
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"title": "",
+		"replacedBy": [
+			"3a6a7208-e64d-4b2b-b1f7-a110007e218f"
+		],
+		"types": [
+			"doelniveau"
+		]
+	},
+	{
+		"id": "18ed4595-c7f8-4ee1-9bbb-c54be57b0854",
+		"doel_id": [
+			"572faf75-4ab2-4286-abb3-0be4a44786fa"
+		],
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"title": "",
+		"replacedBy": [
+			"d9d7951a-09a7-4711-9f36-c2840d81f65a"
+		],
+		"types": [
+			"doelniveau"
+		]
+	},
+	{
+		"id": "892cb630-6da5-455d-85d7-8800672b57d4",
+		"doel_id": [
+			"a9261df0-1520-44c6-8a26-0d1530687ac5"
+		],
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"title": "",
+		"replacedBy": [
+			"65e5a987-cf14-4a61-86ec-b5e30f653834"
+		],
+		"types": [
+			"doelniveau"
+		]
+	},
+	{
+		"id": "987bc55b-04eb-48fc-bde8-6ba68c002d42",
+		"doel_id": [
+			"cb5079a9-a2c8-4643-ae67-194ed321e4a6"
+		],
+		"niveau_id": [
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
+		],
+		"title": "",
+		"replacedBy": [
+			"8fa95eaf-4ccc-4ed1-bb46-cd8f6bf53fcf"
+		],
+		"types": [
+			"doelniveau"
+		]
+	},
+	{
+		"id": "d8dc1dca-90ee-4d8b-983b-734207cfbee2",
+		"prefix": "en",
+		"sloID": "9",
+		"title": "Engels",
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"cfaf3202-4c14-4f7e-b783-91ad1dc93779"
+		],
+		"types": [
+			"vakleergebied"
+		]
+	},
+	{
+		"id": "23f4e5a7-fc21-410c-859f-85b99d4ae8f9",
+		"prefix": "ko",
+		"sloID": "21",
+		"title": "Kunstzinnige oriëntatie",
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
+		"replacedBy": [
+			"7cbe5862-b2d0-4760-a6c7-715e6fb953f3"
+		],
+		"types": [
+			"vakleergebied"
+		]
+	},
+	{
+		"id": "96b622d6-264d-4f7a-9875-681ded824e21",
+		"prefix": "ne",
+		"sloID": "36",
+		"title": "Nederlands",
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"d5f99b58-31be-4ffc-89f4-9d7c65526879",
+			"86d05d5a-8dfa-422b-820c-50019985426d",
+			"5eac0434-a6fc-4499-9710-3d6b800973a3",
+			"fadc20aa-082e-4e80-8a83-830c4006f236",
+			"f1d56c9e-373a-4051-9ce9-81a01b812de7",
+			"2be1fbb4-d46f-44f8-9aff-d2bbf5108a18",
+			"5ec6d733-a3b2-46db-9d42-72b4be4f7750",
+			"7bae4f16-ed94-4739-9d42-d0842dee7c90",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
+		],
+		"replacedBy": [
+			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
+		],
+		"types": [
+			"vakleergebied"
+		]
+	},
+	{
+		"id": "86be4684-a214-432b-9622-dd97491e6ce2",
+		"prefix": "ojw",
+		"sloID": "37",
+		"title": "Oriëntatie op jezelf en de wereld",
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
+		"replacedBy": [
+			"682218a8-0e89-4d4c-938c-36629a474e7c"
+		],
+		"types": [
+			"vakleergebied"
+		]
 	}
 ]

@@ -225,28 +225,6 @@
 		]
 	},
 	{
-		"id": "d8dc1dca-90ee-4d8b-983b-734207cfbee2",
-		"prefix": "en",
-		"sloID": "9",
-		"title": "Engels",
-		"description": "",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
-			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
 		"id": "15292864-cba8-4af5-90ef-da51cb2d22e1",
 		"prefix": "fi",
 		"sloID": "10",
@@ -495,16 +473,6 @@
 		"title": "Kunstvakken 1: Culturele Kunstzinnige Vorming"
 	},
 	{
-		"id": "23f4e5a7-fc21-410c-859f-85b99d4ae8f9",
-		"prefix": "ko",
-		"sloID": "21",
-		"title": "Kunstzinnige oriëntatie",
-		"description": "",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		]
-	},
-	{
 		"id": "0f1daeda-c83f-41bf-ab2b-ca148761e66a",
 		"prefix": "ltc",
 		"sloID": "53",
@@ -555,13 +523,13 @@
 		"prefix": "ml",
 		"id": "ef5159b3-ead9-4a86-9324-e80cd867856c",
 		"sloID": "25",
-		"title": "Maatschappijleer"
-	},
-	{
-		"prefix": "ml",
-		"id": "c960fcb7-2c47-4822-88a3-68822f031c40",
-		"sloID": "26",
-		"title": "Maatschappijleer"
+		"title": "Maatschappijleer",
+		"description": "",
+		"niveau_id": [
+			"aced88e1-bb12-42f9-88df-16d7abfda57e",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"id": "b21832a9-69eb-4c10-9a3e-c8cdc60314bb",
@@ -711,46 +679,6 @@
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"id": "96b622d6-264d-4f7a-9875-681ded824e21",
-		"prefix": "ne",
-		"sloID": "36",
-		"title": "Nederlands",
-		"description": "",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"d5f99b58-31be-4ffc-89f4-9d7c65526879",
-			"86d05d5a-8dfa-422b-820c-50019985426d",
-			"5eac0434-a6fc-4499-9710-3d6b800973a3",
-			"fadc20aa-082e-4e80-8a83-830c4006f236",
-			"f1d56c9e-373a-4051-9ce9-81a01b812de7",
-			"2be1fbb4-d46f-44f8-9aff-d2bbf5108a18",
-			"5ec6d733-a3b2-46db-9d42-72b4be4f7750",
-			"7bae4f16-ed94-4739-9d42-d0842dee7c90",
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
-			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
-		]
-	},
-	{
-		"id": "86be4684-a214-432b-9622-dd97491e6ce2",
-		"prefix": "ojw",
-		"sloID": "37",
-		"title": "Oriëntatie op jezelf en de wereld",
-		"description": "",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
 		]
 	},
 	{
@@ -917,21 +845,6 @@
 		]
 	},
 	{
-		"id": "bc35dcbf-82a2-498f-9836-75c30bd85264",
-		"replaces": [
-			"e22b9776-4e4a-4c39-be4e-1cb47b24fd49"
-		],
-		"title": "Motorische ontwikkeling",
-		"description": "",
-		"prefix": "moo"
-	},
-	{
-		"id": "35d0e3ed-d62e-40a5-8bff-46f1de51e47a",
-		"title": "Sociaal-emotionele ontwikkeling",
-		"description": "",
-		"prefix": "seo"
-	},
-	{
 		"niveau_id": [
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
@@ -958,11 +871,194 @@
 	{
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"aced88e1-bb12-42f9-88df-16d7abfda57e",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"id": "309ce03f-dc7c-4429-901b-997b0882dce4",
-		"prefix": "i",
-		"title": "Informatica",
+		"id": "782220bf-4155-4090-b218-c6957a14f963",
+		"prefix": "ar",
+		"title": "Arabisch",
 		"description": ""
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"aced88e1-bb12-42f9-88df-16d7abfda57e",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "20d46f17-c61f-4677-a2c9-0f2fc7512ed4",
+		"prefix": "tu",
+		"title": "Turks",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "d1797e77-8eb0-4ebd-83f7-f95c7f46fcd7",
+		"prefix": "it",
+		"title": "Italiaans",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "6b89b236-42ae-429f-bc33-422e12b53cb1",
+		"prefix": "ru",
+		"title": "Russisch",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"id": "5ffd2181-dc31-4e54-b3eb-3da3e72b673e",
+		"prefix": "lov",
+		"title": "Leergebied overstijgende vaardigheden",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
+		],
+		"id": "6388017e-b067-474b-b6ed-17fddd7e7fda",
+		"prefix": "ngt",
+		"title": "Nederlands gebarentaal",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"id": "319258b1-3b17-4c49-a8a2-bbef7459c908",
+		"prefix": "mnt",
+		"title": "Mens, natuur en techniek",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"id": "7bf5c28d-1f56-45a6-aee8-6ed8aeadfd1e",
+		"prefix": "coce",
+		"title": "Culturele oriëntatie en creatieve expressie",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
+		"id": "d5f0872e-59c0-44da-949d-790ea0b0fa10",
+		"prefix": "voa",
+		"title": "Voorbereiding op arbeid",
+		"description": ""
+	},
+	{
+		"id": "cfaf3202-4c14-4f7e-b783-91ad1dc93779",
+		"prefix": "en",
+		"sloID": "9",
+		"title": "Engels",
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"replaces": [
+			"d8dc1dca-90ee-4d8b-983b-734207cfbee2"
+		]
+	},
+	{
+		"id": "7cbe5862-b2d0-4760-a6c7-715e6fb953f3",
+		"prefix": "ko",
+		"sloID": "21",
+		"title": "Kunstzinnige oriëntatie",
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
+		],
+		"replaces": [
+			"23f4e5a7-fc21-410c-859f-85b99d4ae8f9"
+		]
+	},
+	{
+		"id": "e41b8c50-d002-4a9f-be8b-9b5da0008656",
+		"prefix": "ne",
+		"sloID": "36",
+		"title": "Nederlands",
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"d5f99b58-31be-4ffc-89f4-9d7c65526879",
+			"86d05d5a-8dfa-422b-820c-50019985426d",
+			"5eac0434-a6fc-4499-9710-3d6b800973a3",
+			"fadc20aa-082e-4e80-8a83-830c4006f236",
+			"f1d56c9e-373a-4051-9ce9-81a01b812de7",
+			"2be1fbb4-d46f-44f8-9aff-d2bbf5108a18",
+			"5ec6d733-a3b2-46db-9d42-72b4be4f7750",
+			"7bae4f16-ed94-4739-9d42-d0842dee7c90",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"replaces": [
+			"96b622d6-264d-4f7a-9875-681ded824e21"
+		]
+	},
+	{
+		"id": "682218a8-0e89-4d4c-938c-36629a474e7c",
+		"prefix": "ojw",
+		"sloID": "37",
+		"title": "Oriëntatie op jezelf en de wereld",
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
+		],
+		"replaces": [
+			"86be4684-a214-432b-9622-dd97491e6ce2"
+		]
 	}
 ]
