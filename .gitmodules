@@ -3,4 +3,4 @@
 	url = https://github.com/slonl/curriculum-kerndoelen.git
 [submodule "curriculum-examenprogramma"]
 	path = curriculum-examenprogramma
-	url = https://github.com/slonl/curriculum-examenprogramma/
+	url = https://github.com/slonl/curriculum-examenprogramma
