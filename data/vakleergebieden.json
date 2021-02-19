@@ -1060,5 +1060,24 @@
 		"replaces": [
 			"86be4684-a214-432b-9622-dd97491e6ce2"
 		]
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"0a3d23df-1758-439b-b219-cd2854cc639b",
+			"5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+			"fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+			"f77f2837-0c13-42bb-bc5a-1f6286ccfa7e",
+			"0d10e2d9-c069-4bab-907e-03050936984e"
+		],
+		"id": "5542232a-dafd-49e8-a7fa-fa918605f3ba",
+		"prefix": "DG",
+		"title": "Digitale Geletterdheid",
+		"description": ""
 	}
 ]
