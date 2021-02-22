@@ -77,8 +77,12 @@
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
-		]
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"35ca5594-679e-4c7b-a178-88322dce8971",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "18361045-bd2b-4c50-9267-cd24dc3498bb",
@@ -98,8 +102,10 @@
 		"title": "Bewegingsonderwijs",
 		"description": "",
 		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		]
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "41dd7292-3cce-411b-8097-11db8c875a89",
@@ -271,8 +277,13 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"35ca5594-679e-4c7b-a178-88322dce8971",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "fg",
@@ -697,7 +708,18 @@
 		"prefix": "rw",
 		"id": "d8384a70-755e-4fb8-b4e8-424f617caa89",
 		"sloID": "38",
-		"title": "Rekenen en wiskunde"
+		"title": "Rekenen en wiskunde",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "364c2519-7d9e-47d8-b3bd-371cee8583df",
