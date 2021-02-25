@@ -132,6 +132,10 @@
 				"ce_se": {
 					"type": ["string","null"],
 					"enum": ["CE", "SE", "CE;SE"]
+				},
+				"kern_keuze": {
+					"type": ["string","null"],
+					"enum": ["KERN", "KEUZE"]
 				}
 			},
 			"anyOf" : [
