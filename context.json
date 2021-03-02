@@ -3,9 +3,6 @@
 		"inhoud": {
 	            "allOf": [ { "$ref": "#/definitions/base" } ],
 	            "properties": {
-	                "description": {
-	                    "type": "string"
-	                },
 	                "doelniveau_id": {
         	            "allOf": [
 	                        {
@@ -56,7 +53,10 @@
 			"properties": {
 				"title": {
 					"type": "string"
-				}
+				},
+				"description": {
+				    "type": "string"
+				},
 			},
 			"required": ["id","title"]
 		},
