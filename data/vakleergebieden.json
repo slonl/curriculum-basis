@@ -267,7 +267,7 @@
 		"id": "eaabd632-abdd-499d-9d72-cdfaa4bff2eb",
 		"prefix": "fr",
 		"sloID": "12",
-		"title": "Friese taal",
+		"title": "Fries",
 		"description": "",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
@@ -282,7 +282,8 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"35ca5594-679e-4c7b-a178-88322dce8971",
 			"bdc4744f-79df-4795-8795-2fee50c7416a",
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
 		"dirty": "1"
 	},
@@ -979,13 +980,13 @@
 	},
 	{
 		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a",
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"id": "d5f0872e-59c0-44da-949d-790ea0b0fa10",
 		"prefix": "voa",
 		"title": "Voorbereiding op arbeid",
-		"description": ""
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "cfaf3202-4c14-4f7e-b783-91ad1dc93779",
@@ -1102,5 +1103,15 @@
 		"prefix": "DG",
 		"title": "Digitale Geletterdheid",
 		"description": ""
+	},
+	{
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
+		"id": "d743552d-dfcf-48fe-a3a1-9f6229755708",
+		"dirty": "1",
+		"title": "Voorbereiding op dagbesteding",
+		"description": "",
+		"prefix": "vodb"
 	}
 ]
