@@ -6,7 +6,6 @@
 		"title": "21e eeuwse vaardigheden",
 		"description": "",
 		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
 			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
@@ -146,13 +145,10 @@
 	},
 	{
 		"id": "7316c15e-d1d1-4d73-b4df-94b46b04aadd",
-		"prefix": "ce",
+		"prefix": "",
 		"sloID": "56",
 		"title": "Cultureel erfgoed",
-		"description": "",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		]
+		"description": ""
 	},
 	{
 		"id": "a70b035e-2c79-4b7d-81de-03678354cdc1",
