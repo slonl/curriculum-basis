@@ -145,10 +145,13 @@
 	},
 	{
 		"id": "7316c15e-d1d1-4d73-b4df-94b46b04aadd",
-		"prefix": "",
+		"prefix": "ce",
 		"sloID": "56",
 		"title": "Cultureel erfgoed",
-		"description": ""
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		]
 	},
 	{
 		"id": "a70b035e-2c79-4b7d-81de-03678354cdc1",
@@ -400,12 +403,6 @@
 		"title": "Kunst: beeldende vorming",
 		"description": "",
 		"niveau_id": [
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
-			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
@@ -421,12 +418,6 @@
 		"title": "Kunst: dans",
 		"description": "",
 		"niveau_id": [
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
-			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
@@ -442,12 +433,12 @@
 		"title": "Kunst: drama",
 		"description": "",
 		"niveau_id": [
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
-			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -457,12 +448,6 @@
 		"title": "Kunst: muziek",
 		"description": "",
 		"niveau_id": [
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
-			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
@@ -475,7 +460,14 @@
 		"prefix": "kv1",
 		"id": "29a8bd9f-2963-4070-84d8-c06075ca0ae1",
 		"sloID": "51",
-		"title": "Kunstvakken 1: Culturele Kunstzinnige Vorming"
+		"title": "Kunstvakken 1: Culturele Kunstzinnige Vorming",
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"id": "0f1daeda-c83f-41bf-ab2b-ca148761e66a",
@@ -503,13 +495,25 @@
 		"prefix": "lo1",
 		"id": "53b729cd-f9de-4de2-822b-8736225e9406",
 		"sloID": "23",
-		"title": "Lichamelijke opvoeding 1"
+		"title": "Lichamelijke opvoeding 1",
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"prefix": "lo2",
 		"id": "efac65df-e5e1-40b5-bb46-ed4ea8f378fd",
 		"sloID": "24",
-		"title": "Lichamelijke opvoeding 2"
+		"title": "Lichamelijke opvoeding 2",
+		"description": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"id": "b4459aa1-0dbb-409d-a675-8ca914234028",
@@ -531,9 +535,12 @@
 		"title": "Maatschappijleer",
 		"description": "",
 		"niveau_id": [
-			"aced88e1-bb12-42f9-88df-16d7abfda57e",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -898,8 +905,11 @@
 	{
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"aced88e1-bb12-42f9-88df-16d7abfda57e",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"id": "20d46f17-c61f-4677-a2c9-0f2fc7512ed4",
 		"prefix": "tu",
@@ -1115,7 +1125,7 @@
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"id": "fec0f646-78c9-47ec-ad2e-ebbc0c2345d6",
-		"prefix": "MUZ",
+		"prefix": "muz",
 		"title": "Muziek",
 		"description": ""
 	}
