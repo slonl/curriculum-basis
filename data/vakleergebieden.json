@@ -354,15 +354,7 @@
 		"prefix": "kbnt",
 		"sloID": "46",
 		"title": "Kennisbasis natuurwetenschappen en technologie",
-		"description": "",
-		"niveau_id": [
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
-			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
-		]
+		"description": ""
 	},
 	{
 		"prefix": "kcv",
