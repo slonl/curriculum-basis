@@ -1,8 +1,6 @@
 [submodule "curriculum-kerndoelen"]
 	path = curriculum-kerndoelen
 	url = https://github.com/slonl/curriculum-kerndoelen.git
-	ignore = dirty
 [submodule "curriculum-examenprogramma"]
 	path = curriculum-examenprogramma
 	url = https://github.com/slonl/curriculum-examenprogramma
-	ignore = dirty
