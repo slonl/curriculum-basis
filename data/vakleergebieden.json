@@ -378,7 +378,7 @@
 		"id": "26ef692c-72ce-481e-ba7a-43d0bef1fc0c",
 		"prefix": "kua",
 		"sloID": "16",
-		"title": "Kunst: algemeen",
+		"title": "Kunst (algemeen)",
 		"description": "",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
@@ -389,67 +389,63 @@
 		"id": "3e408d9d-d9dc-4eb7-8841-13f3dabe27fd",
 		"prefix": "kubv",
 		"sloID": "17",
-		"title": "Kunst: beeldende vorming",
+		"title": "Kunst (beeldende vorming)",
 		"description": "",
 		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "fbf18b56-2d01-4fc0-975d-af7122af4052",
 		"prefix": "kuda",
 		"sloID": "18",
-		"title": "Kunst: dans",
+		"title": "Kunst (dans)",
 		"description": "",
 		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "b63165ce-21a3-45d5-8b89-83d48f980cfb",
 		"prefix": "kudr",
 		"sloID": "19",
-		"title": "Kunst: drama",
+		"title": "Kunst (drama)",
 		"description": "",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"64852857-b601-419f-9cbb-e1335a185303",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "aa9da88c-189f-4857-b067-7cbdc929c905",
 		"prefix": "kumu",
 		"sloID": "20",
-		"title": "Kunst: muziek",
+		"title": "Kunst (muziek)",
 		"description": "",
 		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "kv1",
 		"id": "29a8bd9f-2963-4070-84d8-c06075ca0ae1",
 		"sloID": "51",
-		"title": "Kunstvakken 1: Culturele Kunstzinnige Vorming",
+		"title": "Kunstvakken incl. CKV",
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
