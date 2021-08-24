@@ -376,11 +376,9 @@
 		"id": "3e408d9d-d9dc-4eb7-8841-13f3dabe27fd",
 		"prefix": "kubv",
 		"sloID": "17",
-		"title": "Kunst (beeldende vorming)",
+		"title": "Kunst (beeldende vormgeving)",
 		"description": "",
 		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -1095,15 +1093,14 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"id": "fec0f646-78c9-47ec-ad2e-ebbc0c2345d6",
 		"prefix": "muz",
 		"title": "Muziek",
-		"description": ""
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"niveau_id": [
@@ -1123,6 +1120,36 @@
 		"id": "99fa52fd-5d20-446a-a34c-61a6be77b413",
 		"prefix": "THTex",
 		"title": "Textiele vormgeving",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"id": "b608d97d-2846-4216-a3ea-925ab70cff17",
+		"title": "Beeldende vorming",
+		"prefix": "Bv",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"id": "926f1084-fb32-47ee-be2b-13b5dbb6ee36",
+		"title": "Drama",
+		"prefix": "Dr",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"id": "39ae089f-d9e4-47c5-bd78-f40432efb958",
+		"title": "Dans",
+		"prefix": "Da",
 		"description": ""
 	}
 ]
