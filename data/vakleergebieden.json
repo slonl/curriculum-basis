@@ -743,7 +743,7 @@
 		"id": "107fbf5f-475d-40b9-a9bc-08c9b6e38182",
 		"prefix": "thtex",
 		"sloID": "49",
-		"title": "Tekenen, handvaardigheid en textiele vormgeving",
+		"title": "Tekenen",
 		"description": "",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
@@ -1103,6 +1103,26 @@
 		"id": "fec0f646-78c9-47ec-ad2e-ebbc0c2345d6",
 		"prefix": "muz",
 		"title": "Muziek",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "953167a9-cb14-47e3-8446-a708a4e077b9",
+		"prefix": "THTex",
+		"title": "Handvaardigheid",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "99fa52fd-5d20-446a-a34c-61a6be77b413",
+		"prefix": "THTex",
+		"title": "Textiele vormgeving",
 		"description": ""
 	}
 ]
