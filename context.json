@@ -135,7 +135,7 @@
 				},
 				"kern_keuze": {
 					"type": ["string","null"],
-					"enum": ["KERN", "KEUZE"]
+					"enum": ["KERN", "KEUZE", ""]
 				}
 			},
 			"anyOf" : [
