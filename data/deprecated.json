@@ -122950,5 +122950,33 @@
 		"types": [
 			"vakleergebied"
 		]
+	},
+	{
+		"title": "BB HAVO/VWO",
+		"id": "2cd219cf-56ee-4327-a399-4f44cd571351",
+		"prefix": "4500",
+		"description": "havo/vwo",
+		"type": "Sector",
+		"types": [
+			"niveau"
+		],
+		"replacedBy": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
+	},
+	{
+		"description": "ob havo/vwo",
+		"id": "fe74fabd-e1de-4902-98c4-2cfa44e05233",
+		"title": "OB HAVO/VWO",
+		"prefix": "4101",
+		"type": "Sector",
+		"types": [
+			"niveau"
+		],
+		"replacedBy": [
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
+		]
 	}
 ]
