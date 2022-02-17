@@ -3,9 +3,6 @@
 		"inhoud": {
 	            "allOf": [ { "$ref": "#/definitions/base" } ],
 	            "properties": {
-	                "description": {
-	                    "type": "string"
-	                },
 	                "doelniveau_id": {
         	            "allOf": [
 	                        {
@@ -56,6 +53,9 @@
 			"properties": {
 				"title": {
 					"type": "string"
+				},
+				"description": {
+				    "type": "string"
 				}
 			},
 			"required": ["id","title"]
@@ -125,6 +125,17 @@
 							}
 						}
 					]
+				},
+				"prefix": {
+					"type": "string"
+				},
+				"ce_se": {
+					"type": ["string","null"],
+					"enum": ["CE", "SE", "CE;SE", ""]
+				},
+				"kern_keuze": {
+					"type": ["string","null"],
+					"enum": ["KERN", "KEUZE", ""]
 				}
 			},
 			"anyOf" : [
@@ -154,7 +165,19 @@
 			]
 		},
 		"doel": {
-			"$ref": "#/definitions/base"
+			"allOf": [
+				{ "$ref": "#/definitions/base" },
+				{
+					"properties": {
+						"bron": {
+							"type": "string"
+						},
+						"aanbodid": {
+							"type": "string"
+						}
+					}
+				}
+			]
 		},
 		"niveau": {
 			"$ref": "#/definitions/base"
