@@ -1,13 +1,5 @@
 [
 	{
-		"id": "c0f3b769-606e-488a-aeb1-405bf46df24a",
-		"prefix": "21ev",
-		"sloID": "55",
-		"title": "21e eeuwse vaardigheden",
-		"description": "",
-		"dirty": "1"
-	},
-	{
 		"id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da",
 		"prefix": "ak",
 		"title": "Aardrijkskunde",
@@ -52,25 +44,6 @@
 		]
 	},
 	{
-		"id": "f7bbb238-929b-4f7e-b147-3b082baf2ddc",
-		"prefix": "bs",
-		"sloID": "3",
-		"title": "Bewegen en sport",
-		"description": "",
-		"niveau_id": [
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
-			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"35ca5594-679e-4c7b-a178-88322dce8971",
-			"bdc4744f-79df-4795-8795-2fee50c7416a",
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"dirty": "1"
-	},
-	{
 		"id": "18361045-bd2b-4c50-9267-cd24dc3498bb",
 		"prefix": "bsm",
 		"sloID": "4",
@@ -80,19 +53,6 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
-	},
-	{
-		"id": "9d6793a3-a5d6-4719-9ad3-24b5677bec26",
-		"prefix": "bo",
-		"sloID": "5",
-		"title": "Bewegingsonderwijs",
-		"description": "",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"dirty": "1"
 	},
 	{
 		"id": "41dd7292-3cce-411b-8097-11db8c875a89",
@@ -247,30 +207,6 @@
 		]
 	},
 	{
-		"id": "eaabd632-abdd-499d-9d72-cdfaa4bff2eb",
-		"prefix": "fr",
-		"sloID": "12",
-		"title": "Fries",
-		"description": "",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5",
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
-			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
-			"35ca5594-679e-4c7b-a178-88322dce8971",
-			"bdc4744f-79df-4795-8795-2fee50c7416a",
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
-		"dirty": "1"
-	},
-	{
 		"prefix": "fg",
 		"id": "58fe0010-9685-4dae-ba70-2e47d94ad844",
 		"sloID": "47",
@@ -371,54 +307,6 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
-	},
-	{
-		"id": "3e408d9d-d9dc-4eb7-8841-13f3dabe27fd",
-		"prefix": "kubv",
-		"sloID": "17",
-		"title": "Kunst (beeldende vormgeving)",
-		"description": "",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": "1"
-	},
-	{
-		"id": "fbf18b56-2d01-4fc0-975d-af7122af4052",
-		"prefix": "kuda",
-		"sloID": "18",
-		"title": "Kunst (dans)",
-		"description": "",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": "1"
-	},
-	{
-		"id": "b63165ce-21a3-45d5-8b89-83d48f980cfb",
-		"prefix": "kudr",
-		"sloID": "19",
-		"title": "Kunst (drama)",
-		"description": "",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": "1"
-	},
-	{
-		"id": "aa9da88c-189f-4857-b067-7cbdc929c905",
-		"prefix": "kumu",
-		"sloID": "20",
-		"title": "Kunst (muziek)",
-		"description": "",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": "1"
 	},
 	{
 		"prefix": "kv1",
@@ -668,30 +556,6 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		]
-	},
-	{
-		"prefix": "rw",
-		"id": "d8384a70-755e-4fb8-b4e8-424f617caa89",
-		"sloID": "38",
-		"title": "Rekenen en wiskunde",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971",
-			"bdc4744f-79df-4795-8795-2fee50c7416a",
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
-			"d6f1bbf7-c1a6-4431-bcbd-f33126d851ef",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8"
-		],
-		"description": "",
-		"dirty": "1"
 	},
 	{
 		"id": "364c2519-7d9e-47d8-b3bd-371cee8583df",
@@ -949,16 +813,6 @@
 		"description": ""
 	},
 	{
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"id": "d5f0872e-59c0-44da-949d-790ea0b0fa10",
-		"prefix": "voa",
-		"title": "Voorbereiding op arbeid",
-		"description": "",
-		"dirty": "1"
-	},
-	{
 		"id": "cfaf3202-4c14-4f7e-b783-91ad1dc93779",
 		"prefix": "en",
 		"sloID": "9",
@@ -985,22 +839,6 @@
 		],
 		"replaces": [
 			"d8dc1dca-90ee-4d8b-983b-734207cfbee2"
-		]
-	},
-	{
-		"id": "7cbe5862-b2d0-4760-a6c7-715e6fb953f3",
-		"prefix": "ko",
-		"sloID": "21",
-		"title": "Kunstzinnige oriëntatie",
-		"description": "",
-		"replaces": [
-			"23f4e5a7-fc21-410c-859f-85b99d4ae8f9"
-		],
-		"dirty": "1",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		]
 	},
 	{
@@ -1082,7 +920,6 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"id": "d743552d-dfcf-48fe-a3a1-9f6229755708",
-		"dirty": "1",
 		"title": "Voorbereiding op dagbesteding",
 		"description": "",
 		"prefix": "vodb"
@@ -1097,8 +934,7 @@
 		"id": "fec0f646-78c9-47ec-ad2e-ebbc0c2345d6",
 		"prefix": "muz",
 		"title": "Muziek",
-		"description": "",
-		"dirty": "1"
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1149,5 +985,187 @@
 		"title": "Dans",
 		"prefix": "Da",
 		"description": ""
+	},
+	{
+		"id": "caa85a8e-33e3-4b80-9e66-c5c1bd2d89f8",
+		"prefix": "21ev",
+		"sloID": "55",
+		"title": "21e eeuwse vaardigheden",
+		"description": "",
+		"replaces": [
+			"c0f3b769-606e-488a-aeb1-405bf46df24a"
+		]
+	},
+	{
+		"id": "20aba7d3-d063-4d54-aa7c-a6e41e5cb16b",
+		"prefix": "bs",
+		"sloID": "3",
+		"title": "Bewegen en sport",
+		"description": "",
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"35ca5594-679e-4c7b-a178-88322dce8971",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
+		"replaces": [
+			"f7bbb238-929b-4f7e-b147-3b082baf2ddc"
+		]
+	},
+	{
+		"id": "4f2f7088-7cbc-4f5f-b857-f80f8b697bf4",
+		"prefix": "bo",
+		"sloID": "5",
+		"title": "Bewegingsonderwijs",
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
+		],
+		"replaces": [
+			"9d6793a3-a5d6-4719-9ad3-24b5677bec26"
+		]
+	},
+	{
+		"id": "6e29642b-d99d-4085-8dc5-971cabb6b693",
+		"prefix": "fr",
+		"sloID": "12",
+		"title": "Fries",
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"35ca5594-679e-4c7b-a178-88322dce8971",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		],
+		"replaces": [
+			"eaabd632-abdd-499d-9d72-cdfaa4bff2eb"
+		]
+	},
+	{
+		"id": "b83130c3-fa75-4559-8f97-4d14e8771b87",
+		"prefix": "kubv",
+		"sloID": "17",
+		"title": "Kunst (beeldende vormgeving)",
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"3e408d9d-d9dc-4eb7-8841-13f3dabe27fd"
+		]
+	},
+	{
+		"id": "3bcb4015-b9af-4009-8a50-3295c07dabc9",
+		"prefix": "kuda",
+		"sloID": "18",
+		"title": "Kunst (dans)",
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"fbf18b56-2d01-4fc0-975d-af7122af4052"
+		]
+	},
+	{
+		"id": "ebf6d8b4-e6ab-4238-83c1-2fd2e119d45b",
+		"prefix": "kudr",
+		"sloID": "19",
+		"title": "Kunst (drama)",
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"b63165ce-21a3-45d5-8b89-83d48f980cfb"
+		]
+	},
+	{
+		"id": "dce3bb1f-6e36-42d1-85b3-a9aa44c2daa8",
+		"prefix": "kumu",
+		"sloID": "20",
+		"title": "Kunst (muziek)",
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"aa9da88c-189f-4857-b067-7cbdc929c905"
+		]
+	},
+	{
+		"prefix": "rw",
+		"id": "fdd97fff-f5e5-4b82-b937-9ab302666c50",
+		"sloID": "38",
+		"title": "Rekenen en wiskunde",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"d6f1bbf7-c1a6-4431-bcbd-f33126d851ef",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8"
+		],
+		"description": "",
+		"replaces": [
+			"d8384a70-755e-4fb8-b4e8-424f617caa89"
+		]
+	},
+	{
+		"niveau_id": [
+			"bdc4744f-79df-4795-8795-2fee50c7416a"
+		],
+		"id": "7889c3c1-8e9d-4d4a-9707-e876a6be441a",
+		"prefix": "voa",
+		"title": "Voorbereiding op arbeid",
+		"description": "",
+		"replaces": [
+			"d5f0872e-59c0-44da-949d-790ea0b0fa10"
+		]
+	},
+	{
+		"id": "60133458-f6b1-4a6e-8e62-ea5ff0b8e9b7",
+		"prefix": "ko",
+		"sloID": "21",
+		"title": "Kunstzinnige oriëntatie",
+		"description": "",
+		"replaces": [
+			"23f4e5a7-fc21-410c-859f-85b99d4ae8f9",
+			"7cbe5862-b2d0-4760-a6c7-715e6fb953f3"
+		],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
+		]
 	}
 ]
