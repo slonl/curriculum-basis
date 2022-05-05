@@ -1,16 +1,15 @@
 {
   "name": "curriculum-basis",
+  "type": "module",
   "version": "1.0.0",
   "description": "Curriculum Basis Context",
-  "main": "context.json",
+  "main": "src/index.mjs",
   "scripts": {
-    "test": "node test/test.js"
+    "test": "node test/test.mjs"
   },
   "author": "SLO",
   "license": "MIT",
   "dependencies": {
-    "ajv": "^6.5.5",
-    "jsondiffpatch": "^0.3.11",
-    "uuid": "^3.3.2"
+    "curriculum-js": "^0.1.2"
   }
 }
