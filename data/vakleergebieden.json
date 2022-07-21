@@ -937,14 +937,11 @@
 		"dirty": true
 	},
 	{
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
 		"id": "99fa52fd-5d20-446a-a34c-61a6be77b413",
 		"prefix": "THTex",
 		"title": "Textiele vormgeving",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"niveau_id": [
