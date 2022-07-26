@@ -918,16 +918,11 @@
 		"prefix": "vodb"
 	},
 	{
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
 		"id": "fec0f646-78c9-47ec-ad2e-ebbc0c2345d6",
 		"prefix": "muz",
 		"title": "Muziek",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"id": "953167a9-cb14-47e3-8446-a708a4e077b9",
