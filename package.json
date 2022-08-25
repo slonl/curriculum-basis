@@ -4,12 +4,13 @@
   "description": "Curriculum Basis Context",
   "main": "context.json",
   "scripts": {
-    "test": "node test/test.js"
+    "test": "node test/test.mjs"
   },
   "author": "SLO",
   "license": "MIT",
   "dependencies": {
     "ajv": "^6.5.5",
+    "curriculum-js": "^0.3.6",
     "jsondiffpatch": "^0.3.11",
     "uuid": "^3.3.2"
   }
