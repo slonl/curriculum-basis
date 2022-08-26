@@ -648,14 +648,13 @@
 	},
 	{
 		"id": "2573e278-9c8a-4787-bce9-8b7df670d4dd",
-		"prefix": "wi",
+		"prefix": "wisC",
 		"sloID": "44",
-		"title": "Wiskunde",
+		"title": "Wiskunde C",
 		"description": "",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true
+		]
 	},
 	{
 		"id": "6be72775-5689-4aa4-bb5a-38899b174915",
