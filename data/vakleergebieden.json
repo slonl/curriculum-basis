@@ -724,20 +724,6 @@
 		"description": ""
 	},
 	{
-		"id": "782220bf-4155-4090-b218-c6957a14f963",
-		"prefix": "ar",
-		"title": "Arabisch",
-		"description": "",
-		"dirty": true
-	},
-	{
-		"id": "20d46f17-c61f-4677-a2c9-0f2fc7512ed4",
-		"prefix": "tu",
-		"title": "Turks",
-		"description": "",
-		"dirty": true
-	},
-	{
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
@@ -746,13 +732,6 @@
 		"prefix": "it",
 		"title": "Italiaans",
 		"description": ""
-	},
-	{
-		"id": "6b89b236-42ae-429f-bc33-422e12b53cb1",
-		"prefix": "ru",
-		"title": "Russisch",
-		"description": "",
-		"dirty": true
 	},
 	{
 		"niveau_id": [
@@ -909,27 +888,6 @@
 		"title": "Voorbereiding op dagbesteding",
 		"description": "",
 		"prefix": "vodb"
-	},
-	{
-		"id": "fec0f646-78c9-47ec-ad2e-ebbc0c2345d6",
-		"prefix": "muz",
-		"title": "Muziek",
-		"description": "",
-		"dirty": true
-	},
-	{
-		"id": "953167a9-cb14-47e3-8446-a708a4e077b9",
-		"prefix": "THTex",
-		"title": "Handvaardigheid",
-		"description": "",
-		"dirty": true
-	},
-	{
-		"id": "99fa52fd-5d20-446a-a34c-61a6be77b413",
-		"prefix": "THTex",
-		"title": "Textiele vormgeving",
-		"description": "",
-		"dirty": true
 	},
 	{
 		"niveau_id": [
@@ -1141,6 +1099,60 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
+		]
+	},
+	{
+		"id": "1a3a03fd-d468-4e1f-ae5b-94d03c5061ee",
+		"prefix": "ar",
+		"title": "Arabisch",
+		"description": "",
+		"replaces": [
+			"782220bf-4155-4090-b218-c6957a14f963"
+		]
+	},
+	{
+		"id": "64dc83c6-d178-4d17-bbae-df6fec239d57",
+		"prefix": "tu",
+		"title": "Turks",
+		"description": "",
+		"replaces": [
+			"20d46f17-c61f-4677-a2c9-0f2fc7512ed4"
+		]
+	},
+	{
+		"id": "b00a8f97-7d10-41a8-9b84-4e8e82591bfc",
+		"prefix": "ru",
+		"title": "Russisch",
+		"description": "",
+		"replaces": [
+			"6b89b236-42ae-429f-bc33-422e12b53cb1"
+		]
+	},
+	{
+		"id": "be10bbec-59a9-46a3-8061-43edfce17a76",
+		"prefix": "muz",
+		"title": "Muziek",
+		"description": "",
+		"replaces": [
+			"fec0f646-78c9-47ec-ad2e-ebbc0c2345d6"
+		]
+	},
+	{
+		"id": "fc7c0b12-f6ae-4643-9a95-7c91bf898423",
+		"prefix": "THTex",
+		"title": "Handvaardigheid",
+		"description": "",
+		"replaces": [
+			"953167a9-cb14-47e3-8446-a708a4e077b9"
+		]
+	},
+	{
+		"id": "b036fa12-ab9c-4469-a346-c4e09dc0bf6d",
+		"prefix": "THTex",
+		"title": "Textiele vormgeving",
+		"description": "",
+		"replaces": [
+			"99fa52fd-5d20-446a-a34c-61a6be77b413"
 		]
 	}
 ]
