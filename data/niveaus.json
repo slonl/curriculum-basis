@@ -726,5 +726,10 @@
 		"description": "europees referentiekader B2+ moderne vreemde talen",
 		"prefix": "4913",
 		"type": ""
+	},
+	{
+		"id": "7835ae8e-0923-4a60-aadd-251b9c0b99b5",
+		"title": "3 h/v",
+		"description": "3 havo/vwo"
 	}
 ]
