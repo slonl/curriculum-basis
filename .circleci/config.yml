@@ -3,14 +3,14 @@ jobs:
   build:
     working_directory: ~/mern-starter
     docker:
-      - image: circleci/node:10
+      - image: circleci/node:20
     steps:
       - checkout
       - run: git submodule sync
       - run: git submodule update --init
       - run:
           name: update-npm
-          command: 'sudo npm install -g npm@5'
+          command: 'sudo npm install -g npm@latest'
       - restore_cache:
           key: dependency-cache-{{ checksum "package.json" }}
       - run:
