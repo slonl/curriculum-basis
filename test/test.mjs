@@ -14,6 +14,7 @@ async function validate() {
 		error.validationErrors.forEach(error => {
 			console.log(error.instancePath+': '+error.message)
 		})
+		process.exit(64);
 	}
 }
 
