@@ -413,6 +413,48 @@
 		"type": "Leerjaar"
 	},
 	{
+		"id": "8da0ce4d-daab-40ea-93f7-bb6e8e1a31c3",
+		"title": "vmbo bb, 1",
+		"description": "vmbo basisberoepsgerichte leerweg, leerjaar 1",
+		"prefix": "3001",
+		"type": "Leerjaar"
+	},
+	{
+		"id": "3a49d130-5ce7-465d-80c9-5fcd2bd70c05",
+		"title": "vmbo bb, 2",
+		"description": "vmbo basisberoepsgerichte leerweg, leerjaar 2",
+		"prefix": "3002",
+		"type": "Leerjaar"
+	},
+	{
+		"id": "8550fb8a-20ac-489f-83eb-d7f4e8a2401f",
+		"title": "vmbo bb, 3",
+		"description": "vmbo basisberoepsgerichte leerweg, leerjaar 3",
+		"prefix": "3003",
+		"type": "Leerjaar"
+	},
+	{
+		"id": "151c4de1-e462-468c-bf9a-8c7234c59d64",
+		"title": "vmbo bb, 4",
+		"description": "vmbo basisberoepsgerichte leerweg, leerjaar 4",
+		"prefix": "3004",
+		"type": "Leerjaar"
+	},
+	{
+		"id": "75a00adb-870c-4f05-be63-41411c48324a",
+		"title": "vmbo gl, 1",
+		"description": "vmbo gemengde leerweg, leerjaar 1",
+		"prefix": "3005",
+		"type": "Leerjaar"
+	},
+	{
+		"id": "8d46380e-9d6b-4c62-a1a6-5f7c06e1f79d",
+		"title": "vmbo gl, 2",
+		"description": "vmbo gemengde leerweg, leerjaar 2",
+		"prefix": "3006",
+		"type": "Leerjaar"
+	},
+	{
 		"title": "vmbo gl, 3",
 		"description": "vmbo gemengde leerweg, leerjaar 3",
 		"id": "49af771b-6d9e-4d8f-bcaf-ac9cc9ee753e",
@@ -684,5 +726,10 @@
 		"description": "europees referentiekader B2+ moderne vreemde talen",
 		"prefix": "4913",
 		"type": ""
+	},
+	{
+		"id": "7835ae8e-0923-4a60-aadd-251b9c0b99b5",
+		"title": "3 h/v",
+		"description": "3 havo/vwo (leerjaar 3 is onderdeel van onderbouw vo, maar alleen voor havo en vwo)"
 	}
 ]
