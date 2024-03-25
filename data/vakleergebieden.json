@@ -873,12 +873,17 @@
 			"fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
 			"f77f2837-0c13-42bb-bc5a-1f6286ccfa7e",
 			"0d10e2d9-c069-4bab-907e-03050936984e",
-			"512e4729-03a4-43a2-95ba-758071d1b725"
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a",
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"id": "5542232a-dafd-49e8-a7fa-fa918605f3ba",
 		"prefix": "DG",
 		"title": "Digitale Geletterdheid",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"niveau_id": [
