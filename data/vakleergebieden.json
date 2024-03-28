@@ -1165,5 +1165,17 @@
 		"prefix": "O&O",
 		"title": "Onderzoek & ontwerpen",
 		"description": ""
+	},
+	{
+		"title": "Burgerschap",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a",
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"id": "a7bd6d47-9885-48f8-accf-5038b827a41d",
+		"unreleased": true
 	}
 ]
