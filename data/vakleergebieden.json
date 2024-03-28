@@ -1168,6 +1168,7 @@
 	},
 	{
 		"title": "Burgerschap",
+		"prefix": "BU",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a",
