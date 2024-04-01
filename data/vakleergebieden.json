@@ -1187,5 +1187,14 @@
 		],
 		"id": "f4f696a2-ddce-4d69-a2bd-6531128f0933",
 		"unreleased": true
+	},
+	{
+		"title": "Techniek en Innovatief Vakmanschap",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"id": "df786965-9169-4623-ad9a-e574f8dbcbeb",
+		"unreleased": true
 	}
 ]
