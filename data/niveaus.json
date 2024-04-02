@@ -189,9 +189,9 @@
 		"type": "Opleiding"
 	},
 	{
-		"description": "speciaal onderwijs zeer moeilijk lerend/meervoudig gehandicapt",
+		"description": "speciaal onderwijs zeer moeilijk lerend/meervoudig beperkt",
 		"id": "edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
-		"title": "so zml/mg",
+		"title": "so zml/mb",
 		"prefix": "0001",
 		"type": "Opleiding"
 	},
