@@ -862,31 +862,6 @@
 	},
 	{
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"8450c011-f812-4f89-97a9-6b8820baffc5",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"0a3d23df-1758-439b-b219-cd2854cc639b",
-			"5edad2fa-2cf0-4701-93d9-97edbe06ac02",
-			"fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
-			"f77f2837-0c13-42bb-bc5a-1f6286ccfa7e",
-			"0d10e2d9-c069-4bab-907e-03050936984e",
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a",
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"id": "5542232a-dafd-49e8-a7fa-fa918605f3ba",
-		"prefix": "DG",
-		"title": "Digitale Geletterdheid",
-		"description": "",
-		"dirty": true
-	},
-	{
-		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"id": "d743552d-dfcf-48fe-a3a1-9f6229755708",
@@ -1176,8 +1151,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "a7bd6d47-9885-48f8-accf-5038b827a41d",
-		"unreleased": true
+		"id": "a7bd6d47-9885-48f8-accf-5038b827a41d"
 	},
 	{
 		"title": "Technologie en Toepassing",
@@ -1185,8 +1159,7 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"id": "f4f696a2-ddce-4d69-a2bd-6531128f0933",
-		"unreleased": true
+		"id": "f4f696a2-ddce-4d69-a2bd-6531128f0933"
 	},
 	{
 		"title": "Techniek en Innovatief Vakmanschap",
@@ -1194,7 +1167,33 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"id": "df786965-9169-4623-ad9a-e574f8dbcbeb",
-		"unreleased": true
+		"id": "df786965-9169-4623-ad9a-e574f8dbcbeb"
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"0a3d23df-1758-439b-b219-cd2854cc639b",
+			"5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+			"fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+			"f77f2837-0c13-42bb-bc5a-1f6286ccfa7e",
+			"0d10e2d9-c069-4bab-907e-03050936984e",
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a",
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"id": "b285b813-e182-46bd-ba41-bccc737e1350",
+		"prefix": "DG",
+		"title": "Digitale Geletterdheid",
+		"description": "",
+		"replaces": [
+			"5542232a-dafd-49e8-a7fa-fa918605f3ba"
+		]
 	}
 ]

@@ -87520,19 +87520,5 @@
 		"title": "Je kent de geldende regels voor de volgorde waarin rekenbewerkingen moeten worden uitgevoerd en je kent daarbij ook de rol van haakjes.",
 		"id": "171461f0-239a-4444-9002-b39c4d59ea7e",
 		"bron": "Tussendoel"
-	},
-	{
-		"id": "4083c4ad-f5e7-49f8-9617-d822e4926da0",
-		"title": "De collega's van Impuls Open leermateriaal hebben een beter begrip van data en het doel van de leerdoelendatabase van SLO",
-		"description": "Tijdens de sessie wordt een stuk gedachtengoed achter het project Digitalisering curriculum gepresenteerd en hoe dat van toepassing is op Impuls Open Leermateriaal",
-		"bron": "IOL-sessie 15 maart",
-		"aanbodid": "",
-		"prefix": "",
-		"ce_se": "",
-		"kern_keuze": "",
-		"replaces": [
-			"8a8ba9ae-787c-4739-81c0-77d7cbf9a90b"
-		],
-		"deleted": 1
 	}
 ]
