@@ -180,7 +180,16 @@
 			]
 		},
 		"niveau": {
-			"$ref": "#/definitions/base"
+			"allOf": [
+				{ "$ref": "#/definitions/base" },
+				{
+					"properties": {
+						"prefix": {
+							"type": "string"
+						}
+					}
+				}
+			]
 		},
 		"allEntities" : {
 			"properties" : {
