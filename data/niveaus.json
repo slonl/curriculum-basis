@@ -732,23 +732,5 @@
 		"title": "3 h/v",
 		"prefix": "5000",
 		"description": "3 havo/vwo (leerjaar 3 is onderdeel van onderbouw vo, maar alleen voor havo en vwo)"
-	},
-	{
-		"id": "3269418e-d200-442a-8626-48c7a4f5613f",
-		"prefix": "",
-		"title": "De persoonlijke mening verwoorden over een personage in een animatiefilm.",
-		"description": ""
-	},
-	{
-		"id": "b737fd23-1082-4614-8e2b-60b04dca865a",
-		"prefix": "",
-		"title": "De mooiste foto's uit een expositie of een website becommentariëren.",
-		"description": ""
-	},
-	{
-		"id": "b869d830-e3a6-431b-abee-dd5e4eb17fe2",
-		"prefix": "",
-		"title": "De leukste regel van een songtekst uitkiezen en en de keuze uitleggen.",
-		"description": ""
 	}
 ]
