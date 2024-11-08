@@ -186,6 +186,9 @@
 					"properties": {
 						"prefix": {
 							"type": "string"
+						},
+						"type": {
+							"type": "string"
 						}
 					}
 				}
