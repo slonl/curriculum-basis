@@ -54,7 +54,7 @@
 		"id": "41dd7292-3cce-411b-8097-11db8c875a89",
 		"prefix": "bio",
 		"title": "Biologie",
-		"description": "",
+		"description": "Biologie",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
@@ -71,7 +71,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "26eb622d-6239-4f26-bdef-0c9662891285",
@@ -118,7 +119,7 @@
 		"id": "91e9afb9-a8ab-4fde-aa97-9884a8920b78",
 		"prefix": "du",
 		"title": "Duits",
-		"description": "",
+		"description": "Duits",
 		"niveau_id": [
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
@@ -132,7 +133,8 @@
 			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "8755f202-3f28-405d-929e-990ee4fdc521",
@@ -179,7 +181,7 @@
 		"id": "f851676e-b541-42db-986a-5c468974f65e",
 		"prefix": "fa",
 		"title": "Frans",
-		"description": "",
+		"description": "Frans",
 		"niveau_id": [
 			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
 			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
@@ -193,7 +195,8 @@
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"prefix": "fg",
@@ -225,11 +228,12 @@
 		"id": "797f5fdf-8e35-43e9-b290-772c84f1761e",
 		"prefix": "gtc",
 		"title": "Grieks",
-		"description": "",
+		"description": "Grieks",
 		"niveau_id": [
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "c17db255-88b0-450b-bf3f-235ad7eaf65f",
@@ -267,16 +271,16 @@
 	{
 		"id": "cef3bf40-8f21-4eea-8ce5-b3360b21023e",
 		"prefix": "kc",
-		"title": "Kunst en cultuur",
-		"description": "",
+		"title": "kunst en cultuur",
+		"description": "Kunst en cultuur",
 		"niveau_id": [
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
-			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
-		]
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5",
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"dirty": true
 	},
 	{
 		"id": "26ef692c-72ce-481e-ba7a-43d0bef1fc0c",
@@ -304,11 +308,12 @@
 		"id": "0f1daeda-c83f-41bf-ab2b-ca148761e66a",
 		"prefix": "ltc",
 		"title": "Latijn",
-		"description": "",
+		"description": "Latijn",
 		"niveau_id": [
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "4c78ac37-1937-4cc4-86e4-aa3192ef44db",
@@ -357,8 +362,8 @@
 	{
 		"prefix": "ml",
 		"id": "ef5159b3-ead9-4a86-9324-e80cd867856c",
-		"title": "Maatschappijleer",
-		"description": "",
+		"title": "maatschappijleer",
+		"description": "maatschappijleer",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
@@ -366,7 +371,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "b21832a9-69eb-4c10-9a3e-c8cdc60314bb",
@@ -413,30 +419,30 @@
 	{
 		"id": "8ee02a5b-5e70-4260-b104-96538d8d0cb0",
 		"prefix": "mm",
-		"title": "Mens en maatschappij",
+		"title": "Mens en Maatschappij",
 		"description": "",
 		"niveau_id": [
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
-			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
-		]
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5",
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"dirty": true
 	},
 	{
 		"id": "2795bfff-8566-4e69-b70c-12efba965dc8",
-		"prefix": "mn",
-		"title": "Mens en natuur",
-		"description": "",
+		"prefix": "mm",
+		"title": "Mens en Natuur",
+		"description": "Mens en Natuur",
 		"niveau_id": [
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
-			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
-		]
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5",
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"dirty": true
 	},
 	{
 		"id": "aa197275-236f-451e-85be-ed0902848f08",
@@ -452,7 +458,14 @@
 	{
 		"prefix": "mvt",
 		"id": "11aef2d5-ae09-49c8-9485-e7b93e3f9fda",
-		"title": "MVT"
+		"title": "moderne vreemde talen",
+		"dirty": true,
+		"description": "moderne vreemde talen",
+		"niveau_id": [
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5",
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		]
 	},
 	{
 		"id": "b362c478-90c9-45ac-855a-79421d23ed07",
@@ -487,24 +500,26 @@
 	{
 		"id": "956d0d86-90f3-443b-a418-52fd9b912661",
 		"prefix": "nlt",
-		"title": "Natuur, leven en technologie",
-		"description": "",
+		"title": "natuur, leven en technologie",
+		"description": "natuur, leven en technologie",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8",
 		"prefix": "na",
 		"title": "Natuurkunde",
-		"description": "",
+		"description": "Natuurkunde",
 		"niveau_id": [
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "b8f15528-dedb-4db8-81ee-c820da8453bc",
@@ -521,19 +536,20 @@
 		"id": "364c2519-7d9e-47d8-b3bd-371cee8583df",
 		"prefix": "sk",
 		"title": "Scheikunde",
-		"description": "",
+		"description": "Scheikunde",
 		"niveau_id": [
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "73abc618-988a-4409-b2ae-ff16febf68ee",
 		"prefix": "sp",
 		"title": "Spaans",
-		"description": "",
+		"description": "Spaans",
 		"niveau_id": [
 			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
 			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
@@ -547,7 +563,8 @@
 			"8450c011-f812-4f89-97a9-6b8820baffc5",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"prefix": "te",
@@ -639,12 +656,13 @@
 	{
 		"id": "1f7aa29f-38d8-4dab-91db-3be52669951f",
 		"prefix": "ch",
-		"description": "",
+		"description": "Chinees",
 		"title": "Chinees",
 		"niveau_id": [
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"niveau_id": [
@@ -678,7 +696,8 @@
 		"id": "d1797e77-8eb0-4ebd-83f7-f95c7f46fcd7",
 		"prefix": "it",
 		"title": "Italiaans",
-		"description": ""
+		"description": "Italiaans",
+		"dirty": true
 	},
 	{
 		"niveau_id": [
@@ -728,35 +747,40 @@
 		"id": "cfaf3202-4c14-4f7e-b783-91ad1dc93779",
 		"prefix": "en",
 		"title": "Engels",
-		"description": "",
+		"description": "Engels",
 		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
-			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a",
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"bdc4744f-79df-4795-8795-2fee50c7416a",
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
 		],
 		"replaces": [
 			"d8dc1dca-90ee-4d8b-983b-734207cfbee2"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "e41b8c50-d002-4a9f-be8b-9b5da0008656",
 		"prefix": "ne",
 		"title": "Nederlands",
-		"description": "",
+		"description": "Nederlands",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
@@ -788,7 +812,8 @@
 		],
 		"replaces": [
 			"96b622d6-264d-4f7a-9875-681ded824e21"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "682218a8-0e89-4d4c-938c-36629a474e7c",
@@ -856,21 +881,18 @@
 		"id": "20aba7d3-d063-4d54-aa7c-a6e41e5cb16b",
 		"prefix": "bs",
 		"title": "Bewegen en sport",
-		"description": "",
+		"description": "Bewegen en sport",
 		"niveau_id": [
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
-			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"35ca5594-679e-4c7b-a178-88322dce8971",
-			"bdc4744f-79df-4795-8795-2fee50c7416a",
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5",
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"replaces": [
 			"f7bbb238-929b-4f7e-b147-3b082baf2ddc"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "4f2f7088-7cbc-4f5f-b857-f80f8b697bf4",
@@ -890,7 +912,7 @@
 		"id": "6e29642b-d99d-4085-8dc5-971cabb6b693",
 		"prefix": "fr",
 		"title": "Fries",
-		"description": "",
+		"description": "Fries",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
@@ -909,7 +931,8 @@
 		],
 		"replaces": [
 			"eaabd632-abdd-499d-9d72-cdfaa4bff2eb"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "b83130c3-fa75-4559-8f97-4d14e8771b87",
@@ -1019,28 +1042,31 @@
 		"id": "1a3a03fd-d468-4e1f-ae5b-94d03c5061ee",
 		"prefix": "ar",
 		"title": "Arabisch",
-		"description": "",
+		"description": "Arabisch",
 		"replaces": [
 			"782220bf-4155-4090-b218-c6957a14f963"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "64dc83c6-d178-4d17-bbae-df6fec239d57",
 		"prefix": "tu",
 		"title": "Turks",
-		"description": "",
+		"description": "Turks",
 		"replaces": [
 			"20d46f17-c61f-4677-a2c9-0f2fc7512ed4"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "b00a8f97-7d10-41a8-9b84-4e8e82591bfc",
 		"prefix": "ru",
 		"title": "Russisch",
-		"description": "",
+		"description": "Russisch",
 		"replaces": [
 			"6b89b236-42ae-429f-bc33-422e12b53cb1"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "be10bbec-59a9-46a3-8061-43edfce17a76",
@@ -1072,8 +1098,9 @@
 	{
 		"id": "18a4aa0c-3bd2-445e-a19e-c142f0cd3de4",
 		"prefix": "O&O",
-		"title": "Onderzoek & ontwerpen",
-		"description": ""
+		"title": "Onderzoek en Ontwerpen",
+		"description": "Onderzoek en Ontwerpen",
+		"dirty": true
 	},
 	{
 		"title": "Burgerschap",
@@ -1129,5 +1156,51 @@
 		"replaces": [
 			"5542232a-dafd-49e8-a7fa-fa918605f3ba"
 		]
+	},
+	{
+		"dirty": true,
+		"title": "Wiskunde 1",
+		"description": "Wiskunde 1",
+		"prefix": "wi1",
+		"id": "b1d19e12-ce22-47ef-92c0-21fe649f21ce",
+		"unreleased": true
+	},
+	{
+		"dirty": true,
+		"title": "Wiskunde 1,2",
+		"description": "Wiskunde 1,2",
+		"prefix": "wi1,2",
+		"id": "bfedf46b-bb0b-4240-9168-ac9d8ca8e0bd",
+		"unreleased": true
+	},
+	{
+		"deleted": true,
+		"title": "wiskunde E&M",
+		"prefix": "wiem",
+		"id": "0aadab59-c472-42f6-9b7d-e05d2b956fd2",
+		"unreleased": true
+	},
+	{
+		"dirty": true,
+		"title": "wiskunde maatschappij",
+		"description": "wiskunde maatschappij",
+		"prefix": "wim",
+		"id": "28ed9ea0-9504-44d1-8953-0bf4679d29e8",
+		"unreleased": true
+	},
+	{
+		"dirty": true,
+		"title": "wiskunde natuur",
+		"description": "wiskunde natuur",
+		"prefix": "win",
+		"id": "332955fc-9af2-4b0d-986f-b20d60b6ed38",
+		"unreleased": true
+	},
+	{
+		"deleted": true,
+		"title": "wiskunde N&T",
+		"prefix": "wint",
+		"id": "72509ef5-5a79-4d7d-a3d5-f6e95e7c9c69",
+		"unreleased": true
 	}
 ]
