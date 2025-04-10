@@ -1135,31 +1135,27 @@
 		"title": "Wiskunde 1",
 		"description": "Wiskunde 1",
 		"prefix": "wi1",
-		"id": "b1d19e12-ce22-47ef-92c0-21fe649f21ce",
-		"unreleased": true
+		"id": "b1d19e12-ce22-47ef-92c0-21fe649f21ce"
 	},
 	{
 		"dirty": true,
 		"title": "Wiskunde 1,2",
 		"description": "Wiskunde 1,2",
 		"prefix": "wi1,2",
-		"id": "bfedf46b-bb0b-4240-9168-ac9d8ca8e0bd",
-		"unreleased": true
+		"id": "bfedf46b-bb0b-4240-9168-ac9d8ca8e0bd"
 	},
 	{
 		"dirty": true,
 		"title": "wiskunde maatschappij",
 		"description": "wiskunde maatschappij",
 		"prefix": "wim",
-		"id": "28ed9ea0-9504-44d1-8953-0bf4679d29e8",
-		"unreleased": true
+		"id": "28ed9ea0-9504-44d1-8953-0bf4679d29e8"
 	},
 	{
 		"dirty": true,
 		"title": "wiskunde natuur",
 		"description": "wiskunde natuur",
 		"prefix": "win",
-		"id": "332955fc-9af2-4b0d-986f-b20d60b6ed38",
-		"unreleased": true
+		"id": "332955fc-9af2-4b0d-986f-b20d60b6ed38"
 	}
 ]
