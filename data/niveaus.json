@@ -613,42 +613,48 @@
 		"id": "5eac0434-a6fc-4499-9710-3d6b800973a3",
 		"prefix": "3200",
 		"title": "2F",
-		"type": "Referentieniveau"
+		"type": "Referentieniveau",
+		"deleted": true
 	},
 	{
 		"description": "Referentiekader taal en rekenen,  streefniveau 2",
 		"id": "fadc20aa-082e-4e80-8a83-830c4006f236",
 		"prefix": "3201",
 		"title": "2S",
-		"type": "Referentieniveau"
+		"type": "Referentieniveau",
+		"deleted": true
 	},
 	{
 		"description": "Referentiekader taal en rekenen,  fundamenteel niveau 3",
 		"id": "f1d56c9e-373a-4051-9ce9-81a01b812de7",
 		"prefix": "4200",
 		"title": "3F",
-		"type": "Referentieniveau"
+		"type": "Referentieniveau",
+		"deleted": true
 	},
 	{
 		"description": "Referentiekader taal en rekenen,  streefniveau 3",
 		"id": "2be1fbb4-d46f-44f8-9aff-d2bbf5108a18",
 		"prefix": "4201",
 		"title": "3S",
-		"type": "Referentieniveau"
+		"type": "Referentieniveau",
+		"deleted": true
 	},
 	{
 		"description": "Referentiekader taal en rekenen,  fundamenteel niveau 4",
 		"id": "5ec6d733-a3b2-46db-9d42-72b4be4f7750",
 		"prefix": "4700",
 		"title": "4F",
-		"type": "Referentieniveau"
+		"type": "Referentieniveau",
+		"deleted": true
 	},
 	{
 		"description": "Referentiekader taal en rekenen,  streefniveau 4",
 		"id": "7bae4f16-ed94-4739-9d42-d0842dee7c90",
 		"prefix": "4701",
 		"title": "4S",
-		"type": "Referentieniveau"
+		"type": "Referentieniveau",
+		"deleted": true
 	},
 	{
 		"description": "Onderbouw havo bewegen en sport basisniveau",
