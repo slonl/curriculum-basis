@@ -446761,5 +446761,131 @@
 		"types": [
 			"vakleergebied"
 		]
+	},
+	{
+		"niveau_id": [
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
+		],
+		"id": "6388017e-b067-474b-b6ed-17fddd7e7fda",
+		"prefix": "ngt",
+		"title": "Nederlandse gebarentaal",
+		"description": "",
+		"replacedBy": [
+			"5d69526e-d501-4fb7-b647-84aa2d1a082b"
+		],
+		"types": [
+			"vakleergebied"
+		]
+	},
+	{
+		"id": "e41b8c50-d002-4a9f-be8b-9b5da0008656",
+		"prefix": "ne",
+		"title": "Nederlands",
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"d5f99b58-31be-4ffc-89f4-9d7c65526879",
+			"86d05d5a-8dfa-422b-820c-50019985426d",
+			"5eac0434-a6fc-4499-9710-3d6b800973a3",
+			"fadc20aa-082e-4e80-8a83-830c4006f236",
+			"f1d56c9e-373a-4051-9ce9-81a01b812de7",
+			"2be1fbb4-d46f-44f8-9aff-d2bbf5108a18",
+			"5ec6d733-a3b2-46db-9d42-72b4be4f7750",
+			"7bae4f16-ed94-4739-9d42-d0842dee7c90",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971",
+			"d6f1bbf7-c1a6-4431-bcbd-f33126d851ef"
+		],
+		"replaces": [
+			"96b622d6-264d-4f7a-9875-681ded824e21"
+		],
+		"replacedBy": [
+			"1cce8cb7-acac-4b69-8765-85ed0c63ea38"
+		],
+		"types": [
+			"vakleergebied"
+		]
+	},
+	{
+		"id": "1a3a03fd-d468-4e1f-ae5b-94d03c5061ee",
+		"prefix": "ar",
+		"title": "Arabisch",
+		"description": "",
+		"replaces": [
+			"782220bf-4155-4090-b218-c6957a14f963"
+		],
+		"replacedBy": [
+			"479f67ad-ec21-41ff-bd73-902d300468d0"
+		],
+		"types": [
+			"vakleergebied"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Wiskunde 1",
+		"description": "Wiskunde 1",
+		"prefix": "wi1",
+		"id": "b1d19e12-ce22-47ef-92c0-21fe649f21ce",
+		"replacedBy": [
+			"9b3b05fe-e707-4188-a984-8bf23ffc4713"
+		],
+		"types": [
+			"vakleergebied"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Wiskunde 1,2",
+		"description": "Wiskunde 1,2",
+		"prefix": "wi1,2",
+		"id": "bfedf46b-bb0b-4240-9168-ac9d8ca8e0bd",
+		"replacedBy": [
+			"c77b4c63-23e9-417a-ac62-f7c8efbf5508"
+		],
+		"types": [
+			"vakleergebied"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "wiskunde maatschappij",
+		"description": "wiskunde maatschappij",
+		"prefix": "wim",
+		"id": "28ed9ea0-9504-44d1-8953-0bf4679d29e8",
+		"replacedBy": [
+			"241898c0-bda3-422b-821a-e09797438f82"
+		],
+		"types": [
+			"vakleergebied"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "wiskunde natuur",
+		"description": "wiskunde natuur",
+		"prefix": "win",
+		"id": "332955fc-9af2-4b0d-986f-b20d60b6ed38",
+		"replacedBy": [
+			"5216efc4-5a6e-4dab-bfb8-61680f0b45eb"
+		],
+		"types": [
+			"vakleergebied"
+		]
 	}
 ]
