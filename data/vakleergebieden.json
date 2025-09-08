@@ -695,12 +695,16 @@
 	},
 	{
 		"niveau_id": [
-			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"id": "6388017e-b067-474b-b6ed-17fddd7e7fda",
 		"prefix": "ngt",
 		"title": "Nederlandse gebarentaal",
-		"description": ""
+		"description": "Nederlandse gebarentaal",
+		"dirty": true
 	},
 	{
 		"niveau_id": [
@@ -1015,6 +1019,12 @@
 		"description": "",
 		"replaces": [
 			"782220bf-4155-4090-b218-c6957a14f963"
+		],
+		"dirty": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
