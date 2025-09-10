@@ -703,8 +703,7 @@
 		"id": "6388017e-b067-474b-b6ed-17fddd7e7fda",
 		"prefix": "ngt",
 		"title": "Nederlandse gebarentaal",
-		"description": "Nederlandse gebarentaal",
-		"dirty": true
+		"description": "Nederlandse gebarentaal"
 	},
 	{
 		"niveau_id": [
@@ -784,8 +783,7 @@
 		],
 		"replaces": [
 			"96b622d6-264d-4f7a-9875-681ded824e21"
-		],
-		"dirty": true
+		]
 	},
 	{
 		"id": "682218a8-0e89-4d4c-938c-36629a474e7c",
@@ -1020,7 +1018,6 @@
 		"replaces": [
 			"782220bf-4155-4090-b218-c6957a14f963"
 		],
-		"dirty": true,
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"64852857-b601-419f-9cbb-e1335a185303",
@@ -1134,28 +1131,24 @@
 		]
 	},
 	{
-		"dirty": true,
 		"title": "Wiskunde 1",
 		"description": "Wiskunde 1",
 		"prefix": "wi1",
 		"id": "b1d19e12-ce22-47ef-92c0-21fe649f21ce"
 	},
 	{
-		"dirty": true,
 		"title": "Wiskunde 1,2",
 		"description": "Wiskunde 1,2",
 		"prefix": "wi1,2",
 		"id": "bfedf46b-bb0b-4240-9168-ac9d8ca8e0bd"
 	},
 	{
-		"dirty": true,
 		"title": "wiskunde maatschappij",
 		"description": "wiskunde maatschappij",
 		"prefix": "wim",
 		"id": "28ed9ea0-9504-44d1-8953-0bf4679d29e8"
 	},
 	{
-		"dirty": true,
 		"title": "wiskunde natuur",
 		"description": "wiskunde natuur",
 		"prefix": "win",
