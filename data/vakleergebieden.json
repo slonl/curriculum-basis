@@ -120,7 +120,19 @@
 		"title": "Duits",
 		"description": "vakleergebied",
 		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"dirty": true
@@ -172,7 +184,19 @@
 		"title": "Frans",
 		"description": "vakleergebied",
 		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"dirty": true
@@ -524,7 +548,19 @@
 		"title": "Spaans",
 		"description": "vakleergebied",
 		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"dirty": true
@@ -652,6 +688,8 @@
 	},
 	{
 		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
@@ -879,6 +917,7 @@
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
 			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
@@ -1064,25 +1103,14 @@
 		"title": "Burgerschap",
 		"prefix": "bu",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"8450c011-f812-4f89-97a9-6b8820baffc5",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5",
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"d6f1bbf7-c1a6-4431-bcbd-f33126d851ef",
-			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"bdc4744f-79df-4795-8795-2fee50c7416a",
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"id": "a7bd6d47-9885-48f8-accf-5038b827a41d",
 		"dirty": true,
