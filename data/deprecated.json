@@ -446761,5 +446761,141 @@
 		"types": [
 			"vakleergebied"
 		]
+	},
+	{
+		"id": "91e9afb9-a8ab-4fde-aa97-9884a8920b78",
+		"prefix": "du",
+		"title": "Duits",
+		"description": "",
+		"niveau_id": [
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
+		],
+		"replacedBy": [
+			"5071f7ff-2a5b-4a5f-85ff-519bacbbdc63"
+		],
+		"types": [
+			"vakleergebied"
+		]
+	},
+	{
+		"id": "f851676e-b541-42db-986a-5c468974f65e",
+		"prefix": "fa",
+		"title": "Frans",
+		"description": "",
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"cc10a2e8-d7d2-47a2-a6c6-90791632f005"
+		],
+		"types": [
+			"vakleergebied"
+		]
+	},
+	{
+		"prefix": "mvt",
+		"id": "11aef2d5-ae09-49c8-9485-e7b93e3f9fda",
+		"title": "MVT",
+		"replacedBy": [
+			"58f0302b-b467-4935-abe7-99d8275bb667"
+		],
+		"types": [
+			"vakleergebied"
+		]
+	},
+	{
+		"id": "73abc618-988a-4409-b2ae-ff16febf68ee",
+		"prefix": "sp",
+		"title": "Spaans",
+		"description": "",
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"fc1b48ea-a138-4288-b02c-a49da30182aa"
+		],
+		"types": [
+			"vakleergebied"
+		]
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "d1797e77-8eb0-4ebd-83f7-f95c7f46fcd7",
+		"prefix": "it",
+		"title": "Italiaans",
+		"description": "",
+		"replacedBy": [
+			"5dbebaf2-809d-43ea-b65f-a3d1f67bb31c"
+		],
+		"types": [
+			"vakleergebied"
+		]
+	},
+	{
+		"id": "6e29642b-d99d-4085-8dc5-971cabb6b693",
+		"prefix": "fr",
+		"title": "Fries",
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"35ca5594-679e-4c7b-a178-88322dce8971",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		],
+		"replaces": [
+			"eaabd632-abdd-499d-9d72-cdfaa4bff2eb"
+		],
+		"replacedBy": [
+			"7970397c-0fd4-45ac-a6ef-4a2c4a66901d"
+		],
+		"types": [
+			"vakleergebied"
+		]
 	}
 ]
