@@ -1050,7 +1050,11 @@
 		"title": "wiskunde maatschappij",
 		"description": "wiskunde maatschappij",
 		"prefix": "wim",
-		"id": "28ed9ea0-9504-44d1-8953-0bf4679d29e8"
+		"id": "28ed9ea0-9504-44d1-8953-0bf4679d29e8",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"title": "wiskunde natuur",
@@ -1189,6 +1193,28 @@
 		"replaces": [
 			"eaabd632-abdd-499d-9d72-cdfaa4bff2eb",
 			"6e29642b-d99d-4085-8dc5-971cabb6b693"
+		]
+	},
+	{
+		"title": "praktijkgericht programma Maatschappij klein",
+		"id": "e525b07e-221e-4baf-8ef5-5780beaee46c"
+	},
+	{
+		"title": "praktijkgericht programma Maatschappij groot",
+		"id": "905e78d1-1a1b-41c1-8cfb-967c0387749c"
+	},
+	{
+		"title": "praktijkgericht programma Technologie klein",
+		"id": "d9d2b01d-42a1-40ae-924a-6903772140a4",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "praktijkgericht programma Technologie groot",
+		"id": "b1d54a35-c7ea-4c1b-8e60-5efc92989724",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
 	}
 ]
