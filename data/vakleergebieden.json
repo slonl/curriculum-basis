@@ -491,7 +491,7 @@
 	},
 	{
 		"id": "107fbf5f-475d-40b9-a9bc-08c9b6e38182",
-		"prefix": "thtex",
+		"prefix": "tek",
 		"title": "Tekenen",
 		"description": "",
 		"niveau_id": [
@@ -577,7 +577,7 @@
 		"description": "",
 		"title": "Chinees",
 		"niveau_id": [
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
@@ -919,9 +919,12 @@
 			"782220bf-4155-4090-b218-c6957a14f963"
 		],
 		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -931,6 +934,14 @@
 		"description": "",
 		"replaces": [
 			"20d46f17-c61f-4677-a2c9-0f2fc7512ed4"
+		],
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -940,6 +951,10 @@
 		"description": "",
 		"replaces": [
 			"6b89b236-42ae-429f-bc33-422e12b53cb1"
+		],
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -953,7 +968,7 @@
 	},
 	{
 		"id": "fc7c0b12-f6ae-4643-9a95-7c91bf898423",
-		"prefix": "THTex",
+		"prefix": "ha",
 		"title": "Handvaardigheid",
 		"description": "",
 		"replaces": [
@@ -962,7 +977,7 @@
 	},
 	{
 		"id": "b036fa12-ab9c-4469-a346-c4e09dc0bf6d",
-		"prefix": "THTex",
+		"prefix": "tex",
 		"title": "Textiele vormgeving",
 		"description": "",
 		"replaces": [
@@ -997,7 +1012,8 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"id": "f4f696a2-ddce-4d69-a2bd-6531128f0933"
+		"id": "f4f696a2-ddce-4d69-a2bd-6531128f0933",
+		"prefix": "TenT"
 	},
 	{
 		"title": "Techniek en Innovatief Vakmanschap",
@@ -1005,7 +1021,8 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"id": "df786965-9169-4623-ad9a-e574f8dbcbeb"
+		"id": "df786965-9169-4623-ad9a-e574f8dbcbeb",
+		"prefix": "TenIV"
 	},
 	{
 		"niveau_id": [
@@ -1035,16 +1052,16 @@
 		]
 	},
 	{
-		"title": "Wiskunde 1",
-		"description": "Wiskunde 1",
-		"prefix": "wi1",
-		"id": "b1d19e12-ce22-47ef-92c0-21fe649f21ce"
-	},
-	{
-		"title": "Wiskunde 1,2",
-		"description": "Wiskunde 1,2",
-		"prefix": "wi1,2",
-		"id": "bfedf46b-bb0b-4240-9168-ac9d8ca8e0bd"
+		"title": "gecijferdheid",
+		"description": "",
+		"prefix": "cij",
+		"id": "b1d19e12-ce22-47ef-92c0-21fe649f21ce",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"title": "wiskunde maatschappij",
@@ -1060,7 +1077,11 @@
 		"title": "wiskunde natuur",
 		"description": "wiskunde natuur",
 		"prefix": "win",
-		"id": "332955fc-9af2-4b0d-986f-b20d60b6ed38"
+		"id": "332955fc-9af2-4b0d-986f-b20d60b6ed38",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"id": "5071f7ff-2a5b-4a5f-85ff-519bacbbdc63",
@@ -1129,22 +1150,13 @@
 		"id": "fc1b48ea-a138-4288-b02c-a49da30182aa",
 		"prefix": "sp",
 		"title": "Spaans",
-		"description": "vakleergebied",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"8450c011-f812-4f89-97a9-6b8820baffc5",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"replaces": [
 			"73abc618-988a-4409-b2ae-ff16febf68ee"
@@ -1153,14 +1165,11 @@
 	{
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"id": "5dbebaf2-809d-43ea-b65f-a3d1f67bb31c",
-		"prefix": "it",
+		"prefix": "ita",
 		"title": "Italiaans",
-		"description": "vakleergebied",
 		"replaces": [
 			"d1797e77-8eb0-4ebd-83f7-f95c7f46fcd7"
 		]
@@ -1197,24 +1206,34 @@
 	},
 	{
 		"title": "praktijkgericht programma Maatschappij klein",
-		"id": "e525b07e-221e-4baf-8ef5-5780beaee46c"
+		"id": "e525b07e-221e-4baf-8ef5-5780beaee46c",
+		"prefix": "pgpmk",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"title": "praktijkgericht programma Maatschappij groot",
-		"id": "905e78d1-1a1b-41c1-8cfb-967c0387749c"
+		"id": "905e78d1-1a1b-41c1-8cfb-967c0387749c",
+		"prefix": "pgpmg",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"title": "praktijkgericht programma Technologie klein",
 		"id": "d9d2b01d-42a1-40ae-924a-6903772140a4",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
+		],
+		"prefix": "pgptk"
 	},
 	{
 		"title": "praktijkgericht programma Technologie groot",
 		"id": "b1d54a35-c7ea-4c1b-8e60-5efc92989724",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
+		],
+		"prefix": "pgptg"
 	}
 ]
