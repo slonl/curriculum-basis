@@ -117,8 +117,7 @@
 		"description": "onderbouw vmbo bewegen en sport basisniveau",
 		"id": "b5437183-0c54-4020-bf47-34b83a2ee511",
 		"title": "ob vmbo basis",
-		"prefix": "3109",
-		"deleted": 1
+		"prefix": "3109"
 	},
 	{
 		"description": "onderbouw vmbo basisberoeps leerweg",
@@ -130,8 +129,7 @@
 		"description": "onderbouw vmbo bewegen en sport gevorderd niveau",
 		"id": "553479de-32ba-42b2-a8e7-5ceb19caac42",
 		"title": "ob vmbo gevorderd",
-		"prefix": "3111",
-		"deleted": 1
+		"prefix": "3111"
 	},
 	{
 		"description": "onderbouw vmbo gemengde leerweg",
@@ -155,8 +153,7 @@
 		"description": "onderbouw vmbo bewegen en sport vervolgniveau",
 		"id": "b572a7ee-82de-4a63-a2a3-34423eb6bbe2",
 		"title": "ob vmbo vervolg",
-		"prefix": "3110",
-		"deleted": 1
+		"prefix": "3110"
 	},
 	{
 		"description": "speciaal onderwijs normaal lerend/moeilijk lerend",
@@ -564,43 +561,37 @@
 		"description": "Onderbouw havo bewegen en sport basisniveau",
 		"id": "c8621962-12ec-4792-b8e9-604cb2e74d07",
 		"title": "ob havo basis",
-		"prefix": "4113",
-		"deleted": 1
+		"prefix": "4113"
 	},
 	{
 		"description": "Onderbouw vwo bewegen en sport basisniveau",
 		"id": "a1928e1b-3780-4307-8e12-e01b0830ec18",
 		"title": "ob vwo basis",
-		"prefix": "4113",
-		"deleted": 1
+		"prefix": "4113"
 	},
 	{
 		"description": "Onderbouw havo bewegen en sport gevorderd niveau",
 		"id": "a526db51-0477-4acb-b86c-a4e627312bbe",
 		"title": "ob havo gevorderd",
-		"prefix": "4116",
-		"deleted": 1
+		"prefix": "4116"
 	},
 	{
 		"description": "Onderbouw vwo bewegen en sport gevorderd niveau",
 		"id": "51f66470-1156-4dc6-ba29-f92b08a67ce9",
 		"title": "ob vwo gevorderd",
-		"prefix": "4116",
-		"deleted": 1
+		"prefix": "4116"
 	},
 	{
 		"description": "Onderbouw havo bewegen en sport vervolgniveau",
 		"id": "81552702-cb71-440e-b26c-8015993196d7",
 		"title": "ob havo vervolg",
-		"prefix": "4114",
-		"deleted": 1
+		"prefix": "4114"
 	},
 	{
 		"description": "Onderbouw vwo bewegen en sport vervolgniveau",
 		"id": "0d70a7c4-3184-460b-b1a0-b6d7dae24bb1",
 		"title": "ob vwo vervolg",
-		"prefix": "4114",
-		"deleted": 1
+		"prefix": "4114"
 	},
 	{
 		"id": "35715b0c-ad0c-46ab-ab1a-1387bb046486",

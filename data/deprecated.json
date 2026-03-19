@@ -446897,5 +446897,15 @@
 		"types": [
 			"vakleergebied"
 		]
+	},
+	{
+		"title": "Wiskunde 1,2",
+		"description": "Wiskunde 1,2",
+		"prefix": "wi1,2",
+		"id": "bfedf46b-bb0b-4240-9168-ac9d8ca8e0bd",
+		"replacedBy": [],
+		"types": [
+			"vakleergebied"
+		]
 	}
 ]
