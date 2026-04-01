@@ -385,25 +385,25 @@
 	},
 	{
 		"title": "vmbo kb, 1",
-		"description": "vmbo kaderberoepsgerichte leerweg,  leerjaar 1",
+		"description": "vmbo kaderberoepsgerichte leerweg, leerjaar 1",
 		"id": "12e85a55-b3ae-4e7f-a2a0-d645f4c573bf",
 		"prefix": "3009"
 	},
 	{
 		"title": "vmbo kb, 2",
-		"description": "vmbo kaderberoepsgerichte leerweg,  leerjaar 2",
+		"description": "vmbo kaderberoepsgerichte leerweg, leerjaar 2",
 		"id": "30ce6ff5-d654-4a97-a6d4-9c8936f87ca6",
 		"prefix": "3010"
 	},
 	{
 		"title": "vmbo kb, 3",
-		"description": "vmbo kaderberoepsgerichte leerweg,  leerjaar 3",
+		"description": "vmbo kaderberoepsgerichte leerweg, leerjaar 3",
 		"id": "f61c889e-4731-4321-802d-c7e86081499c",
 		"prefix": "3011"
 	},
 	{
 		"title": "vmbo kb, 4",
-		"description": "vmbo kaderberoepsgerichte leerweg,  leerjaar 4",
+		"description": "vmbo kaderberoepsgerichte leerweg, leerjaar 4",
 		"id": "e72dacdd-968b-40ac-ad2c-8bd14c24e89f",
 		"prefix": "3012"
 	},
@@ -457,84 +457,84 @@
 	},
 	{
 		"title": "vwo, 1",
-		"description": "Voorbereidend wetenschappelijk onderwijs, leerjaar  1",
+		"description": "Voorbereidend wetenschappelijk onderwijs, leerjaar 1",
 		"id": "ac188375-0a1a-4984-ac80-14d04a086a19",
 		"prefix": "4501"
 	},
 	{
 		"title": "vwo, 2",
-		"description": "Voorbereidend wetenschappelijk onderwijs, leerjaar  2",
+		"description": "Voorbereidend wetenschappelijk onderwijs, leerjaar 2",
 		"id": "17da6976-2f1b-4214-a471-168f469d7e04",
 		"prefix": "4502"
 	},
 	{
 		"title": "vwo, 3",
-		"description": "Voorbereidend wetenschappelijk onderwijs, leerjaar  3",
+		"description": "Voorbereidend wetenschappelijk onderwijs, leerjaar 3",
 		"id": "b924d4ad-65a1-41dc-b704-c7786eb4aec0",
 		"prefix": "4503"
 	},
 	{
 		"title": "vwo, 4",
-		"description": "Voorbereidend wetenschappelijk onderwijs, leerjaar  4",
+		"description": "Voorbereidend wetenschappelijk onderwijs, leerjaar 4",
 		"id": "e2026706-0829-4a4c-b726-9409b6f407e1",
 		"prefix": "4504"
 	},
 	{
 		"title": "vwo, 5",
-		"description": "Voorbereidend wetenschappelijk onderwijs, leerjaar  5",
+		"description": "Voorbereidend wetenschappelijk onderwijs, leerjaar 5",
 		"id": "f2513775-3d54-423b-803b-15e06a8c89a8",
 		"prefix": "4505"
 	},
 	{
 		"title": "vwo, 6",
-		"description": "Voorbereidend wetenschappelijk onderwijs, leerjaar  6",
+		"description": "Voorbereidend wetenschappelijk onderwijs, leerjaar 6",
 		"id": "85d15c83-e2b4-4359-8475-a355591aaa1a",
 		"prefix": "4506"
 	},
 	{
-		"description": "Referentiekader taal en rekenen,  fundamenteel niveau 1",
+		"description": "Referentiekader taal en rekenen, fundamenteel niveau 1",
 		"id": "d5f99b58-31be-4ffc-89f4-9d7c65526879",
 		"prefix": "7001",
 		"title": "1F"
 	},
 	{
-		"description": "Referentiekader taal en rekenen,  streefniveau 1",
+		"description": "Referentiekader taal en rekenen, streefniveau 1",
 		"id": "86d05d5a-8dfa-422b-820c-50019985426d",
 		"prefix": "7002",
 		"title": "1S"
 	},
 	{
-		"description": "Referentiekader taal en rekenen,  fundamenteel niveau 2",
+		"description": "Referentiekader taal en rekenen, fundamenteel niveau 2",
 		"id": "5eac0434-a6fc-4499-9710-3d6b800973a3",
 		"prefix": "7003",
 		"title": "2F"
 	},
 	{
-		"description": "Referentiekader taal en rekenen,  streefniveau 2",
+		"description": "Referentiekader taal en rekenen, streefniveau 2",
 		"id": "fadc20aa-082e-4e80-8a83-830c4006f236",
 		"prefix": "7004",
 		"title": "2S"
 	},
 	{
-		"description": "Referentiekader taal en rekenen,  fundamenteel niveau 3",
+		"description": "Referentiekader taal en rekenen, fundamenteel niveau 3",
 		"id": "f1d56c9e-373a-4051-9ce9-81a01b812de7",
 		"prefix": "7005",
 		"title": "3F"
 	},
 	{
-		"description": "Referentiekader taal en rekenen,  streefniveau 3",
+		"description": "Referentiekader taal en rekenen, streefniveau 3",
 		"id": "2be1fbb4-d46f-44f8-9aff-d2bbf5108a18",
 		"prefix": "7006",
 		"title": "3S"
 	},
 	{
-		"description": "Referentiekader taal en rekenen,  fundamenteel niveau 4",
+		"description": "Referentiekader taal en rekenen, fundamenteel niveau 4",
 		"id": "5ec6d733-a3b2-46db-9d42-72b4be4f7750",
 		"prefix": "7007",
 		"title": "4F"
 	},
 	{
-		"description": "Referentiekader taal en rekenen,  streefniveau 4",
+		"description": "Referentiekader taal en rekenen, streefniveau 4",
 		"id": "7bae4f16-ed94-4739-9d42-d0842dee7c90",
 		"prefix": "7008",
 		"title": "4S"
