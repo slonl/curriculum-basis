@@ -3,7 +3,7 @@ jobs:
   build:
     working_directory: ~/mern-starter
     docker:
-      - image: cimg/node:20.7
+      - image: cimg/node:22.22
     steps:
       - checkout
       - run: git submodule sync
