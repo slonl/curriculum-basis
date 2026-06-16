@@ -1,170 +1,9 @@
 [
 	{
-		"description": "voortgezet onderwijs",
-		"id": "2a1401e9-c223-493b-9b86-78f6993b1a8d",
-		"title": "vo",
-		"prefix": "2000",
-		"type": ""
-	},
-	{
-		"description": "voorbereidend middelbaar beroepsonderwijs",
-		"id": "c7942bb1-bf4f-409f-bc98-9a0b02f175dc",
-		"title": "vmbo",
-		"prefix": "3000",
-		"type": ""
-	},
-	{
-		"description": "voor- en vroegschoolse educatie",
-		"id": "15d693b8-fbe1-4112-8135-4a20aba5101c",
-		"title": "vve",
-		"prefix": "0500",
-		"type": ""
-	},
-	{
-		"description": "hoger algemeen voortgezet onderwijs",
-		"id": "a3ddbe60-8478-4204-b769-6f5e9f4cbca2",
-		"prefix": "4200",
-		"title": "havo",
-		"type": ""
-	},
-	{
-		"description": "praktijkonderwijs",
-		"id": "d6f1bbf7-c1a6-4431-bcbd-f33126d851ef",
-		"prefix": "1750",
-		"title": "pro",
-		"type": ""
-	},
-	{
-		"description": "primair onderwijs",
-		"id": "512e4729-03a4-43a2-95ba-758071d1b725",
-		"title": "po",
-		"prefix": "1000",
-		"type": ""
-	},
-	{
-		"description": "voorbereidend wetenschappelijk onderwijs",
-		"id": "ad9872e5-edc4-4a62-9ee7-ba7daceba2e0",
-		"prefix": "4500",
-		"title": "vwo",
-		"type": ""
-	},
-	{
-		"description": "bovenbouw havo: leerjaar 4, leerjaar 5",
-		"id": "6dc8e1f2-a929-418f-b4e5-6be1204639da",
-		"title": "bb havo",
-		"prefix": "4600",
-		"type": ""
-	},
-	{
-		"description": "bovenbouw vmbo: leerjaar 3, leerjaar 4",
-		"id": "aced88e1-bb12-42f9-88df-16d7abfda57e",
-		"title": "bb vmbo",
-		"prefix": "3500",
-		"type": ""
-	},
-	{
-		"description": "bovenbouw vwo: leerjaar 4, leerjaar 5, leerjaar 6",
-		"id": "caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
-		"title": "bb vwo",
-		"prefix": "4700",
-		"type": ""
-	},
-	{
-		"description": "onderbouw havo: leerjaar 1, leerjaar 2, leerjaar 3",
-		"id": "5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-		"title": "ob havo",
-		"prefix": "4107",
-		"type": ""
-	},
-	{
-		"description": "onderbouw vmbo: leerjaar 1, leerjaar 2",
-		"id": "c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-		"title": "ob vmbo",
-		"prefix": "3100",
-		"type": ""
-	},
-	{
-		"description": "onderbouw vwo: leerjaar 1, leerjaar 2, leerjaar 3",
-		"id": "b5a4f104-fb2d-4c71-8f36-702d9567a752",
-		"title": "ob vwo",
-		"prefix": "4150",
-		"type": ""
-	},
-	{
 		"description": "speciaal onderwijs",
 		"id": "e7f1c08f-08fb-48ab-be8e-c131b1bce54a",
 		"title": "so",
 		"prefix": "0000",
-		"type": ""
-	},
-	{
-		"description": "voortgezet speciaal onderwijs",
-		"id": "dbbc3e87-a848-4425-912a-d494e43e5e59",
-		"title": "vso",
-		"prefix": "1550",
-		"type": ""
-	},
-	{
-		"description": "bovenbouw vmbo beroepsgerichte leerweg",
-		"id": "861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-		"title": "bb vmbo bb",
-		"prefix": "3501",
-		"type": ""
-	},
-	{
-		"description": "bovenbouw vmbo gemengde leerweg",
-		"id": "64852857-b601-419f-9cbb-e1335a185303",
-		"title": "bb vmbo gl",
-		"prefix": "3503",
-		"type": ""
-	},
-	{
-		"description": "bovenbouw vmbo kaderberoeps leerweg",
-		"id": "8574855d-0670-42bf-9f73-dc6706278b8b",
-		"title": "bb vmbo kb",
-		"prefix": "3502",
-		"type": ""
-	},
-	{
-		"description": "bovenbouw vmbo theoretische leerweg",
-		"id": "8450c011-f812-4f89-97a9-6b8820baffc5",
-		"title": "bb vmbo tl",
-		"prefix": "3504",
-		"type": ""
-	},
-	{
-		"description": "onderbouw vmbo basisberoeps leerweg",
-		"id": "50d3e467-28c8-4c42-a0fe-e0000819ba39",
-		"title": "ob vmbo bb",
-		"prefix": "3101",
-		"type": ""
-	},
-	{
-		"description": "onderbouw vmbo gemengde leerweg",
-		"id": "01aede69-edcd-4352-97e8-e16cb5d0015e",
-		"title": "ob vmbo gl",
-		"prefix": "3103",
-		"type": ""
-	},
-	{
-		"description": "onderbouw vmbo kaderberoeps leerweg",
-		"id": "2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
-		"title": "ob vmbo kb",
-		"prefix": "3102",
-		"type": ""
-	},
-	{
-		"description": "onderbouw vmbo theoretische leerweg ",
-		"id": "c63858da-23e4-4e1e-8456-b4aa13a6a826",
-		"title": "ob vmbo tl",
-		"prefix": "3104",
-		"type": ""
-	},
-	{
-		"description": "speciaal onderwijs normaal lerend/moeilijk lerend",
-		"id": "f9b25c20-9017-425b-8d3c-360ab6b5c222",
-		"title": "so nl/ml",
-		"prefix": "0002",
 		"type": ""
 	},
 	{
@@ -175,165 +14,25 @@
 		"type": ""
 	},
 	{
-		"description": "voortgezet speciaal onderwijs arbeidsmarkt",
-		"id": "bdc4744f-79df-4795-8795-2fee50c7416a",
-		"title": "vso am",
-		"prefix": "1552",
+		"description": "speciaal onderwijs normaal lerend/moeilijk lerend",
+		"id": "f9b25c20-9017-425b-8d3c-360ab6b5c222",
+		"title": "so nl/ml",
+		"prefix": "0002",
 		"type": ""
 	},
 	{
-		"description": "voortgezet speciaal onderwijs dagbesteding",
-		"id": "d617dd33-ec39-479f-ac9f-4ab219cab54d",
-		"title": "vso db",
-		"prefix": "1551",
+		"description": "voor- en vroegschoolse educatie",
+		"id": "15d693b8-fbe1-4112-8135-4a20aba5101c",
+		"title": "vve",
+		"prefix": "0500",
 		"type": ""
 	},
 	{
-		"description": "voortgezet speciaal onderwijs vervolgonderwijs",
-		"id": "35ca5594-679e-4c7b-a178-88322dce8971",
-		"title": "vso vo",
-		"prefix": "1553",
+		"description": "primair onderwijs",
+		"id": "512e4729-03a4-43a2-95ba-758071d1b725",
+		"title": "po",
+		"prefix": "1000",
 		"type": ""
-	},
-	{
-		"description": "europees referentiekader A1 moderne vreemde talen",
-		"id": "ebf1cc90-05cb-4976-9561-dfb2041ca264",
-		"prefix": "7102",
-		"title": "A1",
-		"type": ""
-	},
-	{
-		"description": "europees referentiekader A2 moderne vreemde talen",
-		"id": "1d5d9624-055f-42ed-bc39-06b183ecb40b",
-		"prefix": "7103",
-		"title": "A2",
-		"type": ""
-	},
-	{
-		"description": "europees referentiekader B1 moderne vreemde talen",
-		"id": "a94b005d-9697-49f6-897a-0ad6516044f9",
-		"prefix": "7105",
-		"title": "B1",
-		"type": ""
-	},
-	{
-		"description": "europees referentiekader B2 moderne vreemde talen",
-		"id": "f7920461-e732-4767-b855-87783a05c76a",
-		"prefix": "7107",
-		"title": "B2",
-		"type": ""
-	},
-	{
-		"description": "europees referentiekader C1 moderne vreemde talen",
-		"id": "50fd5672-94d8-4445-b988-bb198f5515f4",
-		"prefix": "7109",
-		"title": "C1",
-		"type": ""
-	},
-	{
-		"description": "europees referentiekader C2 moderne vreemde talen",
-		"id": "2208c586-9043-47c1-b66b-536a50577725",
-		"prefix": "7110",
-		"title": "C2",
-		"type": ""
-	},
-	{
-		"description": "fase 1: onderbouw primair onderwijs groep 1, groep 2, groep 3",
-		"id": "0a3d23df-1758-439b-b219-cd2854cc639b",
-		"title": "fase 1",
-		"prefix": "1200",
-		"type": ""
-	},
-	{
-		"description": "fase 2: middenbouw primair onderwijs: groep 4, groep 5, groep 6",
-		"id": "5edad2fa-2cf0-4701-93d9-97edbe06ac02",
-		"title": "fase 2",
-		"prefix": "1202",
-		"type": ""
-	},
-	{
-		"description": "fase 3: bovenbouw primair onderwijs: groep 7, groep 8",
-		"id": "fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
-		"title": "fase 3",
-		"prefix": "1204",
-		"type": ""
-	},
-	{
-		"description": "fase 4: onderbouw voortgezet onderwijs: klas 1, klas 2",
-		"id": "f77f2837-0c13-42bb-bc5a-1f6286ccfa7e",
-		"title": "fase 4",
-		"prefix": "1206",
-		"type": ""
-	},
-	{
-		"description": "fase 5: bovenbouw voortgezet onderwijs: klas 3, klas 4, klas 5, klas 6",
-		"id": "0d10e2d9-c069-4bab-907e-03050936984e",
-		"title": "fase 5",
-		"prefix": "1208",
-		"type": ""
-	},
-	{
-		"description": "primair onderwijs, groep 1-2",
-		"id": "e222c093-f0c6-4895-9dfb-c08eafb27aef",
-		"title": "groep 1-2",
-		"prefix": "1201",
-		"type": ""
-	},
-	{
-		"description": "primair onderwijs, groep 3-4",
-		"id": "e0d54104-4bbc-4e6a-9c53-114f0af56027",
-		"title": "groep 3-4",
-		"prefix": "1203",
-		"type": ""
-	},
-	{
-		"description": "primair onderwijs, groep 5-6",
-		"id": "a719649f-03ca-48cf-b689-252b109de32c",
-		"title": "groep 5-6",
-		"prefix": "1205",
-		"type": ""
-	},
-	{
-		"description": "primair onderwijs, groep 7-8",
-		"id": "457f3ac7-522b-41f4-b2c7-6f4c2d891faf",
-		"title": "groep 7-8",
-		"prefix": "1207",
-		"type": ""
-	},
-	{
-		"description": "havo, leerjaar 1",
-		"id": "78f5cabe-6649-4dc3-84bf-36d82c6c2d31",
-		"prefix": "4201",
-		"title": "havo 1",
-		"type": "leerjaar"
-	},
-	{
-		"description": "havo, leerjaar 2",
-		"id": "eaa0c07f-193e-4be5-8dc6-a00bbfc7a446",
-		"prefix": "4202",
-		"title": "havo 2",
-		"type": "leerjaar"
-	},
-	{
-		"description": "havo, leerjaar 3",
-		"id": "af3ecd88-a654-4458-9c5b-1e1f7d09f463",
-		"prefix": "4203",
-		"title": "havo 3",
-		"type": "leerjaar"
-	},
-	{
-		"description": "havo, leerjaar 4",
-		"id": "70af3752-c6ad-43d9-aa0c-9ff099931f8a",
-		"prefix": "4204",
-		"title": "havo 4",
-		"type": "leerjaar"
-	},
-	{
-		"description": "havo, leerjaar 5",
-		"id": "cb61531d-61eb-4412-a52f-ca065ca37e39",
-		"prefix": "4205",
-		"title": "havo 5",
-		"type": "leerjaar"
 	},
 	{
 		"description": "primair onderwijs, groep 1",
@@ -390,6 +89,118 @@
 		"title": "groep 8",
 		"prefix": "1008",
 		"type": "leerjaar"
+	},
+	{
+		"description": "fase 1: onderbouw primair onderwijs groep 1, groep 2, groep 3",
+		"id": "0a3d23df-1758-439b-b219-cd2854cc639b",
+		"title": "fase 1",
+		"prefix": "1200",
+		"type": ""
+	},
+	{
+		"description": "primair onderwijs, groep 1-2",
+		"id": "e222c093-f0c6-4895-9dfb-c08eafb27aef",
+		"title": "groep 1-2",
+		"prefix": "1201",
+		"type": ""
+	},
+	{
+		"description": "fase 2: middenbouw primair onderwijs: groep 4, groep 5, groep 6",
+		"id": "5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+		"title": "fase 2",
+		"prefix": "1202",
+		"type": ""
+	},
+	{
+		"description": "primair onderwijs, groep 3-4",
+		"id": "e0d54104-4bbc-4e6a-9c53-114f0af56027",
+		"title": "groep 3-4",
+		"prefix": "1203",
+		"type": ""
+	},
+	{
+		"description": "fase 3: bovenbouw primair onderwijs: groep 7, groep 8",
+		"id": "fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+		"title": "fase 3",
+		"prefix": "1204",
+		"type": ""
+	},
+	{
+		"description": "primair onderwijs, groep 5-6",
+		"id": "a719649f-03ca-48cf-b689-252b109de32c",
+		"title": "groep 5-6",
+		"prefix": "1205",
+		"type": ""
+	},
+	{
+		"description": "fase 4: onderbouw voortgezet onderwijs: klas 1, klas 2",
+		"id": "f77f2837-0c13-42bb-bc5a-1f6286ccfa7e",
+		"title": "fase 4",
+		"prefix": "1206",
+		"type": ""
+	},
+	{
+		"description": "primair onderwijs, groep 7-8",
+		"id": "457f3ac7-522b-41f4-b2c7-6f4c2d891faf",
+		"title": "groep 7-8",
+		"prefix": "1207",
+		"type": ""
+	},
+	{
+		"description": "fase 5: bovenbouw voortgezet onderwijs: klas 3, klas 4, klas 5, klas 6",
+		"id": "0d10e2d9-c069-4bab-907e-03050936984e",
+		"title": "fase 5",
+		"prefix": "1208",
+		"type": ""
+	},
+	{
+		"description": "voortgezet speciaal onderwijs",
+		"id": "dbbc3e87-a848-4425-912a-d494e43e5e59",
+		"title": "vso",
+		"prefix": "1550",
+		"type": ""
+	},
+	{
+		"description": "voortgezet speciaal onderwijs dagbesteding",
+		"id": "d617dd33-ec39-479f-ac9f-4ab219cab54d",
+		"title": "vso db",
+		"prefix": "1551",
+		"type": ""
+	},
+	{
+		"description": "voortgezet speciaal onderwijs arbeidsmarkt",
+		"id": "bdc4744f-79df-4795-8795-2fee50c7416a",
+		"title": "vso am",
+		"prefix": "1552",
+		"type": ""
+	},
+	{
+		"description": "voortgezet speciaal onderwijs vervolgonderwijs",
+		"id": "35ca5594-679e-4c7b-a178-88322dce8971",
+		"title": "vso vo",
+		"prefix": "1553",
+		"type": ""
+	},
+	{
+		"description": "praktijkonderwijs",
+		"id": "d6f1bbf7-c1a6-4431-bcbd-f33126d851ef",
+		"prefix": "1750",
+		"title": "pro",
+		"type": ""
+	},
+	{
+		"description": "voortgezet onderwijs",
+		"id": "2a1401e9-c223-493b-9b86-78f6993b1a8d",
+		"title": "vo",
+		"prefix": "2000",
+		"type": ""
+	},
+	{
+		"description": "voorbereidend middelbaar beroepsonderwijs",
+		"id": "c7942bb1-bf4f-409f-bc98-9a0b02f175dc",
+		"title": "vmbo",
+		"prefix": "3000",
+		"type": ""
 	},
 	{
 		"id": "8da0ce4d-daab-40ea-93f7-bb6e8e1a31c3",
@@ -504,31 +315,150 @@
 		"type": "leerjaar"
 	},
 	{
-		"title": "volwasseneneducatie niveau 1",
-		"description": "volwasseneneducatie, niveau 1",
-		"id": "6219cc2d-2545-4893-84a0-30395794f2f4",
-		"prefix": "5001",
+		"description": "onderbouw vmbo: leerjaar 1, leerjaar 2",
+		"id": "c2ad90a9-30fb-49f2-89c2-bd269b60a784",
+		"title": "ob vmbo",
+		"prefix": "3100",
 		"type": ""
 	},
 	{
-		"title": "volwasseneneducatie niveau 2",
-		"description": "volwasseneneducatie, niveau 2",
-		"id": "e0a398b0-838b-409e-807a-f0f587dfd7c7",
-		"prefix": "5002",
+		"description": "onderbouw vmbo basisberoeps leerweg",
+		"id": "50d3e467-28c8-4c42-a0fe-e0000819ba39",
+		"title": "ob vmbo bb",
+		"prefix": "3101",
 		"type": ""
 	},
 	{
-		"title": "volwasseneneducatie niveau 3",
-		"description": "volwasseneneducatie, niveau 3",
-		"id": "de5e9d28-7c80-4167-8d34-74520a55c27d",
-		"prefix": "5003",
+		"description": "onderbouw vmbo kaderberoeps leerweg",
+		"id": "2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+		"title": "ob vmbo kb",
+		"prefix": "3102",
 		"type": ""
 	},
 	{
-		"title": "volwasseneneducatie niveau 4",
-		"description": "volwasseneneducatie, niveau 4",
-		"id": "655a4e1f-c9cf-464b-868e-f8aa2c813b89",
-		"prefix": "5004",
+		"description": "onderbouw vmbo gemengde leerweg",
+		"id": "01aede69-edcd-4352-97e8-e16cb5d0015e",
+		"title": "ob vmbo gl",
+		"prefix": "3103",
+		"type": ""
+	},
+	{
+		"description": "onderbouw vmbo theoretische leerweg ",
+		"id": "c63858da-23e4-4e1e-8456-b4aa13a6a826",
+		"title": "ob vmbo tl",
+		"prefix": "3104",
+		"type": ""
+	},
+	{
+		"description": "bovenbouw vmbo: leerjaar 3, leerjaar 4",
+		"id": "aced88e1-bb12-42f9-88df-16d7abfda57e",
+		"title": "bb vmbo",
+		"prefix": "3500",
+		"type": ""
+	},
+	{
+		"description": "bovenbouw vmbo beroepsgerichte leerweg",
+		"id": "861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+		"title": "bb vmbo bb",
+		"prefix": "3501",
+		"type": ""
+	},
+	{
+		"description": "bovenbouw vmbo kaderberoeps leerweg",
+		"id": "8574855d-0670-42bf-9f73-dc6706278b8b",
+		"title": "bb vmbo kb",
+		"prefix": "3502",
+		"type": ""
+	},
+	{
+		"description": "bovenbouw vmbo gemengde leerweg",
+		"id": "64852857-b601-419f-9cbb-e1335a185303",
+		"title": "bb vmbo gl",
+		"prefix": "3503",
+		"type": ""
+	},
+	{
+		"description": "bovenbouw vmbo theoretische leerweg",
+		"id": "8450c011-f812-4f89-97a9-6b8820baffc5",
+		"title": "bb vmbo tl",
+		"prefix": "3504",
+		"type": ""
+	},
+	{
+		"id": "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+		"prefix": "4100",
+		"title": "ob vo",
+		"description": "Onderbouw voortgezet onderwijs",
+		"type": ""
+	},
+	{
+		"description": "onderbouw havo: leerjaar 1, leerjaar 2, leerjaar 3",
+		"id": "5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+		"title": "ob havo",
+		"prefix": "4107",
+		"type": ""
+	},
+	{
+		"description": "onderbouw vwo: leerjaar 1, leerjaar 2, leerjaar 3",
+		"id": "b5a4f104-fb2d-4c71-8f36-702d9567a752",
+		"title": "ob vwo",
+		"prefix": "4150",
+		"type": ""
+	},
+	{
+		"id": "7835ae8e-0923-4a60-aadd-251b9c0b99b5",
+		"title": "3 h/v",
+		"prefix": "4160",
+		"description": "3 havo/vwo (leerjaar 3 is onderdeel van onderbouw vo, maar alleen voor havo en vwo)",
+		"type": ""
+	},
+	{
+		"description": "hoger algemeen voortgezet onderwijs",
+		"id": "a3ddbe60-8478-4204-b769-6f5e9f4cbca2",
+		"prefix": "4200",
+		"title": "havo",
+		"type": ""
+	},
+	{
+		"description": "havo, leerjaar 1",
+		"id": "78f5cabe-6649-4dc3-84bf-36d82c6c2d31",
+		"prefix": "4201",
+		"title": "havo 1",
+		"type": "leerjaar"
+	},
+	{
+		"description": "havo, leerjaar 2",
+		"id": "eaa0c07f-193e-4be5-8dc6-a00bbfc7a446",
+		"prefix": "4202",
+		"title": "havo 2",
+		"type": "leerjaar"
+	},
+	{
+		"description": "havo, leerjaar 3",
+		"id": "af3ecd88-a654-4458-9c5b-1e1f7d09f463",
+		"prefix": "4203",
+		"title": "havo 3",
+		"type": "leerjaar"
+	},
+	{
+		"description": "havo, leerjaar 4",
+		"id": "70af3752-c6ad-43d9-aa0c-9ff099931f8a",
+		"prefix": "4204",
+		"title": "havo 4",
+		"type": "leerjaar"
+	},
+	{
+		"description": "havo, leerjaar 5",
+		"id": "cb61531d-61eb-4412-a52f-ca065ca37e39",
+		"prefix": "4205",
+		"title": "havo 5",
+		"type": "leerjaar"
+	},
+	{
+		"description": "voorbereidend wetenschappelijk onderwijs",
+		"id": "ad9872e5-edc4-4a62-9ee7-ba7daceba2e0",
+		"prefix": "4500",
+		"title": "vwo",
 		"type": ""
 	},
 	{
@@ -572,6 +502,48 @@
 		"id": "85d15c83-e2b4-4359-8475-a355591aaa1a",
 		"prefix": "4506",
 		"type": "leerjaar"
+	},
+	{
+		"description": "bovenbouw havo: leerjaar 4, leerjaar 5",
+		"id": "6dc8e1f2-a929-418f-b4e5-6be1204639da",
+		"title": "bb havo",
+		"prefix": "4600",
+		"type": ""
+	},
+	{
+		"description": "bovenbouw vwo: leerjaar 4, leerjaar 5, leerjaar 6",
+		"id": "caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+		"title": "bb vwo",
+		"prefix": "4700",
+		"type": ""
+	},
+	{
+		"title": "volwasseneneducatie niveau 1",
+		"description": "volwasseneneducatie, niveau 1",
+		"id": "6219cc2d-2545-4893-84a0-30395794f2f4",
+		"prefix": "5001",
+		"type": ""
+	},
+	{
+		"title": "volwasseneneducatie niveau 2",
+		"description": "volwasseneneducatie, niveau 2",
+		"id": "e0a398b0-838b-409e-807a-f0f587dfd7c7",
+		"prefix": "5002",
+		"type": ""
+	},
+	{
+		"title": "volwasseneneducatie niveau 3",
+		"description": "volwasseneneducatie, niveau 3",
+		"id": "de5e9d28-7c80-4167-8d34-74520a55c27d",
+		"prefix": "5003",
+		"type": ""
+	},
+	{
+		"title": "volwasseneneducatie niveau 4",
+		"description": "volwasseneneducatie, niveau 4",
+		"id": "655a4e1f-c9cf-464b-868e-f8aa2c813b89",
+		"prefix": "5004",
+		"type": ""
 	},
 	{
 		"description": "Referentiekader taal en rekenen,  fundamenteel niveau 1",
@@ -630,17 +602,24 @@
 		"type": ""
 	},
 	{
-		"id": "35715b0c-ad0c-46ab-ab1a-1387bb046486",
-		"prefix": "4100",
-		"title": "ob vo",
-		"description": "Onderbouw voortgezet onderwijs",
-		"type": ""
-	},
-	{
 		"id": "677c431e-7ac6-438f-8204-aea78aef7025",
 		"title": "pre A1",
 		"description": "europees referentiekader pre A1 moderne vreemde talen",
 		"prefix": "7101",
+		"type": ""
+	},
+	{
+		"description": "europees referentiekader A1 moderne vreemde talen",
+		"id": "ebf1cc90-05cb-4976-9561-dfb2041ca264",
+		"prefix": "7102",
+		"title": "A1",
+		"type": ""
+	},
+	{
+		"description": "europees referentiekader A2 moderne vreemde talen",
+		"id": "1d5d9624-055f-42ed-bc39-06b183ecb40b",
+		"prefix": "7103",
+		"title": "A2",
 		"type": ""
 	},
 	{
@@ -651,10 +630,24 @@
 		"type": ""
 	},
 	{
+		"description": "europees referentiekader B1 moderne vreemde talen",
+		"id": "a94b005d-9697-49f6-897a-0ad6516044f9",
+		"prefix": "7105",
+		"title": "B1",
+		"type": ""
+	},
+	{
 		"id": "a0f545f9-a077-49fd-ab13-ef3533430ee6",
 		"title": "B1+",
 		"description": "europees referentiekader B1+ moderne vreemde talen",
 		"prefix": "7106",
+		"type": ""
+	},
+	{
+		"description": "europees referentiekader B2 moderne vreemde talen",
+		"id": "f7920461-e732-4767-b855-87783a05c76a",
+		"prefix": "7107",
+		"title": "B2",
 		"type": ""
 	},
 	{
@@ -665,10 +658,17 @@
 		"type": ""
 	},
 	{
-		"id": "7835ae8e-0923-4a60-aadd-251b9c0b99b5",
-		"title": "3 h/v",
-		"prefix": "4160",
-		"description": "3 havo/vwo (leerjaar 3 is onderdeel van onderbouw vo, maar alleen voor havo en vwo)",
+		"description": "europees referentiekader C1 moderne vreemde talen",
+		"id": "50fd5672-94d8-4445-b988-bb198f5515f4",
+		"prefix": "7109",
+		"title": "C1",
+		"type": ""
+	},
+	{
+		"description": "europees referentiekader C2 moderne vreemde talen",
+		"id": "2208c586-9043-47c1-b66b-536a50577725",
+		"prefix": "7110",
+		"title": "C2",
 		"type": ""
 	}
 ]
