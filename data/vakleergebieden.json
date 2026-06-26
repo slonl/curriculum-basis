@@ -158,7 +158,10 @@
 	{
 		"prefix": "fg",
 		"id": "58fe0010-9685-4dae-ba70-2e47d94ad844",
-		"title": "Fysische geografie"
+		"title": "Fysische geografie",
+		"niveau_id": [
+			"2a1401e9-c223-493b-9b86-78f6993b1a8d"
+		]
 	},
 	{
 		"id": "1c445505-16f2-4d3f-b6cf-8623ca317140",
@@ -217,12 +220,18 @@
 		"id": "21e34b16-1187-4ebb-967e-ae309993cb58",
 		"prefix": "kbnt",
 		"title": "Kennisbasis natuurwetenschappen en technologie",
-		"description": ""
+		"description": "",
+		"niveau_id": [
+			"2a1401e9-c223-493b-9b86-78f6993b1a8d"
+		]
 	},
 	{
 		"prefix": "kcv",
 		"id": "ef872885-1953-4008-9dcc-32281274446a",
-		"title": "Klassieke culturele vorming"
+		"title": "Klassieke culturele vorming",
+		"niveau_id": [
+			"2a1401e9-c223-493b-9b86-78f6993b1a8d"
+		]
 	},
 	{
 		"id": "cef3bf40-8f21-4eea-8ce5-b3360b21023e",
@@ -489,7 +498,10 @@
 	{
 		"prefix": "te",
 		"id": "70d7c26b-9e49-481a-b40b-188e2d538943",
-		"title": "Technologie"
+		"title": "Technologie",
+		"niveau_id": [
+			"2a1401e9-c223-493b-9b86-78f6993b1a8d"
+		]
 	},
 	{
 		"id": "107fbf5f-475d-40b9-a9bc-08c9b6e38182",
@@ -776,6 +788,9 @@
 		"description": "",
 		"replaces": [
 			"c0f3b769-606e-488a-aeb1-405bf46df24a"
+		],
+		"niveau_id": [
+			"2a1401e9-c223-493b-9b86-78f6993b1a8d"
 		]
 	},
 	{
@@ -974,6 +989,9 @@
 		"description": "",
 		"replaces": [
 			"fec0f646-78c9-47ec-ad2e-ebbc0c2345d6"
+		],
+		"niveau_id": [
+			"2a1401e9-c223-493b-9b86-78f6993b1a8d"
 		]
 	},
 	{
@@ -983,6 +1001,9 @@
 		"description": "",
 		"replaces": [
 			"953167a9-cb14-47e3-8446-a708a4e077b9"
+		],
+		"niveau_id": [
+			"2a1401e9-c223-493b-9b86-78f6993b1a8d"
 		]
 	},
 	{
@@ -992,13 +1013,19 @@
 		"description": "",
 		"replaces": [
 			"99fa52fd-5d20-446a-a34c-61a6be77b413"
+		],
+		"niveau_id": [
+			"2a1401e9-c223-493b-9b86-78f6993b1a8d"
 		]
 	},
 	{
 		"id": "18a4aa0c-3bd2-445e-a19e-c142f0cd3de4",
 		"prefix": "O&O",
 		"title": "Onderzoek & ontwerpen",
-		"description": ""
+		"description": "",
+		"niveau_id": [
+			"2a1401e9-c223-493b-9b86-78f6993b1a8d"
+		]
 	},
 	{
 		"title": "Burgerschap",
