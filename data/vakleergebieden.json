@@ -41,16 +41,6 @@
 		]
 	},
 	{
-		"id": "18361045-bd2b-4c50-9267-cd24dc3498bb",
-		"prefix": "bsm",
-		"title": "bewegen, sport en maatschappij",
-		"description": "",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
 		"id": "41dd7292-3cce-411b-8097-11db8c875a89",
 		"prefix": "bio",
 		"title": "biologie",
@@ -91,16 +81,6 @@
 		"description": "",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725"
-		]
-	},
-	{
-		"id": "a70b035e-2c79-4b7d-81de-03678354cdc1",
-		"prefix": "ckv",
-		"title": "culturele en kunstzinnige vorming",
-		"description": "",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -284,16 +264,6 @@
 		"description": "",
 		"niveau_id": [
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"id": "4c78ac37-1937-4cc4-86e4-aa3192ef44db",
-		"prefix": "lo",
-		"title": "lichamelijke opvoeding",
-		"description": "",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
@@ -786,36 +756,6 @@
 		"prefix": "vodb"
 	},
 	{
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"id": "b608d97d-2846-4216-a3ea-925ab70cff17",
-		"title": "beeldende vorming",
-		"prefix": "Bv",
-		"description": ""
-	},
-	{
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"id": "926f1084-fb32-47ee-be2b-13b5dbb6ee36",
-		"title": "drama",
-		"prefix": "Dr",
-		"description": ""
-	},
-	{
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"id": "39ae089f-d9e4-47c5-bd78-f40432efb958",
-		"title": "dans",
-		"prefix": "Da",
-		"description": ""
-	},
-	{
 		"id": "caa85a8e-33e3-4b80-9e66-c5c1bd2d89f8",
 		"prefix": "21ev",
 		"title": "21e eeuwse vaardigheden",
@@ -1019,18 +959,6 @@
 			"8450c011-f812-4f89-97a9-6b8820baffc5",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"id": "be10bbec-59a9-46a3-8061-43edfce17a76",
-		"prefix": "muz",
-		"title": "muziek",
-		"description": "",
-		"replaces": [
-			"fec0f646-78c9-47ec-ad2e-ebbc0c2345d6"
-		],
-		"niveau_id": [
-			"2a1401e9-c223-493b-9b86-78f6993b1a8d"
 		]
 	},
 	{
@@ -1346,6 +1274,131 @@
 		"prefix": "wit",
 		"id": "7d78a710-edfb-412a-84b5-bd23913dcc9b",
 		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
+	},
+	{
+		"title": "film",
+		"prefix": "kf",
+		"id": "5aaec41a-80ac-45a2-b06a-480aa811d0d2",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
+	},
+	{
+		"title": "geschiedenis",
+		"description": "geschiedenis",
+		"id": "cde8fdb1-681b-458b-beaf-9e451fc490cf"
+	},
+	{
+		"id": "4870286a-83c7-4d9e-b78e-e3f4f285fef2",
+		"prefix": "bsm",
+		"title": "bewegen, sport en maatschappij",
+		"description": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"18361045-bd2b-4c50-9267-cd24dc3498bb"
+		]
+	},
+	{
+		"id": "973f0028-14ef-45f6-a96e-d42e6777365e",
+		"prefix": "ckv",
+		"title": "culturele en kunstzinnige vorming",
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"a70b035e-2c79-4b7d-81de-03678354cdc1"
+		]
+	},
+	{
+		"id": "5a55333b-f763-48b2-9b72-7329c99811c1",
+		"prefix": "lo",
+		"title": "lichamelijke opvoeding",
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"4c78ac37-1937-4cc4-86e4-aa3192ef44db"
+		]
+	},
+	{
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "66a5c143-5008-4a29-abcc-9f75f91417e7",
+		"title": "beeldend",
+		"prefix": "kb",
+		"replaces": [
+			"b608d97d-2846-4216-a3ea-925ab70cff17"
+		]
+	},
+	{
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "6d063644-7b24-4725-b3f8-13b13b28d4cc",
+		"title": "theater",
+		"prefix": "kt",
+		"description": "",
+		"replaces": [
+			"926f1084-fb32-47ee-be2b-13b5dbb6ee36"
+		]
+	},
+	{
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "b3b16270-0290-424e-8666-99d9b0a72fbe",
+		"title": "dans",
+		"prefix": "kd",
+		"description": "",
+		"replaces": [
+			"39ae089f-d9e4-47c5-bd78-f40432efb958"
+		]
+	},
+	{
+		"id": "0b63e067-462e-4d5f-8d3b-1706ff57c555",
+		"prefix": "km",
+		"title": "muziek",
+		"description": "",
+		"replaces": [
+			"fec0f646-78c9-47ec-ad2e-ebbc0c2345d6",
+			"be10bbec-59a9-46a3-8061-43edfce17a76"
+		],
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]

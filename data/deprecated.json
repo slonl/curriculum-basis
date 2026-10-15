@@ -446997,5 +446997,119 @@
 		"types": [
 			"vakleergebied"
 		]
+	},
+	{
+		"id": "18361045-bd2b-4c50-9267-cd24dc3498bb",
+		"prefix": "bsm",
+		"title": "bewegen, sport en maatschappij",
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"4870286a-83c7-4d9e-b78e-e3f4f285fef2"
+		],
+		"types": [
+			"vakleergebied"
+		]
+	},
+	{
+		"id": "a70b035e-2c79-4b7d-81de-03678354cdc1",
+		"prefix": "ckv",
+		"title": "culturele en kunstzinnige vorming",
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"973f0028-14ef-45f6-a96e-d42e6777365e"
+		],
+		"types": [
+			"vakleergebied"
+		]
+	},
+	{
+		"id": "4c78ac37-1937-4cc4-86e4-aa3192ef44db",
+		"prefix": "lo",
+		"title": "lichamelijke opvoeding",
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"5a55333b-f763-48b2-9b72-7329c99811c1"
+		],
+		"types": [
+			"vakleergebied"
+		]
+	},
+	{
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"id": "b608d97d-2846-4216-a3ea-925ab70cff17",
+		"title": "beeldende vorming",
+		"prefix": "Bv",
+		"description": "",
+		"replacedBy": [
+			"66a5c143-5008-4a29-abcc-9f75f91417e7"
+		],
+		"types": [
+			"vakleergebied"
+		]
+	},
+	{
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"id": "926f1084-fb32-47ee-be2b-13b5dbb6ee36",
+		"title": "drama",
+		"prefix": "Dr",
+		"description": "",
+		"replacedBy": [
+			"6d063644-7b24-4725-b3f8-13b13b28d4cc"
+		],
+		"types": [
+			"vakleergebied"
+		]
+	},
+	{
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"id": "39ae089f-d9e4-47c5-bd78-f40432efb958",
+		"title": "dans",
+		"prefix": "Da",
+		"description": "",
+		"replacedBy": [
+			"b3b16270-0290-424e-8666-99d9b0a72fbe"
+		],
+		"types": [
+			"vakleergebied"
+		]
+	},
+	{
+		"id": "be10bbec-59a9-46a3-8061-43edfce17a76",
+		"prefix": "muz",
+		"title": "muziek",
+		"description": "",
+		"replaces": [
+			"fec0f646-78c9-47ec-ad2e-ebbc0c2345d6"
+		],
+		"niveau_id": [
+			"2a1401e9-c223-493b-9b86-78f6993b1a8d"
+		],
+		"replacedBy": [
+			"0b63e067-462e-4d5f-8d3b-1706ff57c555"
+		],
+		"types": [
+			"vakleergebied"
+		]
 	}
 ]
